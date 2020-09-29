@@ -1,0 +1,92 @@
+---
+title: "Syllabus"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+ html_document:
+  toc: true
+  toc_float: true
+  toc_depth: 4
+---
+
+# Syllabus | Fall 2020
+
+General Psychology [Canvas at North Seattle](https://canvas.northseattle.edu/https://canvas.northseattle.edu/)
+
+## COURSE DESCRIPTION
+
+This is the syllabus for a class at the University of Mary Washington where students – mainly students who Major in Communication and Digital Studies or Minor in Digital Studies – build on ideas you've encountered in Digital Studies 101 by applying those tools, skills, and insights in a way that matters.
+
+Whereas DGST 101 is a wide, shallow approach to digital culture, creativity and methodology, DGST 395 is a deep dive into a project that students design, complete, and evaluate.
+
+A class is a process, an independent organism with its own goals and dynamics. It is always something more than even the most imaginative lesson plan can predict. ~ Thomas P. Kasulis
+
+## REQUIRED TEXTS
+
+There is not a traditional textbook for this course. We will do some reading and watch a few things, but the course will center around what we build and our discussions about what we uncover.
+
+You will need to rent (or find) several films throughout the term. There may be a small rental charge for these.
+The Internet (the rest of our readings will be available openly online)
+
+COURSE OBJECTIVES
+Nothing in this syllabus will be set in stone or taken for granted. The instructions and outcomes laid out here are a beginning, something we’ll treat roughly as the course proceeds. This is not a map, but rather a direction in which we’ll point ourselves at the outset with the goal of vigorously rewriting the syllabus as we go, discovering what we’ll learn together as we learn it, questioning what we’ll do even as we begin to do it.
+
+In this course we will:
+
+Discover how to analyze, critique, and respond to contemporary digital culture.
+Work with computer programming in order to express ideas, explore questions, and investigate problems.
+Plan, manage, and evaluate a long-term digital project.
+Share our work and make it meaningful beyond the audience of this class and this University.
+Have epiphanies.
+OFFICE HOURS
+I will be holding virtual office hours throughout the Spring 2019. You can make an appointment with me by clicking here. My virtual office hours will take place via Zoom. You can get to my dedicated Zoom room at zoom.us/my/jessifer. I’ve set aside these hours for you, so don’t worry about interrupting me, and definitely don’t worry if you want to talk about something “off topic,” or if you aren’t sure exactly what you want to touch base about.
+
+There will also be opportunities to work with me face-to-face on campus, both during our class sessions and at other scheduled times. Watch the schedule for updates.
+
+THE WORK OF THE COURSE
+This course will be as much about breaking stuff as it is about building stuff. This is a hybrid class, so we will be meeting in person and also having discussions online via Slack. You will also need to set up a free domain through Domain of One’s Own. (If you already have a domain, you can make a subdomain for our class.)
+
+• Participation. This is a collaborative course, focusing on discussion and work in groups. The class will be a cooperative learning experience, a true intellectual community. And so, you and your work are, in a very real sense, the primary texts for this course. In order for us to work together as a community, we’ll all have to find ways to be “present” in the various places our course lives (in person, Slack, the rest of the Web). If you can’t finish work for any reason, chat with me in advance.
+
+• Other activities. Each week, the course schedule will walk you through the various activities of the week, including information about the when and where of our various in-person sessions. Watch our schedule page and Slack for updates as we proceed.
+
+• Major digital project. Throughout the semester, you will work on a single digital project (on your own or in a group). We will be determining the parameters for this project together during our first class sessions.
+
+COLLABORATION
+You may collaborate with your peers on assignments you complete for this course. If you have questions about the various ways collaboration can work, feel free to chat with me at any point.
+
+DIGITAL KNOWLEDGE CENTER
+If you run into technical difficulties at any point, visit the DKC. The Digital Knowledge Center provides peer tutoring to UMW students on digital projects and assignments. Students can schedule one-on-one or small group tutorials with a trained peer tutor on a variety of subjects relating to common systems, technologies, and tools used in courses at UMW. When a tutor is available, the Center also provides walk-in assistance. The Center is located in room 408 of the Hurley Convergence Center. Visit dkc.umw.edu for more info. or to make an appointment.
+
+ASSESSMENT
+This course will focus on qualitative not quantitative assessment, something we’ll discuss during the class, both with reference to your own work and the works we’re studying. While you will get a final grade at the end of the term, I will not be grading individual assignments, but rather asking questions and making comments that engage your work rather than simply evaluate it. You will also be reflecting carefully on your own work and the work of your peers. The intention here is to help you focus on working in a more organic way, as opposed to working as you think you’re expected to. If this process causes more anxiety than it alleviates, see me at any point to confer about your progress in the course to date. If you are worried about your grade, your best strategy should be to join the discussions, do the reading, and complete the assignments. You should consider this course a “busy-work-free zone.” If an assignment does not feel productive, we can find ways to modify, remix, or repurpose the instructions.
+
+COMMUNITY
+A good amount of the work for this course will be done independently or with a small group, as you'll each be working on a major digital project. Think of the rest of your peers as an audience for your work, as well as a source for feedback and encouragement. If you run into snags, feel free to draw on the expertise of your peers. This class will be as much about you teaching yourselves and each other as it is about me teaching you.
+
+Our classroom: We will be meeting in the digital auditorium regularly throughout the semester (but not every week) on Mondays from 6-8:45. This will be a chance for us to experiment, discuss, and get feedback on our work. We will generally work together in the digital auditorium during the first half of these sessions and then spread out across the building for the second half to work on our own (or with a group) on the major digital project for the course. This will also be a chance for me to offer individual feedback and support.
+
+Slack: You should create a Slack account at our class’s domain digitalstudies395.slack.com as early as possible. The mobile app is particularly handy.
+
+#dgst395: Whenever you blog, tweet, tumblr, facebook or instagram anything related to class, use the hashtag #dgst395 to contribute to our distributed conversation.
+
+PUBLIC WORK
+Much of your work for this course will live publicly on the web within open platforms like Twitter and on your own personal domain. If you would like to remain anonymous, I encourage you to use a pseudonym. Think carefully about these choices. We will discuss issues related to privacy and the open web extensively during this class.
+
+UMW HONOR SYSTEM
+You can find extensive details about the UMW Honor System here.
+
+DISABILITY ACCOMMODATIONS
+UMW’s Office of Disability Resources guides, counsels, and assists students with disabilities. If you have already met with the Office of Disability Resources and require accommodations for this class, feel free to chat with me about any modifications we can make to help your learning. I will hold any information you share with me in the strictest confidence unless you give me permission to do otherwise. If you would like to reach out to the Office of Disability Resources, click here or call 540–654–1266.
+
+TITLE IX
+University of Mary Washington faculty are committed to supporting students and upholding the University’s Policy on Sexual and Gender Based Harassment and Other Forms of Interpersonal Violence. Click here for resources or contact the Talley Center for Counselling Services, 540–654–1053.
+
+BASIC NEEDS SECURITY
+Any student who faces challenges securing their food or housing and believes this may affect their learning in this course is urged to contact the Dean of Students for support. And also let me know if you are comfortable doing so, because there may be ways I can help.
+
+PLAGIARISM
+Authorship is a hotly contested topic in the academy. At what point do we own the words we say and write or the images we create? In literature and digital media, creative influence, collaboration, and borrowing are usually acceptable (even encouraged). So, what sort of statement or warning about plagiarism would be appropriate in this class? Let me go out on a limb and say: in this class, I encourage you to borrow ideas (from me, from the authors we read, from the films we watch, from your classmates). But, even more, I encourage you to truly make them your own — by playing with, manipulating, applying, and otherwise turning them on their head. In the end, it’s just downright boring to rest on the laurels of others. It’s altogether more daring (and, frankly, more fun) to invent something new yourself — a new idea, a new way of thinking, a new claim, a new image. This doesn’t give you license to copy something in its entirety and slap your name on it. That’s just stealing. Instead, think very consciously about how you’re influenced by your sources — by the way knowledge and creativity depend on a sort of inheritance. And think also about the real responsibility you have to those sources.
+
+TEACHING PHILOSOPHY
+Critical thinking is like eating, something lively and voracious, something that drips and reels. It isn’t (and can’t be) virtual. And yet, somewhat paradoxically, we must increasingly find ways for this work to happen online. We must bring our subjects to life for both ourselves and our digital counterparts. Learning must fire every neuron — must touch us at the highest levels of consciousness and at the cellular level. No matter where it happens, this is what learning must do. It must evolve — and revolt.
