@@ -1,0 +1,118 @@
+---
+title: "Walk through of deeper thinking"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+css: style.css
+output: slidy_presentation
+---
+# Pattern of presentation
+```{r packages, echo=F}
+library(tweetrmd)
+```
+
+```{block type='blueBackground'}
+Abstract Content
+```
+
+
+```{block type='greenBackground'}
+Concrete Content
+```
+
+
+# Broad ideas for this presentation
+
+```{block type='blueBackground'}
+Abstract
+
+In one of the videos on philosophy, I make reference to a philosophical concept called epistemology. Practically, this is the study of how we know what we know. It's reflective. And that's a really important point in the abstract and in practice. 
+```
+
+```{block type='greenBackground'}
+Concrete
+
+One concrete example in psychology that speaks to epistemology is something called the "confirmation bias”. This is a human bias where we have a tendency to look for evidence that proves our beliefs true without looking for evidence that proves our beliefs false.
+
+Certainly this is not the only concrete concept on epistemology.  But it's a good one to avoid.  
+```
+
+# 
+```{block, type='blueBackground'}
+Abstract:
+
+There is a long history of philosophical thought on epistemology. In fact anybody who gets a PhD in any discipline would at least get a semester's worth of information about the philosophy of science --a subtype of epistemology. (phd stands for doctorate of **philosophy**)
+
+The epistemology video I had you watch makes a very blunt distinction between empirical ways of knowing versus idealistic ways of knowing. It's prudent to do both. But even then, some empirical methods are not useful, as well as in some situations ideal ways of knowing are not useful.
+```
+
+
+```{block, type= 'greenBackground'}
+Concrete:
+
+Some Concrete examples to help us think? 
+
+* Use critical thinking as outlined in the syllabus; 
+* Be aware of logical fallacies (syllabus);
+* Avoid the confirmation bias by actively searching for evidence that disproves your belief
+```
+
+# A light example: Online argument leads to name  
+
+As it happens, online discussions often devolve into name calling. 
+
+When I was a teenager my dad told me about a concept that he learned being called " the Peter Principle " . the idea is that a person will be promoted into the highest level that demonstrates their incompetence.
+
+I actually don't know if that's the correct term, but the concept is what is important. If you presume that everybody is going to have limitations at some point through no fault of their own, the harder they work, the better they use their personal attributes to do good things, somebody will recognize those efforts and promote them. Maybe into a managerial job. 
+
+And as long as this person is capable everybody's happy. 
+
+But eventually through hard work and apt application of their abilities, at some point they will be promoted into a position they are completely incapable of performing.
+
+# Back to the online argument. 
+
+Relatively recently, a cognitive bias was discovered call the [Dunning-Kruger bias](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect). This bias is commonly misused. The way that it is misused is people claim that stupid people think they're smarter or more competent than experts.  In actuality, this Dunning-Kruger bias is when an individual overestimates their ability relative to **themselves**. There are other bias' where people think that they are better than others. 
+
+From that Wikipedia article:  "Without the self-awareness of meta cognition, people cannot objectively evaluate their competence or incompetence."
+
+```{block,type='sidenote'}
+Here is a meta comment for our class: this example above is what's called in the movie industry "foreshadowing"
+```
+
+Another example: if you [randomly--search your book for the term](https://openstax.org/books/psychology-2e/pages/2-3-analyzing-findings) you ask a thousand people if they are above average in their driving ability, it turns out a [large majority of that sample will say that they are better than average](https://www.businessinsider.com/americans-are-overconfident-in-their-driving-skills-2018-1). 
+
+This effect may be better explained by something called the [illusory superiority](https://en.wikipedia.org/wiki/Illusory_superiority) effect, and by the way, try to say "illusory superiority" 10 times fast.
+
+# For instance when it comes to vaccinations..
+
+There is a small number of very vocal people who claim that vaccinations, say for the flu, or measles, mumps, rubella (MMR), are dangerous. They often challenge epidemiologists, who by the way have spent at least a decade preparing to be doctors who study pandemics, for a living, on the grounds that they know somebody first hand who got a flu shot and then the next day had serious complications.
+
+The epidemiologist says that flu vaccines are safe for the vast majority of the human population.
+
+# Ultimately, we want to be able to answer the question: Who's right?
+
+But maybe we're not ready to answer that question yet. Maybe we need to first establish what constitutes good thinking. Maybe we need to think about what is good evidence or maybe not-so-good evidence. What is a good definition of Dogma? Where does one have trust in the system of knowledge?
+
+# Self reflective thinking is evolutionarily recent
+
+This style of thinking is something that humans have been capable of for centuries, if not thousands of years. But it began to have significant influence over our lives during the Age of Enlightenment kicked into full gear. This would have been the end of the 1600 and the 1700s.  
+
+But something to keep in mind, is that human beings have been evolving for much larger magnitudes of time.  The ability to think critically, to have self reflective thought, is relatively recent. The consequence, I believe, is that critical, self-reflective, thinking is not natural to us. 
+
+We are much more likely to make decisions based on our emotional organization… **unless we practice.**
+
+A more recent version of this style of thinking has been popularized by an influencer who built a podcast around the question: "wait, but why?"
+
+# So throwing this back to you as the Thinker, where do you begin? 
+
+I will leave you with this:
+
+Get in the habit I've asking yourself some questions (and find new questions to add to this list): 
+
+* How do I know this thing that I believe? 
+* How does context influence what we know?
+* What evidence would prove me wrong?
+* What comparison groups are important?
+
+Does context matter in the sciences?  If you think not, check out this twitter thread by a very witty statistician, Kareem Carr:
+
+`r include_tweet("https://twitter.com/kareem_carr/status/1289724475609501697")`
