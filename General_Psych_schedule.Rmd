@@ -177,7 +177,7 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 
 ## Do the following
 
-1. write a syntehsis of the 3 sources above.  You may want to consider comment about whether you think knowledge is static. 
+1. write a synthesis of the 3 sources above.  You may want to consider comment about whether you think knowledge is static. 
 2. Save your work so that 'everyone with the link' can view it, on cloud based source. 
 
 3. Share your work on slack by linking to it in the slack channel # week 2 synthesis on science
@@ -192,6 +192,19 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 ## Do the following
 
 # Appendix
+
+## Critical Thinking
+
+The closest thing to a rubric we may have in my class is a list of critical thinking attributes. You can find them in the [syllabus here] (https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}. 
+
+Though the critical thinking attributes are found there, I don't spend a lot of time talking about critical thinking attitude, but they would include things like patients, humility, curiosity, etc.  They are just as important but not something I focus on in this class.
+
+### Some Intro videos on Critical thinking
+
+Here is a simple [Introduction to critical thinking, broadly](https://youtu.be/3CkLAMLTkmI){target='_blank'}
+
+It doesn't go into detail about the critical thinking standards found in the syllabus; maybe a video on that will come later.  
+
 
 ## Using the library {#useLibrary} 
 
