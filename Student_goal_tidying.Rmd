@@ -1,0 +1,66 @@
+---
+title: "Student_goal_cleaning"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+   css: style.css
+   toc: true
+   toc_float: true
+   toc_depth: 6
+   number_sections: false    # if true, section labels render
+   config:
+      toc:
+        scroll_highlight: yes
+        before: |
+          <li><a href="./">Cleaning raw text</a></li>
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+      toolbar:
+        position: fixed
+  #    download: [ "epub"]  #Not sure how to set up for epub yet
+      search: yes
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
+description: "moving to content of raw text from students"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Read separate sheets from this link 
+
+
+
+```{r, read sheet}
+library(googlesheets4)
+library(googledrive)
+googledrive::drive_auth(email='bholt@northseattle.edu')
+
+
+goals <-  'https://docs.google.com/spreadsheets/d/1nRM14XKDuq8XVBCB1Rdye3xwj9_oDqxnAXctTGyikgQ' 
+
+#gs4_auth(goals)
+# Count sheets  ?
+
+classA<- read_sheet(ss=goal_sheet,sheet=1)
+classB<- read_sheet(ss=goal_sheet,sheet=2)
+classC<- read_sheet(ss=goal_sheet,sheet=3)
+```
+I'm expecting a list, but it could be a dataframe 
+
+# in the text content, remove numbers larger than 4 digits. 
+
+I am picking the number for because anything larger than that may start to resemble a student ID number, and although I'm sure there isn't any, I just want to make sure.
+
+## So first count the number of times there are numbers larger than 4 digits
+
+# Strip out gender reference in student name
+
+Or at least put it into a new column
+
+
+# Remove filler words like "and"
