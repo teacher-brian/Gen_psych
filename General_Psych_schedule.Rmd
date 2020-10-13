@@ -56,7 +56,7 @@ The reason you're writing every week is to provide yourself a track record of wr
 
 ##### don't use Canvas as email
 
-##### Use disucssion boards in slack
+##### Use discussion boards in slack
 
 First of all, you may have some questions about Slack.
 
@@ -73,7 +73,11 @@ Once you have signed up for slack, spend some time filling out your profile make
  
 The last thing about slack is that when it comes to sharing documents, you may need to add permissions for slack to interact with your word processing program. For instance I use Google Docs a lot and I have already added Google Docs as an app that is recognized by Slack.  Let me know which word processing program you use oh, it has to be a cloud-based, and I think I can add that to slack.  So far I've added Google Docs and Microsoft onedrive (both, I believe are free to use by North Seattle students.)
 
-##### Canvas will be used lightly.  First week disucssions and introductions, a place to find this schedule, and a way for me to quickly send annoucements. 
+#### Tips for using Slack
+
+[Slack tips, will need to sing in to canvas for this video](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ba5dc535-de92-40c7-9460-ac5301350a62){target='_blank'}
+
+##### Canvas will be used lightly.  First week discussions and introductions, a place to find this schedule, and a way for me to quickly send announcements. 
 
 ## Access to OneDrive and email for students
 
@@ -365,7 +369,7 @@ So, download them all!
 
 ##### Here's the main point:  
 
-I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, wikipedia, google, google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, google, google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
 
 Let's use that @efran_defining_2007 article.  
 
