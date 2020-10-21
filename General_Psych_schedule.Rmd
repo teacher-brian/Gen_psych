@@ -85,7 +85,7 @@ I'm a fan of gmail and google drive, but as a fee-paying student in the Seattle 
 
 When you write a paper, you can write it directly into the word application in OneDrive, or you could write your paper on your home computer, and then as necessary upload into oneDrive.  
 
-### Video Logging into and using oneDrive, Gmail
+### Videos:  How to Log into and using oneDrive, Gmail
 
 #### [Video how to log in to OneDrive--stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f92016e6-6dc6-4daa-a90c-ac4d013607a6){target='_blank'}
 
@@ -252,6 +252,8 @@ E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pa
 ## Do, Watch, and Read the following
 
 A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences that explains how the environment causes the behavior. Said another way, explain what is happening in the enviornment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+
+    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake 
 
 B. Read [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
 
