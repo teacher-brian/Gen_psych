@@ -253,7 +253,7 @@ E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pa
 
 ## Do, Watch, and Read the following
 
-A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences that explains how the environment causes the behavior. Said another way, explain what is happening in the enviornment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences that explains how the environment causes the behavior. Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
 
     As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake 
 
@@ -271,15 +271,61 @@ F. @Naik_2001 [Behaviorism as a theory of personality](http://personalityresearc
 ## Do the following
 
 1. Reassess your understanding from above A.
-2. Is your chosen behavior better expalined by classical conditioning or operant conditioning?  What key feature led you to this choice?
+2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
 3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
-4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How migth you change the **enviorment** so that you eat ~~more, damn~~ I mean less chocolate?
+4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn~~ I mean less chocolate?
 5. Link your writing for #3 and #4 to the Channel #Learning-theory
 6. Comment and try to engage with a few of your classmates on this assignment.
 
 # Week 5 Oct 26  {#Week5} 
 
-## New layer: Cognition
+## New layer of explanation: Cognition background
+
+So this week throws us into the deep end of the pool regarding the way that we think about the world.
+
+Ever since human beings have been writing and probably painting on the inside of caves there has been some quality of activity that we would recognize as “thinking.”
+
+In the 60s when computers began to displace workers in the workplace, collectively across the planet people began to recognize that in some ways human beings have a cognitive ability that might be modeled as a computer. In other words, during the fifties and sixties, Humanity received a new lexicon for describing things like memory, thinking, processing information. 
+
+Our contemporary understanding of long-term memory is *because* we first had a computer part called a hard drive. I'm oversimplifying it a bit, but what I want to impress upon you is that a lot of the concepts that we use to describe thinking came about because we invented computers. Once we had a lexicon about computers we began to use that lexicon to describe humans. It's not a perfect model, but it's taught us a lot about the limits of our cognitive powers.
+
+## Instructions
+
+To begin, and before you start doing more reading, I want you to First Imagine some scenario. I am only asking you think of 1. 
+While you do this imagine that you are able to witness your thoughts from the point of view of  another person, or perhaps a different side of yourself. It might be that you are watching your behavior and the pattern of how your thoughts come about, it might be an auditory exercise where you're able to listen to the words you're saying.  Most of you do this naturally, but some of you might not have a lot of experience in observing your own thoughts.
+
+## Do the following (Part A)
+
+* Think about why you might not ask somebody out on a date?  A lot of the first thoughts that come to your mind will be relatively broad and vague. A good example of this is going to be a fear of rejection. If you think about this particular example, try to think about a specific person that you do not want to ask out on a date, and think about the follow-up thoughts that arise when you say "I'm afraid of being rejected”.
+
+* Or think about somebody you are romantically involved with but are afraid to bring up a topic. I'm not really interested in the topic itself, but what I am interested is to have you write down the obstacles you perceive to be present making this topic difficult.
+
+* Or, if you are not involved in a romantic relationship, think about a difficult conversation with an authority figure. Something you would like to tell them,  But won't because of what you perceive to be obstacles to that conversation. 
+
+Again, you don't have to do all of these, I am asking you to identify 1 of the above and to think about your thoughts. Specifically which thoughts arise and then think about the cascading thoughts that follow.  Asking “so what” might be useful.   For example, “I don't want to ask that person out because I'm afraid they will turn me down.”  So what?  Because rejection means….  So what?   do this a few iterations. 
+
+
+## Do the following (Part B)
+
+### Biases
+
+1. Make a guess as to the number of cognitive biases there are. If you don't know what this means, that's okay. Guess anyway.
+
+2. Go to Wikipedia and look up "list of cognitive biases"
+
+3. Pick 3 of your favorites and describe them in your own words; include a link to them along with a proper reference.  I don't have a preference for which referencing style.  Post your work to the #Biases channel
+
+## Read the following
+
+Read [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"}
+
+## Do the following Part C
+ 
+1. Without using an anecdote, defend this statement: Multitasking is a myth.  When you do this, be mindful of the critical thinking standards.  
+
+2. Link your work to the #multitasking channel
+
+# Week 6  u.c.   Nov 2 {#Week6} 
 
 ## Read the following
 
@@ -289,13 +335,10 @@ B. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/meta
 
 C. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
-
 ## Do the following
 
 1. 
  
-
-# Week 6  u.c.   Nov 2 {#Week6} 
 
 # Week 7  u.c. {#Week7} 
 
