@@ -368,7 +368,9 @@ B. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-
 
 A. [Do the self-reflection quiz](https://forms.gle/fTvysGbvga1tLZzN9){target="_blank"}
 
-B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.   
+B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.  
+
+ * post re-writes to channel:  #re-writes-for-reflection
 
  * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
