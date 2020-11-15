@@ -104,6 +104,21 @@ Please note that if you change the sharing settings, I think Microsoft creates a
 
 #### [How to share a google drive doc -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f8a111c-0346-4935-b556-ac4d013fed06){target='_blank'}
 
+##### If Uploading a .doc(x) to google 
+
+```{block,type='blueBackground'}
+If you upload a word document into google docs, google will not convert it to a google doc format; instead it will maintain it as a .doc(x) file type because some users are just using google drive as a repository to share word docx.
+
+But I can't leave feedback on those formats.
+
+* So, after uploading the docx file, 
+
+* right click the file and choose to 'open as a google doc'.
+
+* Then, share that file with edit capabilities. 
+```
+
+
 #### [How to see google drive revisions -- stored in canvas](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2c3fcd6a-0ee9-4c97-9b71-ac4d013fed6b){target='_blank'}
 
 # Week 1 {#Week1} 
@@ -374,9 +389,17 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
  * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
 
-# Week 8 u.c.   {#Week8} 
+# Week 8 Nov 16   {#Week8} 
 
 ## Developmental
+
+## Read/watch some
+ 
+Piaget Videos
+
+[Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
+
+
 
 # Week 9 u.c.  {#Week9} 
 
@@ -397,7 +420,7 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 ## Critical Thinking
 
-The closest thing to a rubric we may have in my class is a list of critical thinking attributes. You can find them in the [syllabus here] (https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}. 
+The closest thing to a rubric we may have in my class is a list of critical thinking attributes. You can find them in the [syllabus here](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}. 
 
 Though the critical thinking attributes are found there, I don't spend a lot of time talking about critical thinking attitude, but they would include things like patients, humility, curiosity, etc.  They are just as important but not something I focus on in this class.
 
