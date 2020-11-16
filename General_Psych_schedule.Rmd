@@ -391,15 +391,26 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 # Week 8 Nov 16   {#Week8} 
 
-## Developmental
-
 ## Read/watch some
+
+* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){targer='_blank'}
+ 
+* Places to intervene in a system [-@meadows_leverage_1999]  
+   * This is both an easy and difficult read.  It's lengthy.  Give yourself time
  
 Piaget Videos
 
-[Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
+* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
 
+## Do the following
 
+* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a sysmtems approach. 
+
+* From a systems point of view, using some of Meadows [-@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
+
+* Look at your "dragon" posts again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how postive and negative feedback loops help you avoid doing work. 
+
+* Post your paper in the #systems channel. 
 
 # Week 9 u.c.  {#Week9} 
 
