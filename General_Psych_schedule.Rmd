@@ -393,10 +393,13 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 ## Read/watch some
 
-* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){targer='_blank'}
+* [william Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
+
+* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
  
 * Places to intervene in a system [-@meadows_leverage_1999]  
    * This is both an easy and difficult read.  It's lengthy.  Give yourself time
+   * [Class video as an intro](){target='_blank'}
  
 Piaget Videos
 
