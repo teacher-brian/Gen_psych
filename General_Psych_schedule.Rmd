@@ -393,10 +393,13 @@ B. Post a re-write of one [or two] of your past written assignments.  Please cho
 
 ## Read/watch some
 
-* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){targer='_blank'}
+* [william Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
+
+* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
  
 * Places to intervene in a system [-@meadows_leverage_1999]  
    * This is both an easy and difficult read.  It's lengthy.  Give yourself time
+   * [Class video as an intro](https://youtu.be/b3ylatiAbBs){target='_blank'}
  
 Piaget Videos
 
@@ -412,15 +415,27 @@ Piaget Videos
 
 * Post your paper in the #systems channel. 
 
-# Week 9 u.c.  {#Week9} 
-
+# Week 9 u.c. Nov 23  {#Week9} 
 ## Personality
 
+
+### Big 5
+
+### Humanism
+
+### existential
+
+### Freud
+
+## Do the following
+
+* [take the big 5 test here](){target='_blank'}
+* 
 * big 5
 * erikson
 * Humanism
 
-# Week 10 u.c.  {#Week10}
+# Week 10 u.c.  Nov 30 {#Week10}
 
 ## Abnormal Psych
 
@@ -451,11 +466,19 @@ When a diagnostician gives a diagnosis, who do they serve?
 
 Back to measuring abnormal behavior, do not forget hypothetical constructs
 
-
-
-# Week 11 u.c.  {#Week11}
+# Week 11 u.c.  Dec 7 {#Week11}
 
 ## Social Psych
+
+
+Attributions
+attitudes
+Cog diss
+groups
+
+do: something about gun violence according to previous assignemnts 
+
+https://docs.google.com/document/d/1FHOR3rtCL0yCriUUfqtyKl-FuatN0F6x1BsbS4fzjiQ/edit
 
 I have mixed feelings about the signing this for reading and work. Because it's about gun violence.  and like many provocative topics a whole host of issues come up.
 
@@ -476,11 +499,10 @@ Let people tryout ideas and to be messy with that process. let people say things
 Recognize that complex problems will typically not have Simple Solutions. Pay attention to the preponderance of evidence while at the same time pay attention to your own personal want to minimize some evidence and to aggrandize others. Be transparent with those feelings. Share your concern that  you have found an argument persuasive but you're not yet ready to accept the conclusion. Only machines ignore their feelings and immediately accept logical conclusions.
 
 
+# Week 12 u.c.  Dec 14 {#Week12}
 
+## Final Self Reflection  Due by Dec 17
 
-# Week 12 u.c.  {#Week12}
-
-## Final Self Reflection
 # Appendix
 
 ## Critical Thinking
