@@ -1,0 +1,235 @@
+---
+title: "General Psychology remaining weeks"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+
+
+
+# Week 5 Oct 26  {#Week5}
+
+## New layer of explanation: Cognition background
+
+So this week throws us into the deep end of the pool regarding the way that we think about the world.
+
+Ever since human beings have been writing and probably painting on the inside of caves there has been some quality of activity that we would recognize as “thinking.”
+
+In the 60s when computers began to displace workers in the workplace, collectively across the planet people began to recognize that in some ways human beings have a cognitive ability that might be modeled as a computer. In other words, during the fifties and sixties, Humanity received a new lexicon for describing things like memory, thinking, processing information.
+
+Our contemporary understanding of long-term memory is *because* we first had a computer part called a hard drive. I'm oversimplifying it a bit, but what I want to impress upon you is that a lot of the concepts that we use to describe thinking came about because we invented computers. Once we had a lexicon about computers we began to use that lexicon to describe humans. It's not a perfect model, but it's taught us a lot about the limits of our cognitive powers.
+
+## Instructions
+
+To begin, and before you start doing more reading, I want you to First Imagine some scenario. I am only asking you think of 1.
+While you do this imagine that you are able to witness your thoughts from the point of view of  another person, or perhaps a different side of yourself. It might be that you are watching your behavior and the pattern of how your thoughts come about, it might be an auditory exercise where you're able to listen to the words you're saying.  Most of you do this naturally, but some of you might not have a lot of experience in observing your own thoughts.
+
+## Do the following (Part A)
+
+* Think about why you might not ask somebody out on a date?  A lot of the first thoughts that come to your mind will be relatively broad and vague. A good example of this is going to be a fear of rejection. If you think about this particular example, try to think about a specific person that you do not want to ask out on a date, and think about the follow-up thoughts that arise when you say "I'm afraid of being rejected”.
+
+* Or think about somebody you are romantically involved with but are afraid to bring up a topic. I'm not really interested in the topic itself, but what I am interested is to have you write down the obstacles you perceive to be present making this topic difficult.
+
+* Or, if you are not involved in a romantic relationship, think about a difficult conversation with an authority figure. Something you would like to tell them,  But won't because of what you perceive to be obstacles to that conversation.
+
+Again, you don't have to do all of these, I am asking you to identify 1 of the above and to think about your thoughts. Specifically which thoughts arise and then think about the cascading thoughts that follow.  Asking “so what” might be useful.   For example, “I don't want to ask that person out because I'm afraid they will turn me down.”  So what?  Because rejection means….  So what?   do this a few iterations.
+
+
+## Do the following (Part B)
+
+### Biases
+
+1. Make a guess as to the number of cognitive biases there are. If you don't know what this means, that's okay. Guess anyway.
+
+2. Go to Wikipedia and look up "list of cognitive biases"
+
+3. Pick 3 of your favorites and describe them in your own words; include a link to them along with a proper reference.  I don't have a preference for which referencing style.  Post your work to the #Biases channel
+
+## Read the following
+
+Read [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"}
+
+## Do the following Part C
+
+1. Without using an anecdote, defend this statement: Multitasking is a myth.  When you do this, be mindful of the critical thinking standards.
+
+2. Link your work to the #multitasking channel
+
+# Week 6 Nov 2 {#Week6}
+
+## Read the following
+
+A. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}. This will be a review, basically.
+
+* skim this but pay closer attention the semantic sections with the schematics for cars
+* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.
+   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
+
+B. Read [Chapter 8 of your textbook](https://openstax.org/books/psychology-2e/pages/8-introduction){target="_blank"}
+
+C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr5DQnj_0HU7lQrTdmo9kG2otEITHXUrGzYQdvg/edit?usp=sharing){target="_blank"}
+
+## Do the following
+
+1. Identify the metaphorical dragons that interfere with your learning. Maybe one of them is anxiety about performing well. And this dragon makes it difficult to focus and to filter out extraneous distractions. Or maybe another dragon is the lure of interesting things in your social network making your phone buzzed with texts or other activity.  Maybe it’s a dragon of inertia, making it hard to start new things.  There are many dragons.
+
+2. After you’ve listed a few (at least 2) of these dragons, what can you do to either slay these dragons or to help them help you learn new material?  If you aren’t sure where to begin, you might consider your textbooks ( 7 and 8) and to read that material again as if you’ve been given a secret scroll...a treasure map that helps you.  Obviously the textbook is not going to give you a simple formula like if you have this problem X then do this  solution y. If you take this adventure, keep notes as you re-read the chapters.  Ask the chapters questions...even if the chapter can't answer it.
+
+Write down your solutions and post them, or at least the ones you feel comfortable sharing in the Dragon channel.
+
+# Week 7  Nov 9 {#Week7}
+
+## Read the following:
+
+A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+B. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+## Do some work:
+
+A. [Do the self-reflection quiz](https://forms.gle/fTvysGbvga1tLZzN9){target="_blank"}
+
+B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.
+
+ * post re-writes to channel:  #re-writes-for-reflection
+
+ * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
+
+# Week 8 Nov 16   {#Week8}
+
+## Read/watch some
+
+* [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
+
+* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
+
+* Places to intervene in a system [-@meadows_leverage_1999]
+   * This is both an easy and difficult read.  It's lengthy.  Give yourself time
+   * [Class video as an intro](https://youtu.be/b3ylatiAbBs){target='_blank'}
+
+Piaget Videos
+
+* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
+
+## Do the following
+
+* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
+
+* From a systems point of view, using some of Meadows [-@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
+
+* Look at your "dragon" posts again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how postie and negative feedback loops help you avoid doing work.
+
+* Post your paper in the #systems channel.
+
+# Week 9 Personality Nov 23  {#Week9}
+
+## Be sure to check out [Week 11 on social psychology](#Week11)
+
+As an assignment it may be taxing so you'll want to plan out your next few weeks
+
+## Personality
+This week is an introduction to personality.
+
+You will want to read the textbook and to keep some ideas in mind.
+
+The first is that there's basically four major theories of personality but that there tends to be sub theories within them.
+
+The four major that I think of include psychoanalysis (with several sub-types often associated with particular people), Humanism (with existentialism as a sub-type), Cognitive-behavioral, and finally Trait approaches (the Big-5 being the most researched).
+
+The second thing to be aware of is that there are several persistent and possibly impossible problems to solve in studying personality. The classic example: "is a behavior the consequent of a person's personality, or internal trait system, or is that behavior a result of environmental influence?"
+
+```{block,type='blueBackground'}
+Edit 11/25
+Another way to think about this assignment:   If students take an intro to psych class, should they not be able to reasonably answer the question "what is identity?"  Not exhaustively answer it, not write a master's thesis, but to be able to point to the complexity of the problem while still committing to some conclusion.
+
+```
+
+## Read/Watch
+* [Personality Chapter Textbook](https://openstax.org/books/psychology-2e/pages/11-introduction){target='_blank'}
+
+* [Stroke of Insight](https://www.youtube.com/watch?v=QTrJqmKoveU){target='_blank'}    about 20 minutes
+
+* [radiolab on words](http://www.radiolab.org/story/91725-words/){target='_blank'}    about 60 minutes (3 segments)
+
+## Do the following
+
+* [take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
+    * There are 2 versions to choose from, a short and long.
+    * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plush 6 sub-tests for a total of 30 results.
+* In 1- 2 pages, respond to the prompt: "what do we mean by ‘identity’?"
+    * Be clear about your constructs,
+    * use research outside (in addition to the above sources) of the things listed above,
+    * support your thinking about what identity means.
+    * use what we’ve covered anywhere in the course.
+    * This is an impossible assignment ;)
+* Post your work in the #threads channel
+* Comment with the intent to engage 1-2 of your classmates and their writing.
+
+
+# Week 10 Abnormal Nov 30 {#Week10}
+
+## Be sure to check out [Week 11 on social psychology](#Week11)
+
+As an assignment it may be taxing so you'll want to plan out your next few weeks
+
+## Abnormal Psych
+
+Abnormal psychology has a lot of hidden dangers.Which means I feel responsibility to call out a couple of things in a way that's different than past weeks.
+
+First thing is to Beware of the medical student syndrome. This is the tendency for medical students to self-diagnose when exposed to new and exotic illnesses. The same thing happens in Abnormal psychology. The profession tries to make diagnosis clear to those who actually make diagnosis. But that means that non-experts will overestimate their own ability to accurately diagnose self and others.
+
+So please don't. Don't diagnose yourself and don't diagnose others.  If you think that you or someone you know struggling with a mental disorder don't try to diagnose them or even offer advice. Instead ask them what they need, and listen.
+
+## Read/Watch
+
+* [Abnormal Psych Chapter Textbook](https://openstax.org/books/psychology-2e/pages/15-introduction){target='_blank'}
+
+* @efran_defining_2007  You'll need to look this up using the Library's database.  The specific database is called Pro-quest.  [This schedule has instructions for doing this](#PeriodicalLocator).
+
+* [Lecture on Diathesis Stress Model](https://youtu.be/1MaaORgCHvc){target='_blank'}   15 minutes
+
+* [Lecture on how anxiety is about survival](https://youtu.be/bVdEGLSmXlk){target='_blank'}   7 minutes
+
+* [Optional Lectures on depression](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target='_blank'}  50 minutes'ish
+
+* [Optional case study interview of a person suffering from Schizophrenia](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/Schizophrenia_type_1_7min.mp4){target='_blank'} 7 min
+
+* Questions to constantly ask about disorders
+Questions to ask yourself when thinking about abnormal psychology
+
+  * What is normal versus abnormal?  What does the textbook say?
+
+  * What dominates your thinking about human motivation? Is there a particular psychological theory that you tend to gravitate to? For instance, are all things biological? Cognitive? Do you feel a need to simplify?
+
+  * Remember earlier in the quarter when I had you watch the systems within psychology video. This video was a brief introduction to the fact that human motivation is layered. Certainly there are biological reasons for why we do what we do, but there's also learning histories, cognitive processes, personality variables, but also social influences. All of these things are happening all of the time. So somebody says that they're depressed, do you have a tendency to say oh there's something biological wrong? Socially wrong?
+
+  * Keep in mind how do we measure abnormal behavior.
+  * Who has the power to say one thing is normal versus another? Does that power come from cultural norms?
+
+  * When a diagnostician gives a diagnosis, who do they serve?
+
+## Do some stuff
+
+* Respond to anything above.  Write maybe 2 or 3 paragraphs.
+
+* Share your writing with the slack Channel #abnormal
+
+* Comment on 2 or 3 of your classmates work.
+
+# Week 11 Social Psych Dec 7 {#Week11}
+
+This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
+
+Will still have the "read stuff, do stuff" but most instructions will be found here:
+
+[Assignments are here](https://docs.google.com/document/d/1oaC-Q_UNuxG16e3CSc-zRBfJzk9X92yjQPQ0f-PDoCw/edit?usp=sharing){target="_blank"}
+
+# Week 12  Dec 14 {#Week12}
+
+## Final Self Reflection Due by Dec 17
+
+[Final Self-reflection](https://forms.gle/cq5vqRgHy3KCVgqV6){target="_blank"}
