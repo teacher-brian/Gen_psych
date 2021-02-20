@@ -8,73 +8,30 @@ output:
     toc_float: true
 ---
 
-# Week 6 Nov 2 {#Week6}
+# Week 8 Feb 22   {#Week8}
 
-## Read the following
-
-A. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}. This will be a review, basically.
-
-* skim this but pay closer attention the semantic sections with the schematics for cars
-* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.
-   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks
-
-B. Read [Chapter 8 of your textbook](https://openstax.org/books/psychology-2e/pages/8-introduction){target="_blank"}
-
-C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr5DQnj_0HU7lQrTdmo9kG2otEITHXUrGzYQdvg/edit?usp=sharing){target="_blank"}
-
-## Do the following
-
-1. Identify the metaphorical dragons that interfere with your learning. Maybe one of them is anxiety about performing well. And this dragon makes it difficult to focus and to filter out extraneous distractions. Or maybe another dragon is the lure of interesting things in your social network making your phone buzzed with texts or other activity.  Maybe it’s a dragon of inertia, making it hard to start new things.  There are many dragons.
-
-2. After you’ve listed a few (at least 2) of these dragons, what can you do to either slay these dragons or to help them help you learn new material?  If you aren’t sure where to begin, you might consider your textbooks ( 7 and 8) and to read that material again as if you’ve been given a secret scroll...a treasure map that helps you.  Obviously the textbook is not going to give you a simple formula like if you have this problem X then do this  solution y. If you take this adventure, keep notes as you re-read the chapters.  Ask the chapters questions...even if the chapter can't answer it.
-
-Write down your solutions and post them, or at least the ones you feel comfortable sharing in the Dragon channel.
-
-# Week 7  Nov 9 {#Week7}
-
-## Read the following:
+## Read/watch some
 
 A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
 B. Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
-## Do some work:
 
-A. [Do the self-reflection quiz](https://forms.gle/fTvysGbvga1tLZzN9){target="_blank"}
-
-B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper, for example, don't use it here.
-
- * post re-writes to channel:  #re-writes-for-reflection
-
- * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
-
-# Week 8 Nov 16   {#Week8}
-
-## Read/watch some
-
-* [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
-
-* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
-
-* Places to intervene in a system [-@meadows_leverage_1999]
-   * This is both an easy and difficult read.  It's lengthy.  Give yourself time
-   * [Class video as an intro](https://youtu.be/b3ylatiAbBs){target='_blank'}
-
-Piaget Videos
-
-* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
 
 ## Do the following
 
-* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
 
-* From a systems point of view, using some of Meadows [-@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
+A. [Do the self-reflection quiz](https://forms.gle/fTvysGbvga1tLZzN9){target="_blank"}
 
-* Look at your "dragon" posts again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how postie and negative feedback loops help you avoid doing work.
+B. Post a re-write of one [or two] of your past written assignments.  Please choose assignments from work completed; if you didn't get to do the synthesis paper in week 2, for example, don't use it here.
 
-* Post your paper in the #systems channel.
+ * post re-writes to channel:  
+ #re-writes-for-reflection
 
-# Week 9 Personality Nov 23  {#Week9}
+ * You may want to use the critical thinking standards as a lens on your past work.  For instance, are there places you could be more deep in terms of complexity?  What research could inform how you think about your work from the textbook?  This is just a suggestion.
+
+
+# Week 9 Personality March 1  {#Week9}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)
 
@@ -98,6 +55,8 @@ Another way to think about this assignment:   If students take an intro to psych
 ```
 
 ## Read/Watch
+
+
 * [Personality Chapter Textbook](https://openstax.org/books/psychology-2e/pages/11-introduction){target='_blank'}
 
 * [Stroke of Insight](https://www.youtube.com/watch?v=QTrJqmKoveU){target='_blank'}    about 20 minutes
@@ -119,7 +78,7 @@ Another way to think about this assignment:   If students take an intro to psych
 * Comment with the intent to engage 1-2 of your classmates and their writing.
 
 
-# Week 10 Abnormal Nov 30 {#Week10}
+# Week 10 Abnormal March 8 {#Week10}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)
 
@@ -169,7 +128,7 @@ Questions to ask yourself when thinking about abnormal psychology
 
 * Comment on 2 or 3 of your classmates work.
 
-# Week 11 Social Psych Dec 7 {#Week11}
+# Week 11 Social Psych March 15 {#Week11}
 
 This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
 
@@ -177,7 +136,7 @@ Will still have the "read stuff, do stuff" but most instructions will be found h
 
 [Assignments are here](https://docs.google.com/document/d/1oaC-Q_UNuxG16e3CSc-zRBfJzk9X92yjQPQ0f-PDoCw/edit?usp=sharing){target="_blank"}
 
-# Week 12  Dec 14 {#Week12}
+# Week 12  March 22 {#Week12}
 
 ## Final Self Reflection Due by Dec 17
 
