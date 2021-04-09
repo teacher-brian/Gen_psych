@@ -80,14 +80,23 @@ I'm sure there may be things you'd like to learn about and practice and I would 
  
       *Ethnocentrism
 
+```{block,type='blueBackground'}
+
+Okay, the following itesm ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+
+Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
+
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://lifespanpsychology.slack.com/archives/C01T8MQRP26){target="_blank"}
+
+
+Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
+```
 7. Watch intro lecture on epistemology
 
 [![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target='_blank'}
 
 8. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own and be sure to keep track of your sources; include them in your writing as necessary.  
 
-9. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
-* Do this one without over thinking it.  
 
 ## Do the following
 
@@ -102,7 +111,11 @@ I'm sure there may be things you'd like to learn about and practice and I would 
     How do you know something is true?
     
 
-4. Read some of your classmates' posts and comment on some.  
+4. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
+* Do this one without over thinking it.  
+
+
+5. Read some of your classmates' posts and comment on some.  
 
 
 # Week 2  {#Week2}
