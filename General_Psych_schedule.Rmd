@@ -9,7 +9,7 @@ output:
    toc: true
    toc_float: true
    toc_depth: 6
-   number_sections: yes    # if true, section labels render
+   number_sections: no    # if true, section labels render
    config:
       toc:
         scroll_highlight: yes
@@ -118,7 +118,7 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 5. Read some of your classmates' posts and comment on some.  
 
 
-# Week 2  {#Week2}
+# Week 2 April 12  {#Week2}
 
 ## Orienting comment
 
@@ -132,7 +132,7 @@ So you may be interested to know in Psychology, what causes attention deficit hy
 
 The moment you start getting into those questions, it would be nice if there were short answers but those short answers are usually simplistic and shallow.
 
-So we have to practice, and it is a practice – you don't just get an education and stop learning--you have to keep practicing what you know and how you know it.  And it turns out that is a philosophical question.
+So we have to practice, and it is a practice – you don't just get an education and stop learning--you have to keep practicing what you know and how you know it. And it turns out that 'how you know something' is a philosophical question.
 
 So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit with the materials you watched during week one. But the idea is that you're going to have to reflect a little bit about this epistemological question: how do you know what you know
 
@@ -140,6 +140,7 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 ## Read Some stuff
 
 1. Re-read the critical thinking items in the syllabus
+  * Write them in your one document to rule them all and give a one-sentence description of each **using your own words.**  
 
 2. Read [Chapter 2 of your textbook](https://openstax.org/books/psychology-2e/pages/2-introduction){target="_blank"}
 
@@ -150,11 +151,11 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 
 
 ## Do the following
-
+0. reminder to write down descriptions of the critical thinking standards in your own words.
 1. write a synthesis of the 4 sources above.  You may want to consider comment about whether you think knowledge is static.
 2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
 
-3. Share your work on slack by linking to it in the slack channel #week-2-synthesis  I can't add you all, so use the search function in Slack to find the channel
+3. Share your work on slack by linking to it in the slack channel [#week-2-synthesis](https://general-psychology-hq.slack.com/archives/C01T8UCJU4T){target='_blank'}
 
 4. Read and comment upon some of your classmates submissions.  If you hover over their post, you should see a floating menu with the option to reply in a thread on the side.
 
@@ -164,6 +165,73 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 
 * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
+
+
+# Week 3  April 19 {#Week3}
+
+## It's a pretty dense unit.
+
+## Do, Watch, and Read the following
+
+A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://general-psychology-hq.slack.com/archives/C01T5KTHBA9){target='_blank'} in slack.
+
+B. Pick a behavior--a feeling, an action, a thought, but try to keep it simple (In fact thoughts may be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
+
+C. [Layers of Psychological explanation--10 min](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/Fall2019General/The_systems.mp4){target='_blank'}
+
+D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
+
+
+E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
+
+## Do the following
+
+1. Reassess your understanding from above A.
+2. What would you add to your understanding in B?
+3. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
+    * On that new page, write a quick title like "psycho-biology I'm interested in"
+    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
+    * if you click on that text, you should see a "link" option. Copy that link and...
+4. ...share your ideas from # 3 above to the Channel [#More_Biopsych](https://general-psychology-hq.slack.com/archives/C01U1TF04JY){target="_blank"} by pasting that link into Slack.
+5. Read some other posts from classmates and comment about some areas of interest.
+
+# Week 4 April 26 {#Week4}
+
+## Do, Watch, and Read the following
+
+A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+
+>    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
+
+B. Read [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
+
+C. [Learning theories youtube playlist, videos 1: 2](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
+
+E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+F. @Naik_2001 [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'}
+
+G. Read Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+H. Read  Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+## Do some stuff:
+
+1. Reassess your understanding from above A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing.
+2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
+3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
+4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?
+5. Link your writing for #3 and #4 to the Channel [#Learning-theory](https://general-psychology-hq.slack.com/archives/C01U8BFML9X){target="_blank"}
+6. Comment and try to engage with a few of your classmates on this assignment.  
+    * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.  
+    * Don't simply say this is clear or not. 
+    * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
+    
+7. [Do A self-reflection quiz](https://forms.gle/v6FwuBw1gPtXfevQ8){target="_blank"}
+
+    * the text boxes you see in this 'quiz' will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words.
 
 
 # Appendix
