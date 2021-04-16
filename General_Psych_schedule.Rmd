@@ -19,7 +19,7 @@ output:
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
         position: fixed
-  #    download: [ "epub"]  #Not sure how to set up for epub yet
+  #  download: [ "epub"]  #Not sure how to set up for epub yet
       search: yes
 bibliography: [General_references.bib]
 biblio-style: apalike
