@@ -362,7 +362,7 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 
 * Places to Intervene in a System [-@meadows_leverage_1999]
    * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you.
-   * [Class video as an intro ot systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
+   * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
 
 Piaget Videos
 
@@ -378,11 +378,13 @@ Piaget Videos
 
 * Post your one-document again in the [#systems](https://general-psychology-hq.slack.com/archives/C021S7EHVLM){target='_blank'} channel.
 
-
-
 # Week 8 May 24  {#Week8}
 
-This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming. 
+This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
+
+Be sure to ask questions in the muddy-point channel if they come up. 
+
+Also, take a look a head for the remaining weeks of the quarter.  Lots to do and you'll need to organize your approach so that you don't fall behind. 
 
 ## Read/watch some
 
@@ -396,33 +398,44 @@ A. [Complete the following assignment posted in a google doc](https://docs.googl
 B. Post to [#metacognition essay channel](https://general-psychology-hq.slack.com/archives/C022K4RCB3J){target="_blank"}, tag 2 people to review your work.  
 
 
-
 # Week 9 Personality May 31  {#Week9}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)
 
-As an assignment it may be taxing so you'll want to plan out your next few weeks
+As an assignment, it may be taxing so you'll want to plan out your next few weeks.
 
 ## Personality
+
 This week is an introduction to personality.
 
 You will want to read the textbook and to keep some ideas in mind.
 
-The first is that there's basically four major theories of personality but that there tends to be sub theories within them.
+The first is that there's basically four major theories of personality.  [However, there are others](https://en.wikipedia.org/wiki/Personality_psychology#:~:text=The%20major%20theories%20include%20dispositional,instead%20take%20an%20eclectic%20approach){target='_blank'}.  There are also offshoots and sub theories.
 
-The four major that I think of include psychoanalysis (with several sub-types often associated with particular people), Humanism (with existentialism as a sub-type), Cognitive-behavioral, and finally Trait approaches (the Big-5 being the most researched).
+The four major that I think of include psychoanalysis (with several sub-types often associated with particular people), Humanistic (with existentialism as a sub-type), Cognitive-behavioral, and finally Trait/dispositional approaches (the Big-5 being the most researched).
 
 The second thing to be aware of is that there are several persistent and possibly impossible problems to solve in studying personality. The classic example: "is a behavior the consequent of a person's personality, or internal trait system, or is that behavior a result of environmental influence?"
 
-```{block,type='blueBackground'}
-Another way to think about this assignment:   If students take an intro to psych class, should they not be able to reasonably answer the question "what is identity?"  Not exhaustively answer it, not write a master's thesis, but to be able to point to the complexity of the problem while still committing to some conclusion.
 
-```
+
+|Here are these persistent problems I mentioned:
+|:---|
+|1.  <span class='underline'>Mind/body</span>-- Descartes split body from mind with his "I think therefore I am" bit.  Some know this as Cartesian dualism, the viewpoint that mind and body are separate things.  Body has matter, mind does not, and therefore not subject to scrutiny.  Dualism fosters reductionism, the attempt to discover ‘truth’ by breaking things down into simpler units.  In personality, we often talk about motivation and so a question that comes up is whether mind has anything to do with it...but right away, then, you are locked into a dualism. 
+|2. <span class='underline'>Person vs situation</span>-- Both are correct.  But for decades this was (and sometimes still is) the big friction within Personality studies.  Behavioral psychologists tend to de-emphasize  "person variables" as unimportant and insist that situations are responsible for eliciting, shaping, etc behavior.  On the other hand, Personologists tend to de-emphasize situational factors as “nuisance variables or noise”.  The debate is basically a draw.
+|3. <span class='underline'>Nature vs nurture</span>-- what is **THE** cause?  Studying personality requires an acceptance of both causes are necessary.  Another way to say this is that all behavior is 100% nature and 100% nurture because our biology doesn't live in a vacuum; our biology develops in an enviorment and will be sensitive to that enviornment. 
+|4. <span class='underline'>Determinism vs freedom</span>-- Mostly self explanatory; to what degree do we actually choose our behaviors?  Free will is hard to study in the lab and philosophically difficult to prove (I'm trusting what philosophers tell me).
+|5. <span class='underline'>Stability vs change</span>-- personality traits consistently show stability.  However, this does not mean uniformity.  Here is one of those places I think one needs to think of interaction effects.  So, personality seems to be quite stable after your mid 20's, probably due to some biological maturation (eg, impulse control), but major life events, traumas, psychotherapy can also bring about some personality change.  
+|6. <span class='underline'>Reification</span>--  treating a hypothetical construct as real. Intelligence is a hypothetical construct.  It can be used to predict behavior pretty well, sometimes, for some people, but it’s not a real ‘thing’.  Making it real would be to reify it. 
+|7. <span class='underline'>Extrapolation</span>--  this is extending known data into new areas. Lots of science occurs in the lab in order to control variables and to determine effect sizes, but in the end we want to see the degree to which their findings apply to the real world.  Often this shows up when studying ‘micro’ behaviors, as in how do neurons actually affect social situations.
+|8. <span class='underline'>Diversity</span>-- You will see that personality theorists often project their own personality and experiences into their theories. And given a lack of diversity in psychology for the past 100 years it’s fair to say that these theories may be lacking pluralistic values.
 
 ## Read/Watch
 
-
 * [Personality Chapter Textbook](https://openstax.org/books/psychology-2e/pages/11-introduction){target='_blank'}
+
+```{block,type='blueBackground'}
+Please don't skip these videos.  Let me know if the links don't work for you. 
+```
 
 * [Stroke of Insight](https://www.youtube.com/watch?v=QTrJqmKoveU){target='_blank'}    about 20 minutes
 
@@ -439,11 +452,17 @@ Another way to think about this assignment:   If students take an intro to psych
 * In 1- 2 pages, respond to the prompt: "what do we mean by ‘identity’?"
     * Be clear about your constructs,
     * use research outside (in addition to the above sources) of the things listed above,
-    * support your thinking about what identity means.
+    * support your thinking about what identity means.  (support means use the critical thinking standards)
     * use what we’ve covered anywhere in the course.
     * This is an impossible assignment ;)
-* Post your work in the [#threads](https://generalpsycho-wgs5657.slack.com/archives/C01PLJSNY9G){target='_blank'} channel
+* Post your work in the [#threads](https://general-psychology-hq.slack.com/archives/C022NM4S1BK){target='_blank'} channel
 * Comment with the intent to engage 1-2 of your classmates and their writing.
+
+
+```{block,type='blueBackground'}
+Another way to think about this assignment:   If students take an intro to psych class, should they not be able to reasonably answer the question "what is identity?"  Not exhaustively answer it, not write a master's thesis, but to be able to point to the complexity of the problem while still committing to some conclusion.
+```
+
 
 
 # Week 10 Abnormal June 7 {#Week10}
@@ -454,9 +473,9 @@ As an assignment it may be taxing so you'll want to plan out your next few weeks
 
 ## Abnormal Psych
 
-Abnormal psychology has a lot of hidden dangers.Which means I feel responsibility to call out a couple of things in a way that's different than past weeks.
+Abnormal psychology has a lot of hidden dangers. Which means I have a responsibility to call out a couple of things in a way that's different than past weeks.
 
-First thing is to Beware of the medical student syndrome. This is the tendency for medical students to self-diagnose when exposed to new and exotic illnesses. The same thing happens in Abnormal psychology. The profession tries to make diagnosis clear to those who actually make diagnosis. But that means that non-experts will overestimate their own ability to accurately diagnose self and others.
+First thing is to Beware of the medical student syndrome. This is the tendency for medical students to self-diagnose when learning about new and exotic illnesses. The same thing happens in Abnormal psychology. The profession tries to make diagnosis clear to those who actually make diagnoses. But that means that non-experts will overestimate their own ability to accurately diagnose self and others.
 
 So please don't. Don't diagnose yourself and don't diagnose others.  If you think that you or someone you know struggling with a mental disorder don't try to diagnose them or even offer advice. Instead ask them what they need, and listen.
 
@@ -492,7 +511,7 @@ Questions to ask yourself when thinking about abnormal psychology
 
 * Respond to anything above.  Write maybe 2 or 3 paragraphs.  Yes, this is light.
 
-* Share your writing with the slack Channel [#abnormal](https://generalpsycho-wgs5657.slack.com/archives/C01QADQJYFJ){target='_blank'}
+* Share your writing with the slack Channel #abnormal  (you can search for channels in slack)
 
 * Comment on 2 or 3 of your classmates work.
 
@@ -504,12 +523,11 @@ Will still have the "read stuff, do stuff" but most instructions will be found h
 
 [Assignments are here](https://docs.google.com/document/d/1oaC-Q_UNuxG16e3CSc-zRBfJzk9X92yjQPQ0f-PDoCw/edit?usp=sharing){target="_blank"}
 
-The channel will be [#social psych](https://generalpsycho-wgs5657.slack.com/archives/C01PSPSAM60){target="_blank"}
+The channel will be #social-psych
 
+## Final Self Reflection Due by June 18
 
-## Final Self Reflection Due by March 24
-
-[Final Self-reflection](){target='_blank'}
+[Final Self-reflection](){target='_blank'} (this will be added soon)
 
 
 
