@@ -125,7 +125,7 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 If you're relatively new to taking college classes, you might find it disconcerting that we don't simply have you remember a list of vocabulary words. Sometimes that's appropriate. In psychology, as an example coming the term "negative reinforcement" is often confused with a form of punishment.
 
-But this is relatively a shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/planning-courses-and-assignments/course-design/blooms-taxonomy)
+But this is relatively a shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/planning-courses-and-assignments/course-design/blooms-taxonomy){target="_blank"}
 
 Vocabulary is a very low level type of knowledge. And so what are the reasons that human beings create schools and classes such as this is to understand things in a deeper way or in a more complicated Way.
 
@@ -153,18 +153,26 @@ So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit 
 
 ## Do the following
 0. reminder to write down descriptions of the critical thinking standards in your own words.
-1. write a synthesis of the 4 sources above.  You may want to consider comment about whether you think knowledge is static.
+1. write a synthesis of the 4 sources above.  You may want to consider comment about whether you think knowledge is static.  
+
+```{block, type='instructorNote'}
+
+Brian should add a note to not summarize.  To watch the video below on how to do a synthesis [added 10/14]
+```
+
+* Added materials
+
+  * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+
+  * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
+
 2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
 
 3. Share your work on slack by linking to it in the slack channel [#week-2-synthesis](https://northseattleg-nfm7176.slack.com/archives/C02G58YFSNL){target='_blank'}
 
 4. Read and comment upon some of your classmates submissions.  If you hover over their post, you should see a floating menu with the option to reply in a thread on the side.
 
-## Added materials
 
-* [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
-
-* [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
 
 
