@@ -33,32 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-# Week 7  May  17 {#Week7}
-
-## Read the following:
-
-
-* [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
-
-* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
-
-* Places to Intervene in a System [-@meadows_leverage_1999]
-   * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you.
-   * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
-
-Piaget Videos
-
-* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
-
-## Do some work:
-
-* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
-
-* From a systems point of view, using some of Meadows [-@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
-
-* Look at your "dragon" posts again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work.
-
-* Post your one-document again in the [#systems](https://general-psychology-hq.slack.com/archives/C021S7EHVLM){target='_blank'} channel.
 
 # Week 8 May 24  {#Week8}
 
