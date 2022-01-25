@@ -102,7 +102,9 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 1. Introduce yourself in the Slack [Introductions](https://slack-wh52985.slack.com/archives/C02SJRKEBA7){target='_blank'} channel
 
-2. Write something about what interests you about psychology in your one google doc..remember, have one document ["to rule them all"](https://rstudio-pubs-static.s3.amazonaws.com/711457_72d13aaf16ff4f0987915648b6bf47b1.html#oneToRule){target=”_blank”}. Be sure to give it a title.  Write about things that interest you and ponder whether psychology is related.  
+2. Take a look at the [Getting_started](https://rpubs.com/briholt/Getting_started/){target=”_blank”}, in particular the menu item __Using Google Docs__.
+
+2. Write something about what interests you about psychology in your one google doc..remember, have one document. Be sure to give it a title.  Write about things that interest you and ponder whether psychology is related.  
 
 3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [week_1 slack channel](https://slack-wh52985.slack.com/archives/C02SJRKEBA7){target=”_blank”} by including a link to your document from step 2 above.
 
@@ -113,33 +115,47 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 4. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
 * Do this one without over thinking it.  
-* add this to your google doc.  You can add it as a new page.  (added Tues 9/28)
-
+* add this to your google doc.  You can add it as a new page.
 
 5. Read some of your classmates' posts and comment on some.  
 
-## Thursday Seminar Questions
+## Thursday Conversation Questions
 
-A) 
+These are questions that I'd like to discuss on Thursday Zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+
+A) What is Quality?
+B) What is quality in academics?
+C) How can you maintain your integrity while meeting the standards of others?
+
 
 
 # Week 2 Jan 10  {#Week2}
 
 ## Orienting comment
 
-If you're relatively new to taking college classes, you might find it disconcerting that we don't simply have you remember a list of vocabulary words. Sometimes that's appropriate. In psychology, as an example coming the term "negative reinforcement" is often confused with a form of punishment.
+If you're relatively new to taking college classes, you might find it disconcerting that we don't simply have you remember a list of vocabulary words. Sometimes that's appropriate. In psychology, as an example, the term "negative reinforcement" is often confused with a form of punishment.
 
-But this is relatively a shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/teaching-resources/teaching-tips/planning-courses-and-assignments/course-design/blooms-taxonomy){target="_blank"}
+But this is relatively a shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on the scale.  
 
-Vocabulary is a very low level type of knowledge. And so what are the reasons that human beings create schools and classes such as this is to understand things in a deeper way or in a more complicated Way.
+You might also notice that summary is much lower than synthesis, which is way over under "create". 
 
-So you may be interested to know in Psychology, what causes attention deficit hyperactivity disorder. You might wonder what causes bipolar disorder or why is it that you  enjoy one type of activity but somebody else does not. Or perhaps how it is that certain romantic partners get along while others do not. These are all interesting questions and Curiosities.
+Back to my point, vocabulary is a very low level type of knowledge. 
+
+And, so, the reasons that human beings create schools and classes, such as ours, is to learn things in a deeper way.
+
+So you may be interested to know in Psychology, what causes attention deficit hyperactivity disorder. You might wonder what causes bipolar disorder or why is it that you  enjoy one type of activity but somebody else does not. Or perhaps how it is that certain romantic partners get along while others do not. These are all interesting questions and curiosities.
 
 The moment you start getting into those questions, it would be nice if there were short answers but those short answers are usually simplistic and shallow.
 
-So we have to practice, and it is a practice – you don't just get an education and stop learning--you have to keep practicing what you know and how you know it. And it turns out that 'how you know something' is a philosophical question.
+So we have to practice, and it is a practice--you don't just get an education and stop learning--you have to keep practicing what you know and how you know it. And it turns out that 'how you know something' is a philosophical question.
 
-So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit with the materials you watched during week one. But the idea is that you're going to have to reflect a little bit about this epistemological question: how do you know what you know
+So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit with the materials you watched during week one. But the idea is that you're going to have to reflect a little bit about this epistemological question: how do you know what you know?
+
+```{block, Dangers of URLs, type='blueBackground'}
+<span class='underline'>Note on References and only using URLs</span>
+
+Your instructor will frequently remind you to not rely on URLs when referencing. If the URL is available, you should include it in the reference, but whenever you are supporting a claim with a reference you should fill out the full reference, including the author, the year it was published, its title, and the publisher. The reason is that URLs will change from time to time as this happened to your instructor with the bloom taxonomy link.
+```
 
 
 ## Read Some stuff
@@ -168,15 +184,19 @@ Please do not summarise these articles.  Synthesize.  Use the lecture just below
 
   * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
-2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
+2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and 7insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
 
 3. Share your work on slack by linking to it in the slack channel [#week-2-synthesis](https://generalpsycho-8vc5576.slack.com/archives/C02SGF1MQMB){target='_blank'}
 
 4. Read and comment upon some of your classmates submissions.  If you hover over their post, you should see a floating menu with the option to reply in a thread on the side.
 
-## Thursday Seminar Questions
+## Thursday Conversation Questions
 
-A) 
+These are questions that I'd like to discuss on Thursday Zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+
+A) What is the confirmation bias?
+B) What is a workflow?
+C) What value is there in synthesizing information?
 
 
 # Week 3  Jan 17 {#Week3}
@@ -219,9 +239,48 @@ G. Read  Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article
     * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
 
 
-## Thursday Seminar Questions
+## Thursday Conversation Questions
 
-A) 
+These are questions that I'd like to discuss on Thursday Zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+
+A) How does your brain know the difference between real and imaginary?
+B) Where is "information" in the brain?
+C) what metaphors are useful to think about how the nervous system works?
+
+# Week 4 January 24 {#Week4}
+
+## Do, Watch, and Read the following
+
+A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+
+>    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
+
+B. Read [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
+
+C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
+
+E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+F. @Naik_2001 
+
+  * Link to their article [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'}
+
+
+## Do some stuff:
+
+1. Reassess your understanding from above A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing.
+2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
+3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
+4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?
+5. Link your writing for #3 and #4 to the Channel [#Learning-theory](https://northseattleg-nfm7176.slack.com/archives/C02GZRXUDEJ){target="_blank"}
+6. Comment and try to engage with a few of your classmates on this assignment.  
+    * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.  
+    * Don't simply say this is clear or not. 
+    * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
+    
+
 
 
 # Appendix
