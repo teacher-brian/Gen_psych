@@ -6,14 +6,21 @@ library(googlesheets4)
 library(RSelenium)
 library(rvest)
 library(clipr)
+library(rvest)
 
 s<- read_sheet('https://docs.google.com/spreadsheets/d/1skEgkolZpr4r_iMaBM0qMxtuNAKATgyB0X2QDSpzor8/edit?resourcekey#gid=271104061')
+#rename columns
 
+variables <- c('Timestamp','l_name','f_name','class','aspects','effort','grade','concerns','thoughts?','reflect_num')
 
-(p<- s[!(duplicated(s$`What's your Last name?`) & duplicated(s$`What's your first name?`)),] %>%
-    mutate(f_name=tools::toTitleCase(`What's your first name?`), l_name=tools::toTitleCase(`What's your Last name?`)) %>%
-    select(f_name,l_name,Timestamp) %>%
-    arrange(-desc(Timestamp)) %>% filter(Timestamp>"2022-01-01")) %>% arrange(l_name) %>%  print(.,n=100)
+colnames(s) <- variables
+
+#%>% s[!(duplicated(s$l_name) & duplicated(s$f_name)),]
+
+(p<- s %>% filter(Timestamp>"2022-01-01") %>%
+    #select(f_name,l_name,Timestamp) %>%
+    arrange(-desc(Timestamp)) %>% mutate(l_name=toupper(l_name))) %>% arrange(Timestamp) %>%  print(.,n=100)
+
 
 
 d1 <- read_clip()#11 columns
@@ -22,8 +29,9 @@ columns<- d1[1] %>% str_split(pattern = '\t') %>% unlist() %>% .[-1]
 
 d1 <- d1[-1]
 
-v2 <- read_clip()  #10 columns
-(length(v2)-1)/10
+
+v2 <- read_clip()  #11 columns
+(length(v2)-1)/11
 columns.v2<- v2[1] %>% str_split(pattern = '\t') %>% unlist() %>% .[-1]
 
 v2 <- v2[-1]
@@ -38,15 +46,16 @@ d <- d1 %>% unlist %>% as.data.frame() %>%
               names_from=col_n,
               values_from = title
                )  %>% unchop(everything())
-colnames(d) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status" )
+d <- d %>% mutate(section="d1")
+colnames(d) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
 
-d %>% select(4,5,11)
+d %>% select(4,5,11,12)
 
 
 
 
 v <- v2 %>% unlist %>% as.data.frame() %>%
-  mutate(col_n = rep(1:10,length.out=length(.))) %>%
+  mutate(col_n = rep(1:11,length.out=length(.))) %>%
   #group_by(col_n) %>%
   rename('title'=1,) %>%
   #mutate(row = row_number())%>%
@@ -54,10 +63,127 @@ v <- v2 %>% unlist %>% as.data.frame() %>%
     names_from=col_n,
     values_from = title
   )  %>% unchop(everything())
-colnames(v) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level" )
+v <- v %>% mutate(section="v2")
+colnames(v) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
 
-rbind(d %>% filter(Status!="Withdrawn") %>% select(4,5),v %>% select(4,5)) -> reflect
+w <- "Withdrawn"
 
-reflect %>% separate(Name,into = c("l_name",'f_name'),sep=',') %>% left_join(p,by='l_name')  %>% filter(is.na(Timestamp)) %>% mutate(message=paste0("\n\n","Hello ",f_name.x,",","\n\n","This is a hard message to send.",'\n\n'," You're receiving it to let you know that I haven't heard from you and that you haven't done the first self-reflection that was due Sunday, Jan 23rd 11:59pm. In an effort to keep you on track, I imposed this deadline so that issues could be handled before the end of the quarter.  As of right now, you're a day late and I'm willing to Grant an additional day but at this point it's looking like you will not be able to get better than a B for the quarter. It's still expected that you do the work and that you are not late for the next 3 week deadline. If you miss that deadline you won't be able to get better than a C.","\n\n","Let me know if you can get it done in the next day.","\n\n")) %>% print(.,n=100) %>% write_clip()
 
+##  Currently withdrawn students  ###
+
+rbind(d %>% filter(Status==w) %>% select(4,5,11,12),v %>% filter(Status==w) %>% select(4,5,11,12))
+
+##  Currently enrolled students to be joined with reflection data###
+
+reflect <- rbind(d %>%
+                   #filter(Status!=w) %>%
+                   select(4,5,12,11),
+                 v %>%
+                  # filter(Status!=w) %>%
+                   select(4,5,12,11))
+
+  ####  Currently enrolled students who have NOT done reflection for week 3  ###
+
+reflect %>%  # Roster data
+  separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+  mutate(l_name=toupper(l_name)) %>%
+  left_join(p,by='l_name')  %>%    # joins with self reflection survey
+  filter(is.na(reflect_num)|reflect_num != "Week 3 Self reflection") %>%
+  mutate(message=paste0("\n\n","Hello ",f_name.x,",","\n\n","This is a hard message to send.",'\n\n'," You're receiving it to let you know that I haven't heard from you and that you haven't done the first self-reflection that was due Sunday, Jan 23rd 11:59pm. In an effort to keep you on track, I imposed this deadline so that issues could be handled before the end of the quarter.  As of right now, you're a day late and I'm willing to Grant an additional day but at this point it's looking like you will not be able to get better than a B for the quarter. It's still expected that you do the work and that you are not late for the next 3 week deadline. If you miss that deadline you won't be able to get better than a C.","\n\n","Let me know if you can get it done in the next day.","\n\n")) %>% print(.,n=100) %>% write_clip()
+
+
+  ####  Currently enrolled students who have NOT done reflection for week 6  ###
+
+reflect %>%  # Roster data
+  separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+  mutate(l_name=toupper(l_name)) %>%
+  left_join(
+    filter(p,reflect_num=="Week 6 Self Reflection"),  #If this code not present, then past reflections will be counted, which will hide those not completing week 6
+    by='l_name') %>%
+  select(l_name,f_name.x,grade,section,reflect_num,Status) %>%
+  filter(Status !=w) %>%
+  filter(is.na(reflect_num)) %>%   #remove "!" to find non-completes
+  mutate(message=paste0("\n\n","Hello ",f_name.x,",","\n\n","This is a hard message to send.",'\n\n'," You're receiving it to let you know that I haven't heard from you and that you haven't done the second self-reflection that was due Sunday, Feb 13, 11:59pm. In an effort to keep you on track, I imposed this deadline so that issues could be handled before the end of the quarter.  As of right now, you're a few days late and I'm willing to Grant an additional day but at this point it's looking you'll be dropped a grade. It's still expected that you do the work and that you are not late for the next deadline. ","\n\n","Let me know if you can get this work done in the next day.","\n\n")) %>% write_clip()
+
+
+  #filter(grade=="C")
+
+
+  filter(grepl("something",grade,ignore.case = T)) # looks for people needing attention
+
+
+
+  reflect %>%  # Roster data
+    separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+    mutate(l_name=toupper(l_name)) %>%
+    left_join(p,by='l_name') %>%
+    filter(reflect_num=="Week 3 Self reflection"|reflect_num=="Week 6 Self Reflection"|reflect_num=="Week 9 Self Reflection") %>%
+    select(l_name,f_name.x,grade,section,reflect_num,Status) %>%
+    group_by(l_name) %>%
+    summarise(n=n()) %>% filter(n<2) %>%
+    #mutate(l_name.x=toupper(l_name.x)) %>%
+    left_join(p,by=c('l_name'= 'l_name')) %>%
+    select(f_name,l_name,grade,reflect_num)
+
+
+
+  # week 9
+
+  reflect  %>%  # Roster data
+    separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+    mutate(l_name=toupper(l_name)) %>%
+    left_join(
+      filter(p,reflect_num=="Week 9 Self Reflection"),  #If this code not present, then past reflections will be counted, which will hide those not completing week 9
+      by='l_name') %>%
+    select(l_name,f_name.x,grade,section,reflect_num,Status) %>%
+    filter(Status !=w) %>%
+    filter(is.na(reflect_num)) %>% #remove "!" to find non-completes
+    arrange(desc(l_name)) %>%
+
+        mutate(message=paste0("\n\n","Hello ",f_name.x,",","\n\n","This is a hard message to send.",'\n\n'," You're receiving it to let you know that I haven't heard from you and that you haven't done the third self-reflection that was due Sunday, March 6, 11:59pm. In an effort to keep you on track, I imposed this deadline so that issues could be handled before the end of the quarter. At this point it's looking you'll be dropped a grade. It's still expected that you do the work and that you are not late for the next deadline, which is the end of the quarter.  There won't be any extensions then. ")) #%>%   write_clip()
+
+
+fs <-   read_sheet('https://docs.google.com/spreadsheets/d/1ISNMf5zsysLM8nZZ7D3NsdGuekssT48SDOS9U4EJXew/edit?resourcekey#gid=1821652734')
+
+
+
+variables.f <- c('Timestamp',	'l_name',	'f_name',	'slack_name',	'successes',	'helpers',	'questions',	'grade',	'letter',	'openToFeedback',	'adjustFeedback',	'clearly',	'otherThoughts',	'qualityClass',	'qualityOther',	'improveCrit',	'improveCritOther',	'improveWriting',	'improveWritingOther',	'enjoyWork',	'enjoyWorkOther',	'anxiety',	'anxietyOther',	'control',	'controlOther',	'whichClass',	'lastAssignFocusGeneral',	'lastAssignFocusAbnormal',	'whichAssignHelped')
+
+colnames(fs) <- variables.f
+
+
+(fp <- fs %>% filter(Timestamp > "2022-03-1") %>%
+    #select(f_name,l_name,Timestamp) %>%
+    arrange(-desc(Timestamp)) %>% mutate(l_name=toupper(l_name))) %>% arrange(Timestamp) %>%  print(.,n=100)
+
+
+
+# who has not done final self reflection
+
+reflect %>%  # Roster data
+  separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+  mutate(l_name=toupper(l_name)) %>%
+  left_join(fp,by='l_name') %>%
+  select(section,ID,l_name,f_name.y,Status,grade) %>%
+  separate(col=grade,into = c('grade','gpa'),sep="\\.\\.\\.\\.") %>%
+  arrange(section,l_name) %>% print(.,n=55) %>%
+
+filter(Status != "Withdrawn") %>%
+  filter(is.na(f_name.y))
+
+
+#Merged data
+
+reflect %>%  # Roster data
+  separate(Name,into = c("l_name",'f_name'),sep=',') %>%
+  mutate(l_name=toupper(l_name)) %>%
+  left_join(fp,by='l_name')->md
+
+
+md %>% select(Timestamp,l_name,f_name.y,section,grade,Status,whichClass) %>%  filter(Status!="Withdrawn") %>% arrange(desc(Timestamp)) %>% group_by(whichClass) %>% separate(col=grade,into = c('grade','gpa'),sep="\\.\\.\\.\\.") %>%
+  mutate(section=factor(section),
+         grade=factor(grade),
+         gpa=as.numeric(gpa),
+         whichClass=factor(whichClass)) %>%
+  ggplot(aes(x=Timestamp,y=gpa))+geom_point()+geom_smooth(method='lm')+facet_grid(~whichClass)
 
