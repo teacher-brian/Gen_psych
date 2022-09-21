@@ -7,6 +7,7 @@ library(RSelenium)
 library(rvest)
 library(clipr)
 library(rvest)
+library(kableExtra)
 
 s<- read_sheet('https://docs.google.com/spreadsheets/d/1skEgkolZpr4r_iMaBM0qMxtuNAKATgyB0X2QDSpzor8/edit?resourcekey#gid=271104061')
 #rename columns
@@ -17,13 +18,13 @@ colnames(s) <- variables
 
 #%>% s[!(duplicated(s$l_name) & duplicated(s$f_name)),]
 
-(p<- s %>% filter(Timestamp>"2022-01-01") %>%
+(p<- s %>% filter(Timestamp>"2022-04-01") %>%
     #select(f_name,l_name,Timestamp) %>%
     arrange(-desc(Timestamp)) %>% mutate(l_name=toupper(l_name))) %>% arrange(Timestamp) %>%  print(.,n=100)
 
 
 
-d1 <- read_clip()#11 columns
+d1 <- read_clip()#11 columns or 10 columns?
 (length(d1)-1)/11
 columns<- d1[1] %>% str_split(pattern = '\t') %>% unlist() %>% .[-1]
 
@@ -33,12 +34,19 @@ d1 <- d1[-1]
 v2 <- read_clip()  #11 columns
 (length(v2)-1)/11
 columns.v2<- v2[1] %>% str_split(pattern = '\t') %>% unlist() %>% .[-1]
-
 v2 <- v2[-1]
+
+v4 <- read_clip()  #11 columns
+(length(v4)-1)/11
+columns.v4<- v4[1] %>% str_split(pattern = '\t') %>% unlist() %>% .[-1]
+
+v4 <- v4[-1]
+
+
 
 # maybe add a new colum with a repetatin number 1-11
 d <- d1 %>% unlist %>% as.data.frame() %>%
-  mutate(col_n = rep(1:11,length.out=length(.))) %>%
+  mutate(col_n = rep(1:10,length.out=length(.))) %>%  #if 11 columns, rep 1:11
 #group_by(col_n) %>%
     rename('title'=1,) %>%
 #mutate(row = row_number())%>%
@@ -46,7 +54,7 @@ d <- d1 %>% unlist %>% as.data.frame() %>%
               names_from=col_n,
               values_from = title
                )  %>% unchop(everything())
-d <- d %>% mutate(section="d1")
+d <- d %>% mutate(Status="",section="d1")  #note if there are 10 or 11 columns
 colnames(d) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
 
 d %>% select(4,5,11,12)
@@ -66,21 +74,40 @@ v <- v2 %>% unlist %>% as.data.frame() %>%
 v <- v %>% mutate(section="v2")
 colnames(v) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
 
+
+va <- v4 %>% unlist %>% as.data.frame() %>%
+  mutate(col_n = rep(1:11,length.out=length(.))) %>%
+  #group_by(col_n) %>%
+  rename('title'=1,) %>%
+  #mutate(row = row_number())%>%
+  pivot_wider(
+    names_from=col_n,
+    values_from = title
+  )  %>% unchop(everything())
+va <- va %>% mutate(section="va")
+colnames(va) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
+
+
+
 w <- "Withdrawn"
 
 
 ##  Currently withdrawn students  ###
 
-rbind(d %>% filter(Status==w) %>% select(4,5,11,12),v %>% filter(Status==w) %>% select(4,5,11,12))
+rbind(v %>% filter(Status==w) %>% select(4,5,11,12),va %>% filter(Status==w) %>% select(4,5,11,12),d %>% filter(Status==w) %>% select(4,5,11,12))
 
 ##  Currently enrolled students to be joined with reflection data###
 
 reflect <- rbind(d %>%
-                   #filter(Status!=w) %>%
+                   filter(Status!=w) %>%
                    select(4,5,12,11),
                  v %>%
-                  # filter(Status!=w) %>%
-                   select(4,5,12,11))
+                   filter(Status!=w) %>%
+                   select(4,5,12,11),
+                 va %>%
+                   filter(Status!=w) %>%
+                   select(4,5,12,11)
+)
 
   ####  Currently enrolled students who have NOT done reflection for week 3  ###
 
@@ -88,7 +115,7 @@ reflect %>%  # Roster data
   separate(Name,into = c("l_name",'f_name'),sep=',') %>%
   mutate(l_name=toupper(l_name)) %>%
   left_join(p,by='l_name')  %>%    # joins with self reflection survey
-  filter(is.na(reflect_num)|reflect_num != "Week 3 Self reflection") %>%
+  filter(is.na(reflect_num)|reflect_num == "Week 9 Self reflection") %>%
   mutate(message=paste0("\n\n","Hello ",f_name.x,",","\n\n","This is a hard message to send.",'\n\n'," You're receiving it to let you know that I haven't heard from you and that you haven't done the first self-reflection that was due Sunday, Jan 23rd 11:59pm. In an effort to keep you on track, I imposed this deadline so that issues could be handled before the end of the quarter.  As of right now, you're a day late and I'm willing to Grant an additional day but at this point it's looking like you will not be able to get better than a B for the quarter. It's still expected that you do the work and that you are not late for the next 3 week deadline. If you miss that deadline you won't be able to get better than a C.","\n\n","Let me know if you can get it done in the next day.","\n\n")) %>% print(.,n=100) %>% write_clip()
 
 
@@ -98,7 +125,7 @@ reflect %>%  # Roster data
   separate(Name,into = c("l_name",'f_name'),sep=',') %>%
   mutate(l_name=toupper(l_name)) %>%
   left_join(
-    filter(p,reflect_num=="Week 6 Self Reflection"),  #If this code not present, then past reflections will be counted, which will hide those not completing week 6
+    filter(p,reflect_num=="Week 5 Self Reflection"),  #If this code not present, then past reflections will be counted, which will hide those not completing week 6
     by='l_name') %>%
   select(l_name,f_name.x,grade,section,reflect_num,Status) %>%
   filter(Status !=w) %>%
@@ -152,7 +179,7 @@ variables.f <- c('Timestamp',	'l_name',	'f_name',	'slack_name',	'successes',	'he
 colnames(fs) <- variables.f
 
 
-(fp <- fs %>% filter(Timestamp > "2022-03-1") %>%
+(fp <- fs %>% filter(Timestamp > "2022-06-1") %>%
     #select(f_name,l_name,Timestamp) %>%
     arrange(-desc(Timestamp)) %>% mutate(l_name=toupper(l_name))) %>% arrange(Timestamp) %>%  print(.,n=100)
 
@@ -166,11 +193,16 @@ reflect %>%  # Roster data
   left_join(fp,by='l_name') %>%
   select(section,ID,l_name,f_name.y,Status,grade) %>%
   separate(col=grade,into = c('grade','gpa'),sep="\\.\\.\\.\\.") %>%
-  arrange(section,l_name) %>% print(.,n=55) %>%
+  arrange(section,l_name) %>% print(.,n=100) %>%
 
 filter(Status != "Withdrawn") %>%
-  filter(is.na(f_name.y))
+  filter(is.na(f_name.y))%>%
+  mutate(message="You are receiving this message because I do not have a final reflection from you.  The last week of the schedule has a link.  I can not give you a grade until you have completed this. Until then, You'll have what is called an incomplete.  We can change it later if necessary.  But If you can get this done ASAP, I might be able to avoid it before my deadline.\n\n It is possible this message is an error. If you filled out the final reflection using a last name spelled differently from how the college has you on the roster, then my program will claim you did not fill out the final reflection.\n\n For convenience, here is the final reflection: https://forms.gle/E6RBAtjGcNm7BTjs7\n\n") %>% select (-c(4:7)) %>% arrange(section,l_name)
+#%>% write_clip()
 
+
+fp %>% select(l_name,f_name,grade,whichClass) %>% group_by(whichClass) %>%
+  tally()
 
 #Merged data
 
@@ -185,5 +217,23 @@ md %>% select(Timestamp,l_name,f_name.y,section,grade,Status,whichClass) %>%  fi
          grade=factor(grade),
          gpa=as.numeric(gpa),
          whichClass=factor(whichClass)) %>%
-  ggplot(aes(x=Timestamp,y=gpa))+geom_point()+geom_smooth(method='lm')+facet_grid(~whichClass)
+  ggplot(aes(x=Timestamp,y=gpa))+geom_point()+geom_smooth(method='loess')+facet_grid(~whichClass)
 
+
+
+md %>% filter(Status!="Withdrawn") %>% arrange(desc(Timestamp)) %>%
+  group_by(whichClass) %>%
+  separate(col=grade,into = c('grade','gpa'),sep="\\.\\.\\.\\.") %>%
+  mutate(section=factor(section),
+         grade=factor(grade),
+         gpa=as.numeric(gpa),
+         whichClass=factor(whichClass)) %>%
+  select(l_name,f_name.y,section, gpa,successes) %>%
+  filter(gpa>3.7) %>% select(l_name,section,successes)
+
+
+
+
+md %>% filter(Status!="Withdrawn") %>%
+  filter(f_name.y=="James") %>%
+  select(section,successes,letter,clearly,otherThoughts,qualityClass) %>% kbl()
