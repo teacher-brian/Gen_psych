@@ -1,5 +1,5 @@
 ---
-title: "General Psychology Schedule Spring 2022"
+title: "General Psychology Schedule Fall 2022"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output: 
@@ -14,7 +14,7 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="./">General Psychology Spring 2022 schedule</a></li>
+          <li><a href="./">General Psychology Fall 2022 schedule</a></li>
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
@@ -32,7 +32,7 @@ description: "This is a minimal example of using the rmarkdown package for gener
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Week 1  {#Week1} 
+# Week 1 Sept 26 {#Week1} 
 
 ## What do you want to focus on
 Think about what you want to learn:
@@ -131,7 +131,7 @@ B) What is quality in academics?
 C) How can you maintain your integrity while meeting the standards of others?
 
 
-# Week 2 April 11  {#Week2}
+# Week 2 Oct 3  {#Week2}
 
 ## Orienting comment
 
@@ -202,7 +202,7 @@ C) What value is there in synthesizing information?
 
 
 
-# Week 3  Apr 18 {#Week3}
+# Week 3  Oct 10 {#Week3}
 
 ## ~~This will contain your first self reflection~~
 ```{block,type='instructorNote'}
@@ -249,7 +249,7 @@ A) How does your brain know the difference between real and imaginary?
 B) Where is "information" in the brain?
 C) what metaphors are useful to think about how the nervous system works?
 
-# Week 4 Apr 25 {#Week4}
+# Week 4 Oct 17 {#Week4}
 
 ## Do, Watch, and Read the following
 
@@ -282,7 +282,7 @@ F. @Naik_2001
     * Don't simply say this is clear or not. 
     * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
     
-# Week 5 May 2  {#Week5}
+# Week 5 Oct 24 {#Week5}
 
 ## New layer of explanation: Cognition background
 
@@ -382,7 +382,7 @@ You will understand your own work better when you try to anticipate your readers
 
     * The text boxes you see in this survey will expand to accommodate what you need to write. In other words, don’t feel like you must only say like 3 words to just fit the box shown.
 
-# Week 6 May 9 {#Week6} 
+# Week 6 Oct 31 {#Week6} 
 
 ```{block, type='instructorNote'}
 On Thursday, May 12, there will be no classes held for the whole school.  
@@ -424,7 +424,7 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 
 
 
-# Week 7  May 16 {#Week7}
+# Week 7  Nov 7 {#Week7}
 
 ## Read the following:
 
@@ -461,7 +461,7 @@ In my abnormal psych class, I was asked to show how I might use tools to solve a
 
 
 
-# Week 8 May 23  {#Week8}
+# Week 8 Nov 14  {#Week8}
 
 This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
 
@@ -483,7 +483,7 @@ B. Post to [**#metacognition**](https://generalpsycho-g7p7362.slack.com/archives
 
 
 
-# Week 9 Personality May 30 {#Week9}
+# Week 9 Personality Nov 21 {#Week9}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)
 
@@ -564,7 +564,7 @@ Another way to think about this assignment:   If students take an intro to psych
     * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
 
 
-# Week 10 Abnormal June 6 {#Week10}
+# Week 10 Abnormal Nov 28 {#Week10}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)
 
@@ -616,7 +616,7 @@ So please don't. Don't diagnose yourself and don't diagnose others.  If you thin
 
 * Comment on 2 or 3 of your classmates work.
 
-# Week 11 and 12 Social Psych June 13 {#Week11}
+# Week 11 and Week 12 Dec 5, December 12 {#Week11}
 
 This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
 
@@ -628,7 +628,7 @@ Will still have the "read stuff, do stuff" but most instructions will be found h
 
 ## 2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
 
-## 3. [All work should be completed by end of day, June 17, 2022](https://northseattle.edu/calendars/academic-calendar?trumbaEmbed=view%3Devent%26eventid%3D559538082){target="_blank"}
+## 3. [All work should be completed by end of day, December 12, 2022](https://northseattle.edu/calendars/academic-calendar?trumbaEmbed=view%3Devent%26eventid%3D559538082){target="_blank"}
 
 
 
