@@ -152,7 +152,8 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
    *  Do this one without over thinking it.  
    *  add this to your google doc.  You can add it as a new page.
 
-5. When you are done, post to the [#week-1](https://generalpsycho-seu2975.slack.com/archives/C043TLDKC20){target="_blank"} Slack channel by including a link to your document from step 2 above.
+5. When you are done, post to the [#week-1](https://generalpsycho-seu2975.slack.com/archives/C043TLDKC20){target="_blank"} Slack channel by including a link to your document from step 2 above. 
+    -  There is a weird behavior I've not seen before.  This link does go to Week1, but then it shifts to resources.  That's weird.  You may have to search for week 1.
 
 6. Read some of your classmates' posts and comment on some.  
 
