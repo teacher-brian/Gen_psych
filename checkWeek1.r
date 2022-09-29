@@ -2,15 +2,20 @@ library(rvest)
 library(tidyverse)
 library(clipr)
 library(lubridate)
-email<- read_clip()
+email<- read_clip()  #form notify everyone email before sending
+email1<- read_clip()  #form notify everyone email before sending
 users<- read.csv("slackUsers.csv")
-roster <- read.csv("5-16-22_General_roster.csv")
+roster <- read.csv("d1.csv")
 roster %>% separate(Name,into = c('last','first'),sep = ',')
 
 email<- as.data.frame(strsplit(email,", "))
+email1<- as.data.frame(strsplit(email1,", "))
+colnames(email1) <- "email"
 colnames(email ) <- "email"
- email%>% left_join(users) %>% select(email, fullname)
+email<- rbind(email,email1)
+missing<- email%>% left_join(users) %>% select(email, fullname) %>% filter(is.na(fullname))
 
+gsub(x=paste(shQuote(missing$email), collapse = ", "),"'","" )%>% write_clip()
 
 week1 <- read_clip()
 week1
