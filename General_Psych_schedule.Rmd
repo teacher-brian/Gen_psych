@@ -558,6 +558,9 @@ For help in distinguishing the different types of sources, the library has some 
 
 8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to give your last name and student ID number. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
 
+
+    - 8a. If you don't know your @ seattlecolleges.edu email, or email password, you can go to this location [https://tools.seattlecolleges.edu/Initialize/resetmypassword](https://tools.seattlecolleges.edu/Initialize/resetmypassword){target='_blank'} to update it, reset/change the password. If you still can't get access, let me know.
+
 9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
 
 But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
