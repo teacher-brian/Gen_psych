@@ -1,3 +1,4 @@
+# for zoom
 library()
 x <- c('tidyr','dplyr','lubridate','stringr','clipr')
 lapply(x,library,character.only=T)
