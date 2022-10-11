@@ -38,7 +38,7 @@ grep("[a]|\\s",week1,value = T)  %>%
   grep("[a-z]$|\\s[0-9]{1,2}:.*[AP]M$|joined",.,value = T,ignore.case = T)  %>%
   grep("Google Doc|G Suite Document|repl|days|iew|http|rian|Only|one doc",
        .,invert = T,value = T)  %>%  as.data.frame() -> week_post
-
+colnames(week_post) <- "data"
 posted <- week_post %>%
   mutate(time=dplyr::lead(data,1),joined=dplyr::lead(data,2)) %>%
   mutate(time= gsub("^[a-zA-Z]",NA,time)) %>%
