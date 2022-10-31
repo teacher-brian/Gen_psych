@@ -11,6 +11,7 @@ email<- read_clip()  #from notify everyone email before sending
 email1<- read_clip()  #from notify everyone email before sending
 users<- read.csv("slackUsers.csv")
 roster.d1 <- read.csv("d1.csv")
+roster.d1$Status.Note <- ""
 roster.h2 <- read.csv("h2.csv")
 roster <- rbind(roster.d1,roster.h2)
 roster <- roster[complete.cases(roster),]
