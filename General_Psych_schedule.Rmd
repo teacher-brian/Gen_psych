@@ -625,7 +625,7 @@ That Proquest research library is the database that you've all paid fees to acce
 
 5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
 
-![North's Find Periodicals](/media/brian/dater_bridge2/Projects/Getting_Started/images/NorthLibrarySearch.png)
+![North's Find Periodicals](../images/NorthLibrarySearch.png)
 
 6. Click on "A to Z"
 
