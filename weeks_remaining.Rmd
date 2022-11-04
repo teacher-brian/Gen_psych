@@ -33,8 +33,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
-
 # Week 8 Nov 14  {#Week8}
 
 This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
