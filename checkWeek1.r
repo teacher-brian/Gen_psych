@@ -11,7 +11,7 @@ email<- read_clip()  #from notify everyone email before sending
 email1<- read_clip()  #from notify everyone email before sending
 users<- read.csv("slackUsers.csv")
 roster.d1 <- read.csv("d1.csv")
-roster.d1$Status.Note <- ""
+#roster.d1$Status.Note <- ""
 roster.h2 <- read.csv("h2.csv")
 roster <- rbind(roster.d1,roster.h2)
 roster <- roster[complete.cases(roster),]
@@ -32,7 +32,7 @@ week1 <- read_clip()
 
 week1.bak <- week1
 
-grep("[a]|\\s|Romy",week1,value = T)  %>% #romy gets filtered out
+grep("[a]|\\s",week1,value = T)  %>% #romy gets filtered out
   grep("[a-z\\)]$|\\s[0-9]{1,2}:.*[AP]M$|joined",.,value = T,ignore.case = T)  %>%
   grep("Google Doc|G Suite Document|repl|days|iew|http|rian|Only|one doc",
        .,invert = T,value = T)  %>%  as.data.frame() -> week_post
@@ -49,13 +49,14 @@ posted <- week_post %>%
   mutate(data= gsub("^[ 0-9]",NA,data)) %>%
   filter(grepl("joined",joined,ignore.case=T,)==F) %>%
   filter(grepl("joined",data,ignore.case=T,)==F) %>%
-  filter(complete.cases(.)) %>%
-  select(data) %>%  unique(.)
+  select(data,time) %>% mutate(time=trimws(time)) %>% filter(grepl("^[0-9]",time)) %>% select(data) %>%
+
+  unique(.) %>% arrange(data)
 
 users  %>% mutate_all(as.character) %>%
   mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>%
   anti_join(posted, by = c("displayname"="data")) %>%
-  filter(status =="Member") %>% separate(fullname,into=c("first",'last')," ") %>%   left_join(roster)
+  filter(status =="Member") %>% separate(fullname,into=c("first",'last')," ") %>%   left_join(roster) %>% arrange(last)
 
 
 
