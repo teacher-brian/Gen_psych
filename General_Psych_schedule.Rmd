@@ -623,7 +623,7 @@ That Proquest research library is the database that you've all paid fees to acce
 
 4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
 
-5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
+5. Notice what is presented here. You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
 
 ![North's Find Periodicals](../images/NorthLibrarySearch.png)
 
