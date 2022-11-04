@@ -32,7 +32,7 @@ description: "This is a minimal example of using the rmarkdown package for gener
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+%
 
 
 # Week 9 Personality Nov 21 {#Week9}
