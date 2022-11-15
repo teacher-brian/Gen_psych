@@ -585,7 +585,7 @@ Please don't skip these following videos/pods--stroke of insight and words.  Let
     * support your thinking about what identity means.  (support means use the critical thinking standards)
     * use what we’ve covered anywhere in the course.
     * This is an impossible assignment ;)
-* Post your work in the [#threads](https://generalpsycho-g7p7362.slack.com/archives/C03GX0LH023){target='_blank'} channel
+* Post your work in the [#threads](https://generalpsycho-seu2975.slack.com/archives/C04B380S77V){target='_blank'} channel
 * Comment with the intent to engage 1-2 of your classmates and their writing.
 
 
@@ -604,9 +604,86 @@ Another way to think about this assignment:   If students take an intro to psych
 
 
 
-# in progress: Is Killmonger a villian or a tragic hero? 
+# Optional assignment on Killmonger
 
-details soon.  
+## [Is Killmonger a villian or a tragic hero?](https://docs.google.com/document/d/1PQ4GopLAz2gnCf6RH3PjAdjAepYdgpMdUeIwEPNEkbY/edit?usp=sharing){target='_blank'} 
+
+
+Again, it's optional and not obviously connected to Psychology but a reasonable argument that it's related to personality, abnormal Psych, and social psych could be made.  You don't have to make a connection to psychology, but if you do this assignment, you really should use a workflow and the critical thinking standards.
+
+Post to your optional work to  #[killmonger](https://generalpsycho-seu2975.slack.com/archives/C04B5SGVD7E){target='_blank'}
+
+
+
+
+
+
+# Week 10 Abnormal Nov 28 {#Week10}
+
+## Be sure to check out [Week 11 on social psychology](#Week11)
+
+As an assignment it may be taxing so you'll want to plan out your next few weeks
+
+## Abnormal Psych
+
+Abnormal psychology has a lot of hidden dangers. Which means I have a responsibility to call out a couple of things in a way that's different than past weeks.
+
+First thing is to Beware of the medical student syndrome. This is the tendency for medical students to self-diagnose when learning about new and exotic illnesses. The same thing happens in Abnormal psychology. The profession tries to make diagnosis clear to those who actually make diagnoses. But that means that non-experts will overestimate their own ability to accurately diagnose self and others.
+
+So please don't. Don't diagnose yourself and don't diagnose others.  If you think that you or someone you know struggling with a mental disorder don't try to diagnose them or even offer advice. Instead ask them what they need, and listen.
+
+## Read/Watch
+
+* [ADHD youtube primer, about 30 minutes](https://www.youtube.com/watch?v=ouZrZa5pLXk){target='_blank'}
+  * if you ever wondered if you have ADHD, this might be helpful (thought don't diagnose yourself with just this video. You need a trained diagnostician to do it right).
+
+* [Abnormal Psych Chapter Textbook](https://openstax.org/books/psychology-2e/pages/15-introduction){target='_blank'}
+
+* @efran_defining_2007 This has some nice controvertial and provocative ideas.  Not everyone will like them. You'll need to look this up using the Library's database.  The specific database is called Pro-quest.  [This schedule has instructions for doing this](#PeriodicalLocator).
+
+* [Lecture on Diathesis Stress Model](https://youtu.be/1MaaORgCHvc){target='_blank'}   15 minutes
+
+* [Lecture on how anxiety is about survival](https://youtu.be/bVdEGLSmXlk){target='_blank'}   7 minutes
+
+* [Optional Lectures on depression](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target='_blank'}  50 minutes'ish
+
+* [Optional case study interview of a person suffering from Schizophrenia](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/AbnormVids/Schizophrenia_type_1_7min.mp4){target='_blank'} 7 min
+
+* Questions to ask yourself when thinking about abnormal psychology
+
+  * What is normal versus abnormal?  What does the textbook say? What is missing?
+
+  * What dominates your thinking about human motivation? Is there a particular psychological theory that you tend to gravitate to? For instance, are all things biological? Cognitive? Do you feel a need to simplify?
+
+  * Remember earlier in the quarter when I had you watch the systems within psychology video. This video was a brief introduction to the fact that human motivation is layered. Certainly there are biological reasons for why we do what we do, but there's also learning histories, cognitive processes, personality variables, but also social influences. All of these things are happening all of the time. So somebody says that they're depressed, do you have a tendency to say oh there's something biological wrong? Socially wrong?
+
+  * Keep in mind: how do we measure abnormal behavior?
+  * Who has the power to say one thing is normal versus another? Does that power come from cultural norms? Somewhere else? Do we give up this power?  Are we aware we have some power?
+
+  * When a diagnostician gives a diagnosis, who do they serve?
+
+## Do some stuff
+
+* Respond to anything above.  Write maybe 2 or 3 paragraphs.  Yes, this is light.
+
+* Share your writing with the slack Channel [**#abnormal**](https://generalpsycho-seu2975.slack.com/archives/C04B384F4R1){target='_blank'} 
+
+* Comment on 2 or 3 of your classmates work.
+
+# Week 11 and Week 12 Dec 5, December 12 {#Week11}
+
+This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
+
+Will still have the "read stuff, do stuff" but most instructions will be found here:
+
+## 1. [Assignments are here](https://docs.google.com/document/d/1oaC-Q_UNuxG16e3CSc-zRBfJzk9X92yjQPQ0f-PDoCw/edit?usp=sharing){target="_blank"}
+
+   * The channel will be [#social-psych](https://generalpsycho-seu2975.slack.com/archives/C04ANQS9UQP){target="_blank"}
+
+## 2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
+
+## 3. [All work should be completed by end of day, December 12, 2022](https://northseattle.edu/calendars/academic-calendar){target="_blank"}
+
 
 # Appendix
 
