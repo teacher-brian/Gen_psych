@@ -79,15 +79,16 @@ v <- v %>%mutate(section="v2") %>% #note if there are 10 or 11 columns
 
 va <- v4 %>% unlist %>% as.data.frame() %>%
   mutate(col_n = rep(1:11,length.out=length(.))) %>%
-  #group_by(col_n) %>%
+  group_by(col_n) %>%
   rename('title'=1,) %>%
-  #mutate(row = row_number())%>%
+  mutate(row = row_number())%>%
   pivot_wider(
     names_from=col_n,
     values_from = title
   )  %>% unchop(everything())
-va <- va %>% mutate(section="va")
-colnames(va) <- c("Notify","blank","Photo","ID","Name","Basis", "Units","Program","area","Level", "Status","section" )
+va <- va %>% mutate(section="va") %>%
+rename("row"=1,"Notify"=2,"blank"=3,"Photo"=4,"ID"=5,"Name"=6,"Basis"=7, "Units"=8,"Program"=9,"area"=10,"Level"=11, "Status"=12,"section"=13 )
+
 
 
 
@@ -96,21 +97,22 @@ w <- "Withdrawn"
 
 ##  Currently withdrawn students  ###
 
-rbind(v %>% filter(Status==w) %>% select(5,6,12,13),
-      #va %>% filter(Status==w) %>% select(4,5,11,12),
-      d %>% filter(Status==w) %>% select(5,6,12,13))
+rbind(#v %>% filter(Status==w) %>% select(5,6,12,13),
+      va %>% filter(Status==w) %>% select(5,6,12,13)
+      #d %>% filter(Status==w) %>% select(5,6,12,13)
+      )
 
 ##  Currently enrolled students to be joined with reflection data###
 
-reflect <- rbind(d %>%
-                   filter(Status!=w) %>%
-                   select(5,6,12,13),
-                 v %>%
+reflect <- rbind(#d %>%
+                  # filter(Status!=w) %>%
+                   #select(5,6,12,13),
+                 #v %>%
+                   #filter(Status!=w) %>%
+                   #select(5,6,12,13)
+                 va %>%
                    filter(Status!=w) %>%
                    select(5,6,12,13)
-                 #va %>%
-                  # filter(Status!=w) %>%
-                   #select(4,5,12,11)
 )
 
   ####  Currently enrolled students who have NOT done reflection for week 3  ###
