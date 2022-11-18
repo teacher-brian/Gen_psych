@@ -368,13 +368,14 @@ Again, you don't have to do all of these, I am asking you to identify 1 of the a
 
 A. Read/skim [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"}
 
-B. Read the following excerpt from the book The Craft of research @boothCraftResearch2016
+B. Read the following excerpt (just below in blue) from the book The Craft of research @boothCraftResearch2016
 
 C. Read Nancy Chick, again, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
 D. Read Alfie Kohn, again, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
 ```{block,type='blueBackground'}
+<h2 style="text-decoration: underline;">Craft of Research Excerpt</h2>
 <h4 style="text-decoration: underline;">Why write our research up?</h4>
 
 For some of you, the invitation to join into a expert research conversation may still seem easy to decline but if you accept it you'll have to find a good question, search for sound data, formulate and support a good answer and then write it all up and even if you turn out a first-rate paper, it may be read not by anyone in the world but only by your teacher. And besides, you may think, my teacher knows all about my topic. What do I gain from writing up my research, other than proving I can do it?
