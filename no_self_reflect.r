@@ -47,12 +47,11 @@ a5 <- a5 %>%
 sr<- data.frame(str_split_fixed(sr,'\t',2),stringsAsFactors=F)
 colnames(sr) <- c('l','f')
 str(sr)
-sr<- apply(sr,2,as.character)
 sr %>% mutate(across(1:2,str_trim)) -> sr
 sr %>% mutate(across(1:2,toupper)) -> sr
 genRost <- rbind(h2,d1,a5) %>% filter(is.na(`Status Note`))
 
-anti_join(genRost,sr,by='l')
+anti_join(genRost,sr,by='l')%>% print(n=nrow(.))
 left_join(genRost,sr,by='l') %>% filter(f.y!='<NA>') %>%
   arrange(l,section) %>% print(n=nrow(.))
 
