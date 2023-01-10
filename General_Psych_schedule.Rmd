@@ -1,5 +1,5 @@
 ---
-title: "General Psychology Schedule Fall 2022"
+title: "General Psychology Schedule Winter 2023"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output: 
@@ -14,7 +14,7 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="./">General Psychology Fall 2022 schedule</a></li>
+          <li><a href="./">General Psychology Winter 2023 schedule</a></li>
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
@@ -66,7 +66,7 @@ H. Here is the pattern of the course:
   2. Most of what you'll do is some type of writing assignment in google docs. I will give you instructions and support for how to do this. 
   3. When you have finished the weeks assignment, you will post a link to your work in slack.
 
-# Week 1 Sept 26 {#Week1} 
+# Week 1 Jan 2 {#Week1} 
 
 ## What do you want to focus on
 Think about what you want to learn:
@@ -120,7 +120,7 @@ Okay, the following items ( 7 & 8) deserve a little bit of explanation on my sid
 
 Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, for example, what part of the reading or video were you just watching?  And don't be afraid to keep asking the question 'so what?' about any and all content. 
 
-That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://generalpsycho-seu2975.slack.com/archives/C043R4G24SX){target="_blank"}
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://winter23gener-bar7482.slack.com/archives/C04GX78BCTY){target="_blank"}
 
 
 Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
@@ -138,40 +138,37 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 2. Take a look at the [Getting_started](https://rpubs.com/briholt/Getting_started/){target=”_blank”}, in particular the menu item __Using Google Docs__.
 
-2. Write something about what interests you about psychology in your one google doc..remember, have one document. Be sure to give it a title.  Write about things that interest you and ponder whether psychology is related.  **Don't write a book report**.  Be honest, here. I'm not interested in what you **think** you should be interested.  So if you aren't interested in psych, that's okay!.  Some people take this course because it's a prereq for other courses.  That's okay!
+3. Frequently asked questions 
 
-3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  
+4. Write something about what interests you about psychology in your one google doc..remember, have one document. Be sure to give it a title.  Write about things that interest you and ponder whether psychology is related.  **Don't write a book report**.  Be honest, here. I'm not interested in what you **think** you should be interested.  So if you aren't interested in psych, that's okay!.  Some people take this course because it's a prereq for other courses.  That's okay!
 
-    what is your process for thinking clearly?
+5. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  
 
-    How do you know something is true?
+    a) What is your process for thinking clearly?
+
+    b) How do you know something is true?
     
 
-4. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
+6. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
 
    *  Do this one without over thinking it.  
    *  add this to your google doc.  You can add it as a new page.
 
-5. When you are done, post to the [#week-1](https://generalpsycho-seu2975.slack.com/archives/C043TLDKC20){target="_blank"} Slack channel by including a link to your document from step 2 above. 
+7. When you are done, post to the [#week-1](https://winter23gener-bar7482.slack.com/archives/C04HTFXR2RE){target="_blank"} Slack channel by including a link to your document from step 2 above. 
     -  There is a weird behavior I've not seen before.  This link does go to Week1, but then it shifts to resources.  That's weird.  You may have to search for week 1.
-<<<<<<< HEAD
-=======
 
-6. Read some of your classmates' posts and comment on some.  
->>>>>>> 3597693fb5b015f8785764357cd18910c80f72f9
-
-6. Read some of your classmates' posts and comment on some.  
+8. Read some of your classmates' posts and comment on some.  
 
 ## In class Conversation Questions
 
-These are questions that I'd like to discuss during Zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+These are questions that I'd like to discuss class meetings.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
 
 A) What is Quality?
 B) What is quality in academics?
 C) How can you maintain your integrity while meeting the standards of others?
 
 
-# Week 2 Oct 3  {#Week2}
+# Week 2 Jan 9  {#Week2}
 
 ## Orienting comment
 
@@ -215,7 +212,7 @@ Your instructor will frequently remind you to not rely on URLs when referencing.
 
 ## Do the following
 0. reminder to write down descriptions of the critical thinking standards in your own words.
-1. write a synthesis of the 4 sources above.  You may want to consider comment about whether you think knowledge is static.  
+1. write a synthesis of the 4 sources above (critical thinking, stupidity in science, red scare evaluation, chapter 2).  You may want to consider comment about whether you think knowledge is static.  
 
 ```{block, type='blueBackground'}
 
@@ -228,7 +225,7 @@ Please do not summarise these articles.  Synthesize.  Use the lecture just below
 
 2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
 
-3. Share your work on slack by linking to it in the slack channel #week-2-synthesis.
+3. Share your work on slack by linking to it in the slack channel #[week-2-synthesis](https://winter23gener-bar7482.slack.com/archives/C04GP8XGACX){target='_blank'}.
 
 4. Read and comment upon some of your classmates submissions.  In google docs, you can highlight any part of their page and then create a comment by right clicking or using the keyboard shortcut "cntrl + alt + m"
 
@@ -242,290 +239,7 @@ C) What value is there in synthesizing information?
 
 
 
-# Week 3  Oct 10 {#Week3}
 
-## It's a pretty dense unit.
-
-## Do, Watch, and Read the following
-
-A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the #muddy-point-board in slack.  For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior.  
-
-B. Pick a behavior--a feeling, an action, a thought, but try to keep it simple (In fact thoughts may be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
-
-C. [Layers of Psychological explanation--10 min](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/Fall2019General/The_systems.mp4){target='_blank'}
-
-D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
-
-
-E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
-
-
-F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
-
-G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
-
-
-## Do the following
-
-1. Reassess your understanding from above A.
-2. What would you add to your understanding in B?
-3. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
-    * On that new page, write a quick title like "psycho-biology I'm interested in"
-    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
-    * if you click on that text, you should see a "link" option. Copy that link and...
-4. ...share your ideas from # 3 above to the Channel #More_Biopsych by pasting that link into Slack.
-5. Read some other posts from classmates and comment about some areas of interest.
-
-## In Class/zoom Conversation Questions
-
-These are questions that I'd like to discuss in class/zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
-
-A) How does your brain know the difference between real and imaginary?
-B) Where is "information" in the brain?
-C) what metaphors are useful to think about how the nervous system works?
-
-# Week 4 Oct 17 {#Week4}
-
-## Do, Watch, and Read the following
-
-A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** the behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
-
->    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
-
-B. Read/skim [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
-
-C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
-
-D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
-
-E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
-
-F. @Naik_2001 
-
-  * Link to their article [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'}
-
-
-## Do some stuff:
-
-1. Reassess your understanding from above A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing.
-2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
-3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
-4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?
-5. Link your writing for #3 and #4 to the Channel #Learning-theory.  Search for it in the Slack Search Bar.
-6. Comment and try to engage with a few of your classmates on this assignment.  
-    * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.  
-    * Don't simply say this is clear or not. 
-    * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
-    
-# Week 5 Oct 24 {#Week5}
-
-## New layer of explanation: Cognition background
-
-So this week throws us into the deep end of the pool regarding the way that we think about the world.
-
-Probably before human beings have been writing and painting on the inside of caves there has been some quality of activity that we would recognize as “thinking.”
-
-Fast forward to the 60's when computers began to displace workers in the workplace, the concept of 'computer as a machine" crept into the collective conscious of people across the planet and we began to recognize that in some ways humans have a cognitive ability that might be modeled as a computer. 
-
-In other words, during the fifties and sixties, Humanity received a new lexicon for describing things like memory, thinking, and processing information.  You could call it the 'information processing model" of the Brain.
-
-Our contemporary understanding of long-term memory is *because* we first had a computer part called a hard drive. I'm oversimplifying it a bit, but what I want to impress upon you is that a lot of the hypothetical constructs that we use today to describe thinking came about because we invented computers. Yes, we all had some concept of memory before computers.  But computers gave us a new metaphor to operationally define how memory might work.
-
-Once we had a lexicon about computers we began to use that lexicon to describe humans. It's not a perfect model, but it's taught us a lot about the limits of our cognitive powers.
-
-## Instructions
-
-To begin, and before you start doing more reading, I want you to first imagine some scenario. 
-
-While you do this imagine that you are able to witness your thoughts from the point of view of  another person, or perhaps a different side of yourself. 
-
-It might be that you are watching your behavior and while noting the pattern of how/where your thoughts come about; it might be an auditory exercise where you're able to listen and hear the words you're saying.  Most of you do this naturally, but some of you might not have a lot of experience in observing your own thoughts.
-
-## Do One of the following (Part A)
-
-I am only asking you to think of 1. You can write about this material, but you may want to keep it private, stored in another document.  Notice that I'm not asking you to post your writings about this imagined scenario, described next.
-
-* Think about why you might not ask somebody out on a date.  A lot of the first thoughts that come to your mind will be relatively broad and vague. A good example of this is going to be a fear of rejection. If you think about this particular example, try to think about a specific person that you do, but do not, want to ask out on a date, and think about the follow-up thoughts that arise when you say "I'm afraid of being rejected”. What comes after "afraid of being rejected?"  Play with answers around  "what if you are rejected?"
-
-* Or think about somebody you are romantically involved with but are afraid to bring up a topic. I'm not really interested in the topic itself, but what I am interested is to have you write down the obstacles you perceive to be present making this topic difficult, and then to analyze your thoughts, beliefs, and assumptions about those obstacles.
-
-* Or, if you are not involved in a romantic relationship, think about a difficult conversation with an authority figure. Something you would like to tell them,  But won't because of what you perceive to be obstacles to that conversation.
-
-Again, you don't have to do all of these, I am asking you to identify 1 of the above and to think about your thoughts. Specifically, which thoughts arise and then think about the cascading thoughts that follow.  Asking “so what” might be useful.   For example, “I don't want to ask that person out because I'm afraid they will turn me down.”  So what?  Because rejection means….  So what?   do this a few iterations.
-
-
-## Do the following (Part B)
-
-### Biases
-
-1. Make a guess as to the number of cognitive biases there are. If you don't know what this means, that's okay. Guess anyway.
-
-2. Go to Wikipedia and look up "list of cognitive biases".  Use the full phrase.
-
-3. Pick 3 of your favorite biases from that wikipedia list and describe them in your own words; include a link to them along with a proper reference.  I don't have a preference for which referencing style.  Post your work to the #Biases channel.
-
-## Read the following
-
-A. Read/skim [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"}
-
-B. Read the following excerpt from the book The Craft of research @boothCraftResearch2016
-
-C. Read Nancy Chick, again, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
-
-D. Read Alfie Kohn, again, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
-
-```{block,type='blueBackground'}
-<h4 style="text-decoration: underline;">Why write our research up?</h4>
-
-For some of you, the invitation to join into a expert research conversation may still seem easy to decline but if you accept it you'll have to find a good question, search for sound data, formulate and support a good answer and then write it all up and even if you turn out a first-rate paper, it may be read not by anyone in the world but only by your teacher. And besides, you may think, my teacher knows all about my topic. What do I gain from writing up my research, other than proving I can do it?
-
-One answer is that we write not just to share our work but to improve it before we do.
-
-<h4 style="text-decoration: underline;">Write to remember</h4>
-
-Experienced researchers first write just to remember what they read. A few talented people can hold in mind masses of information, but most of us get lost when we think about what *Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Buscovich but what was it that Smith said?* When you don't take notes on what you read, you are likely to forget or, worse misremember it.
-
-<h4 style="text-decoration: underline;">Write to understand</h4>
-
-The second reason for writing is to see larger patterns in what you read. When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts. 
-
-*I want to use these claims from long, but her argument is undercut by Smith's data. When I put them side-by-side, I see that Smith ignores this last part of Wong's argument. aha! If I introduce it with this part from Brunelli, I can focus on one more clearly. *
-
-That's why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways. 
-
-<h4 style="text-decoration: underline;">Write to test your thinking</h4>
-
-But even when they agree that writing is an important part of learning thinking and understanding some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined, or even want to, and conform to conventions they did nothing to create. 
-
-*Why should I adopt language in forms that are not mine? Aren't you just trying to turn me into an academic light yourself? If I write as you expect me to, I risk losing my identity.*
-
-Such concerns are legitimate (most teachers wish students would raise them more often). But it would be a feeble education that did not change you at all, and the deeper your education the more it will change the "you" that you are or want to be.
-
-That's why it is so important to choose carefully what you study and with whom. But it would be a mistake to think that learning to report sound research must threaten your true identity. It will change the way you think, but only by giving you more ways of thinking. You will be different by being freer to choose who you want to be and what you want to do with your life. 
-
-But the most important reason for learning to write in ways readers expect is that when you write for others, **you demand more of yourself and when you write for yourself alone.** By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be *but for what they really are.* 
-
-You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected?
-```
-## Do the following Part C
-
-1. Without using an anecdote, defend this statement: "Multitasking is a myth". Defend means to use a combination of logic and evidence, so be sure to do a bit of outside reading on the topic. When you do this part of your work, be mindful of the critical thinking standards.
-
-2. Link your work to the #multitasking channel
-
-3. Do A [self-reflection Survey](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform){target="_blank"}
-
-    * The text boxes you see in this survey will expand to accommodate what you need to write. In other words, don’t feel like you must only say like 3 words to just fit the box shown.
-
-
-
-# Week 6 Oct 31 {#Week6} 
-
-```{block, type='instructorNote'}
-On Wednesday, Nov 2, there will be no classes held for the whole school.  
-
-Faculty are expected to be doing other college work.  
-
-Which means none of you can be required to attend any class on 11/2.  For any class.  In the whole Seattle college district.  
-```
-
-## Read the following
-
-A. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}. This will be a review, basically.
-
-* skim this but pay closer attention the semantic sections with the schematics for cars
-* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.
-   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (like nodes, edges) but I want you to have an appreciation for how people may differ in terms of their networks.  How do experts differ from novices in terms of their networks.  Are they more complicated?  More lines?  Different organization?  
-
-B. Read/skim [Chapter 8 of your textbook](https://openstax.org/books/psychology-2e/pages/8-introduction){target="_blank"}
-
-C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr5DQnj_0HU7lQrTdmo9kG2otEITHXUrGzYQdvg/edit?usp=sharing){target="_blank"}
-
-## Do the following
-
-1. Identify the metaphorical dragons that interfere with your learning. Maybe one of them is anxiety about performing well. And this dragon makes it difficult to focus and to filter out extraneous distractions. Or maybe another dragon is the lure of interesting things in your social network making your phone buzzed with texts or other activity.  Maybe it’s a dragon of inertia, making it hard to start new things.  There are many dragons.
-
-2. After you’ve listed a few (at least 2) of these dragons, what can you do to either slay these dragons, or can you use them, trick them to actually help you learn new material?  If you aren’t sure where to begin, you might consider your textbook (ch's 7 and 8) and to read that material again as if you’ve been given a secret scroll...a treasure map that helps you.  Obviously the textbook is not going to give you a simple formula like " problem x is solved by y". But if you take this adventure, keep notes as you re-read the chapters.  Ask the chapters questions...even if the chapter can't answer it.
-
-3. Write down your solutions and post them, or at least the ones with which you feel comfortable sharing in the #[Dragon channel](https://generalpsycho-seu2975.slack.com/archives/C0486E7DU79){target='_blank'}.
-
-4. Once you have shared material to #Dragon, Reply to your post, in thread, and tag 3 people in our class by using the @ symbol and their name.  Ask them to take a look at your work and ask them for feedback on some part.  Maybe it's your writing--like word choice and/or clarity.  Maybe it's something about your critical thinking.  This is hard ask to make of others but try it anyway.  Also, because it's still the pandemic and everything is just hard, don't fret if people you invite can't respond. It's likely that they are just overwhelmed with something.  
-
-5. If you are invited to give feedback to people's writing, be kind.  
-
-    * Remember that they are trying things out and are sharing potentially vulnerable parts of their lives.  If you need help giving feedback, send your instructor a /dm and I can help.
-
-    * also, you don't have to respond to everyone who invites you.
-
-    * If you do respond, think about what was asked of you.  Don't try to solve any problems but instead find ways to ask questions.  "I wonder if there is another way for this section to be more clear becauseI see a few different ways to interpret what you said."  That's just an example.  But the key is ask questions and to not simply say "this is wrong" or something aggressive like that.
-
-
-
-# Week 7  Nov 7 {#Week7}
-
-## Read the following:
-
-
-* [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
-
-* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
-
-* Places to Intervene in a System [-@meadows_leverage_1999 -this link goes to our schedule's References at the bottom; <b>there you'll find a link to the actual document...Right click that link to open it</b>]  (But here is a direct link to the document: [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){target="_blank"} )
-   * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you.
-   * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
-
-Piaget Videos
-
-* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
-
-### Brian's workflow video
-
-#### Two Videos you could watch if you are still unclear about workflow
-
-1. This one is recent, shorter, and from our class.  The document and video can be found in this [#resource channel post](https://generalpsycho-seu2975.slack.com/archives/C043DFTE7QA/p1664314061468869){target='_blank'}
-
-2. In my abnormal psych class, a few quarters ago I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically. 
-
-[Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}.  Admittedly, it's a bit tedious.  You should watch this on 2x speed.
-
-
-## Do some work:
-
-* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
-
-* From a systems point of view, using some of Meadows [-@%meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
-
-* Look at your "dragon" posts again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work.
-
-* Post your one-document again in the [#systems](https://generalpsycho-seu2975.slack.com/archives/C049AMSKYG0){target='_blank'} channel. 
-
-
-
-# Week 8 Nov 14  {#Week8}
-
-This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
-
-Be sure to ask questions in the muddy-point channel if they come up. 
-
-Also, take a look a head for the remaining weeks of the quarter.  Lots to do and you'll need to organize your approach so that you don't fall behind. 
-
-## Read/watch some
-
-A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
-
-
-## Do the following
-
-A. [Complete the following metacog assignment posted in a google doc](https://docs.google.com/document/d/1hCDt07L5NhMy0SQDW3k9g9O14YF0k0R-Gklzd7rTP4A/edit?usp=sharing){target="_blank"}
-
-B. Post to [**#metacognition**](https://generalpsycho-seu2975.slack.com/archives/C049LNNR4E7){target="_blank"} channel, tag 2 people to review your work.  
-
-
-
-
-# in progress: Is Killmonger a villian or a tragic hero? 
-
-details soon.  
 
 # Appendix
 
