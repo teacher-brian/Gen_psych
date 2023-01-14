@@ -9,10 +9,10 @@ library(clipr)
 library(lubridate)
 email<- read_clip()  #from notify everyone email before sending
 email1<- read_clip()  #from notify everyone email before sending
-users<- read.csv("slackUsers.csv")
+users<- read.csv(file="/media/brian/dater_bridge2/work/General/slackUsers.csv")
 roster.d1 <- read.csv("d1.csv")
 #roster.d1$Status.Note <- ""
-roster.h2 <- read.csv("h2.csv")
+roster.h2 <- read.csv("/media/brian/dater_bridge2/work/General/2023-1-9_GeneralHybridRoster.csv")
 roster <- rbind(roster.d1,roster.h2)
 roster <- roster[complete.cases(roster),]
 rownames(roster) <- NULL
@@ -32,8 +32,8 @@ week1 <- read_clip()
 
 week1.bak <- week1
 
-grep("[a]|\\s",week1,value = T)  %>% #romy gets filtered out
-  grep("[a-z\\)]$|\\s[0-9]{1,2}:.*[AP]M$|joined",.,value = T,ignore.case = T)  %>%
+#grep("[a]|\\s",week1,value = T)  %>% #romy gets filtered out
+  grep("[a-z\\)]$|\\s[0-9]{1,2}:.*[AP]M$|joined",week1,value = T,ignore.case = T)  %>%
   grep("Google Doc|G Suite Document|repl|days|iew|http|rian|Only|one doc",
        .,invert = T,value = T)  %>%  as.data.frame() -> week_post
 
@@ -53,15 +53,18 @@ posted <- week_post %>%
 
   unique(.) %>% arrange(data)
 
+
+# joins users from slack to roster
 users  %>% mutate_all(as.character) %>%
   mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>%
   anti_join(posted, by = c("displayname"="data")) %>%
   filter(status =="Member") %>% separate(fullname,into=c("first",'last')," ") %>%   left_join(roster) %>% arrange(last)
 
 
+# does anti-join to find roster names not in week 1
 
-users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
-  mutate(message= paste0("Hi @",displayname,", Week 3 is beginning, and I'm not seeing a post from you to week 1. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 1 yet.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available."))  %>% write_clip()
+users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>% select(email) %>% write_clip()
+  mutate(message= paste0("Hi @",displayname,", Week 2 is beginning, and I'm not seeing a post from you to week 1. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 1.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available.\n\n\n"))  %>% write_clip()
 
 
 
