@@ -9,7 +9,7 @@ output:
    toc: true
    toc_float: true
    toc_depth: 6
-   number_sections: yes    # if true, section labels render
+   number_sections: no    # if true, section labels render
    config:
       toc:
         scroll_highlight: yes
