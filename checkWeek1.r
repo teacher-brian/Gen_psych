@@ -64,7 +64,7 @@ users  %>% mutate_all(as.character) %>%
 # does anti-join to find roster names not in week 1
 
 users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>% select(email) %>% write_clip()
-  mutate(message= paste0("Hi @",displayname,", Week 2 is beginning, and I'm not seeing a post from you to week 1. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 1.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available.\n\n\n"))  %>% write_clip()
+  mutate(message= paste0("Hi @",displayname,", Week 5 is ending, and I'm not seeing a post from you to week 3. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 3.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available.\n\n\n"))  %>% write_clip()
 
 
 
