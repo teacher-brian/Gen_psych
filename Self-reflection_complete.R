@@ -97,8 +97,8 @@ w <- "Withdrawn"
 
 ##  Currently withdrawn students  ###
 
-rbind(#v %>% filter(Status==w) %>% select(5,6,12,13),
-      va %>% filter(Status==w) %>% select(5,6,12,13)
+rbind(v %>% filter(Status==w) %>% select(5,6,12,13)
+      #va %>% filter(Status==w) %>% select(5,6,12,13)
       #d %>% filter(Status==w) %>% select(5,6,12,13)
       )
 
@@ -107,12 +107,12 @@ rbind(#v %>% filter(Status==w) %>% select(5,6,12,13),
 reflect <- rbind(#d %>%
                   # filter(Status!=w) %>%
                    #select(5,6,12,13),
-                 #v %>%
-                   #filter(Status!=w) %>%
-                   #select(5,6,12,13)
-                 va %>%
+                 v %>%
                    filter(Status!=w) %>%
                    select(5,6,12,13)
+                 #va %>%
+                  # filter(Status!=w) %>%
+                   #select(5,6,12,13)
 )
 
   ####  Currently enrolled students who have NOT done reflection for week 3  ###
@@ -181,12 +181,12 @@ fs <-   read_sheet('https://docs.google.com/spreadsheets/d/1ISNMf5zsysLM8nZZ7D3N
 
 
 
-variables.f <- c('Timestamp',	'l_name',	'f_name',	'slack_name',	'successes',	'helpers',	'questions',	'grade',	'letter',	'openToFeedback',	'adjustFeedback',	'clearly',	'otherThoughts',	'qualityClass',	'qualityOther',	'improveCrit',	'improveCritOther',	'improveWriting',	'improveWritingOther',	'enjoyWork',	'enjoyWorkOther',	'anxiety',	'anxietyOther',	'control',	'controlOther',	'whichClass',	'lastAssignFocusGeneral',	'lastAssignFocusAbnormal',	'whichAssignHelped')
+variables.f <- c('Timestamp',	'l_name',	'f_name',	'slack_name',	'successes',	'helpers',	'questions',	'grade',	'letter',	'openToFeedback',	'adjustFeedback',	'clearly',	'otherThoughts',	'qualityClass',	'qualityOther',	'improveCrit',	'improveCritOther',	'improveWriting',	'improveWritingOther',	'enjoyWork',	'enjoyWorkOther',	'anxiety',	'anxietyOther',	'control',	'controlOther',	'whichClass',	'lastAssignFocusGeneral',	'lastAssignFocusAbnormal',	'whichAssignHelped','workflow','reviewed')
 
 colnames(fs) <- variables.f
 
 
-(fp <- fs %>% filter(Timestamp > "2022-06-1") %>%
+(fp <- fs %>% filter(Timestamp > "2023-03-16") %>%
     #select(f_name,l_name,Timestamp) %>%
     arrange(-desc(Timestamp)) %>% mutate(l_name=toupper(l_name))) %>% arrange(Timestamp) %>%  print(.,n=100)
 
