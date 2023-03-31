@@ -35,8 +35,6 @@ library(tidyverse)
 library(ggdag)
 library(tidygraph)
 library(ggraph)
-
-
 ```
 
 
@@ -177,32 +175,4 @@ These are questions that I'd like to discuss class meetings.  I think that if yo
 A) What is Quality?
 B) What is quality in academics?
 C) How can you maintain your integrity while meeting the standards of others?
-
-
-
-Introduce the concept of causality: Begin by explaining the difference between correlation and causation, and how DAGs can help us to understand causal relationships between variables.
-
-Define DAGs: Define what a DAG is and how it can be used to represent causal relationships between variables. You can use examples such as a DAG showing the relationship between smoking and lung cancer, or the relationship between exercise and heart disease.
-
-
-
-
-
-Basic structure of DAGs: Teach the basic structure of a DAG, including nodes (representing variables) and edges (representing causal relationships).
-
-
-
-
-Explain the importance of directionality: Highlight the importance of directionality in a DAG, and how it represents the direction of causation.
-
-
-
-
-Practice drawing DAGs: Provide opportunities for students to practice drawing DAGs, using examples from their own lives or from current events.
-
-Discuss common misconceptions: Discuss common misconceptions about DAGs, such as assuming that all relationships are causal or assuming that all causal relationships are direct.
-
-Analyze DAGs: Once students have a basic understanding of DAGs, you can move on to analyzing them. You can use R code to illustrate how to analyze DAGs, such as using the tidyverse package to create a DAG and ggdag to visualize it.
-
-
 
