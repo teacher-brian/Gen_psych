@@ -1,0 +1,84 @@
+Week 1: Basic Workflow for Critical Thinking and Writing
+
+Introduction to critical thinking and writing
+Steps in the critical thinking and writing process
+
+Developing a thesis statement
+Structuring an essay
+
+Causal inference in graphs
+Correlations and statistics
+
+Week 2: Directed and Acyclical Graphs
+
+Introduction to graphs and their uses in psychology research
+Understanding directed and acyclical graphs
+
+Validity and Reliability
+
+Introduction to validity and reliability in research
+Types of validity (content, construct, criterion)
+Types of reliability (test-retest, inter-rater, internal consistency)
+Importance of validity and reliability in research
+Common threats to validity and reliability
+
+Week 3: Biological Influences in Psychology
+
+Introduction to biological psychology
+The nervous system and its functions
+The endocrine system and its functions
+Brain structures and their functions
+Genetics and behavior
+
+Week 4: Learning Theory in Psychology
+
+Introduction to learning theory
+Classical conditioning
+Operant conditioning
+Social learning theory
+Applications of learning theory in psychology
+
+Week 5: Cognitive Psychology
+
+Introduction to cognitive psychology
+Attention and perception
+Memory and learning
+Language and thought
+Applications of cognitive psychology
+
+Week 6:
+
+Week 7: Developmental Psychology
+
+Introduction to developmental psychology
+Nature vs. nurture debate
+Stages of development (e.g., infancy, childhood, adolescence, adulthood)
+Cognitive and social development
+Applications of developmental psychology
+
+
+Week 8: Personality
+
+Introduction to personality psychology
+Major theoretical approaches (e.g., trait, psychoanalytic, humanistic)
+Personality assessment techniques (e.g., self-report, behavioral, projective)
+Personality and behavior
+Applications of personality psychology
+
+
+Week 9: Abnormal Psychology
+
+Introduction to abnormal psychology
+Major categories of mental disorders (e.g., mood, anxiety, psychotic, personality)
+Causes and risk factors for mental disorders
+Treatment approaches (e.g., medication, therapy)
+Applications of abnormal psychology
+
+
+Week 10: Social Psychology
+
+Introduction to social psychology
+Social cognition (e.g., attitudes, stereotypes, prejudice)
+Social influence (e.g., conformity, obedience, persuasion)
+Group dynamics (e.g., group polarization, social loafing, leadership)
+Applications of social psychology
