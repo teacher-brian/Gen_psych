@@ -26,7 +26,6 @@ Week 3: Biological Influences in Psychology
 
 Introduction to biological psychology
 The nervous system and its functions
-The endocrine system and its functions
 Brain structures and their functions
 Genetics and behavior
 
@@ -36,7 +35,6 @@ Introduction to learning theory
 Classical conditioning
 Operant conditioning
 Social learning theory
-Applications of learning theory in psychology
 
 Week 5: Cognitive Psychology
 

@@ -35,6 +35,14 @@ library(ggraph)
 
 #DAGs in psychology
 
+#
+# The effect of diet and exercise on weight: This DAG could include variables like diet, exercise, genetics, and weight. The arrows would go from diet and exercise to weight, since these are believed to directly impact weight, and from genetics to weight, since genetics can indirectly affect weight through their influence on metabolism.
+#
+# The impact of social media on mental health: This DAG could include variables like social media use, self-esteem, depression, and anxiety. The arrows would likely go from social media use to self-esteem, since social media has been linked to lower self-esteem in some studies, and from self-esteem to depression and anxiety, since low self-esteem is associated with these conditions.
+#
+# The relationship between education and income: This DAG could include variables like education level, job skills, work experience, and income. The arrows would likely go from education level to job skills and work experience, since education is believed to directly impact these variables, and from job skills and work experience to income, since these are believed to directly impact income.
+
+
 
 # simple dagitty
 
@@ -77,9 +85,6 @@ dagified <- dagify(DepressionSymptoms ~ Genetics,
                            LifeStressors = 3,
                            SocialSupport=4.2)
                    ))
-
-
-tidy_dagitty(dagified)
 
 
 
