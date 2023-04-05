@@ -32,9 +32,9 @@ description: "This is a minimal example of using the rmarkdown package for gener
 knitr::opts_chunk$set(echo = TRUE)
 library(dagitty)
 library(tidyverse)
-library(ggdag)
-library(tidygraph)
-library(ggraph)
+#library(ggdag)
+#library(tidygraph)
+#library(ggraph)
 ```
 
 
@@ -105,7 +105,7 @@ Although I have some expert content knowledge in psychology, I don't know everyt
 
 I'm sure there may be things you'd like to learn about and practice and I would be open to hearing those about things, maybe find ways to incorporate them into the overall class. 
 
-## Do Some reading
+## Read Some stuff
 
 1. [The syllabus](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/){target=”_blank”}
 
@@ -143,7 +143,7 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 ## Do the following
 
-1. Introduce yourself in the Slack [#introductions](https://spr23generalpsych.slack.com/archives/C0514R6J7M4) channel{target=”_blank”}
+1. Introduce yourself in the Slack [#introductions](https://spr23generalpsych.slack.com/archives/C0514R6J7M4){target=”_blank”} channel
 
 2. Take a look at the [Getting_started](https://rpubs.com/briholt/Getting_started/){target=”_blank”}, in particular the menu item __Using Google Docs__.
 
