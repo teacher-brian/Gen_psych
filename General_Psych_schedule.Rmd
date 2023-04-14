@@ -287,7 +287,7 @@ G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/
 
 1. Reassess your understanding from above A.
 2. What would you add to your understanding in B?
-3. As chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission".
+3. As chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share your questions and its answers in your google document. Include some of the back and forth.
 4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
     * On that new page, write a quick title like "psycho-biology I'm interested in"
     * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
