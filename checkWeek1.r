@@ -9,22 +9,25 @@ library(clipr)
 library(lubridate)
 email<- read_clip()  #from notify everyone email before sending
 email1<- read_clip()  #from notify everyone email before sending
-users<- read.csv(file="/media/brian/dater_bridge2/work/General/slackUsers.csv")
-roster.d1 <- read.csv("d1.csv")
-#roster.d1$Status.Note <- ""
-roster.h2 <- read.csv("/media/brian/dater_bridge2/work/General/2023-1-9_GeneralHybridRoster.csv")
-roster <- rbind(roster.d1,roster.h2)
-roster <- roster[complete.cases(roster),]
+users<- read.csv(file="/media/brian/dater_bridge2/work/rosters/slack-spr23generalpsych-members.csv")
+#roster.d1 <- read.csv("/media/brian/dater_bridge2/work/rosters/2023-4-20_GeneralPsychology_PSYC& 100 - H2 (24624).csv")
+
+roster.h2 <- read.csv("/media/brian/dater_bridge2/work/rosters/2023-4-20_GeneralPsychology_PSYC& 100 - H2 (24624).csv")
+roster.h2<- roster.h2[complete.cases(roster.h2$ID),]
+roster <- rbind(#roster.d1,
+                roster.h2)
 rownames(roster) <- NULL
 
-roster<- roster %>% separate(Name,into = c('last','first'),sep = ',')
+roster<- roster %>%
+  filter(Status=='Enrolled') %>%
+  separate(Name,into = c('last','first'),sep = ',')
 
 email<- as.data.frame(strsplit(email,", "))
 email1<- as.data.frame(strsplit(email1,", "))
 colnames(email1) <- "email"
 colnames(email ) <- "email"
 email<- rbind(email,email1)
-missing<- email%>% left_join(users) %>% select(email, fullname) %>% filter(is.na(fullname))
+missing<- email%>% left_join(users) %>% select(email, fullname) %>% filter(is.na(fullname)) #missing from slack
 
 gsub(x=paste(shQuote(missing$email), collapse = ", "),"'","" )%>% write_clip()
 
@@ -53,7 +56,7 @@ posted <- week_post %>%
 
   unique(.) %>% arrange(data)
 
-
+posted <- posted %>% filter(posted$data!='eden')
 # joins users from slack to roster
 users  %>% mutate_all(as.character) %>%
   mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>%
@@ -63,8 +66,9 @@ users  %>% mutate_all(as.character) %>%
 
 # does anti-join to find roster names not in week 1
 
-users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>% select(email) %>% write_clip()
-  mutate(message= paste0("Hi @",displayname,", Week 5 is ending, and I'm not seeing a post from you to week 3. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 3.  Do you need any help?  I know a few students are trying to get caught up but at this point, week 1 should be posted.  The #logistics channel is available.\n\n\n"))  %>% write_clip()
+users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
+  #select(email) %>%
+  mutate(message= paste0("Hi @",displayname,", This is generic message to all students who appear to not have posted their week 2 assignment.  Week 3 is ending, and I don't think you've posted to week 2. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 2.  Do you need any help?  I know a few students are trying to get caught up, and a few of you have reached out. But at this point I'm a little woried you may fall behind.  It's not too late, but time keeps moving forward.  Reach out for help\n\n\n"))  %>% write_clip()
 
 
 
