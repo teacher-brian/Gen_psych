@@ -68,7 +68,7 @@ users  %>% mutate_all(as.character) %>%
 
 users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
   #select(email) %>%
-  mutate(message= paste0("\n\n\nHi @",displayname,", This is generic message to all students who appear to not have posted their week 2 assignment.  Week 3 is ending, and I don't think you've posted to week 2. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 2.  Do you need any help?  I know a few students are trying to get caught up, and a few of you have reached out. But at this point I'm a little worried you may fall behind.  It's not too late, but time keeps moving forward.  Reach out for help\n\n\n"))  %>% write_clip()
+  mutate(message= paste0("\n\n\nHi @",displayname,", This is a generic message to all students who appear to not have posted their week 2 assignment.  Week 3 is ending, and I don't think you've posted to week 2. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 2.  Do you need any help?  I know a few students are trying to get caught up, and a few of you have reached out. But at this point I'm a little worried you may fall behind.  It's not too late, but time keeps moving forward.  Reach out for help\n\n\n"))  %>% write_clip()
 
 
 
