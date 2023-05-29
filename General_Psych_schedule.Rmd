@@ -474,7 +474,7 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 
 ## Do the following
 
-1. Now that you've done the myth assignment. Ask chat gpt to answer the prompt.
+1. Now that you've done the myth assignment. Ask chat gpt to answer the prompt about multitasking.
 
     * go to chat gpt: https://chat.openai.com/
 
