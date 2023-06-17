@@ -10,7 +10,7 @@ sr<- read_clip()  #copy last and first names columns from self reflection spread
 getwd()
 dir('~/Downloads', pattern = '2022-12-13.*')
 
-d1 <- read_excel("/home/brian/Downloads/2022-12-13_D1.xls")
+d1 <- read_excel("/home/brian/Downloads/ps.xls")
 d1 <- d1 %>% select(ID,Name,`Status Note`)
 d1 <- d1[!is.na(d1$ID),]
 d1$section <- 'd1'
@@ -20,7 +20,7 @@ h2 <- h2 %>% select(ID,Name,`Status Note`)
 h2 <- h2[!is.na(h2$ID),]
 h2$section <- 'h2'
 #read ab
-a5 <- read_excel("/home/brian/Downloads/2022-12-13_H5_ab.xls")
+a5 <- read_excel("/home/brian/Downloads/ps (1).xls")
 a5 <- a5 %>% select(ID,Name,`Status Note`)
 a5 <- a5[!is.na(a5$ID),]
 a5$section <- 'a5'
@@ -49,9 +49,10 @@ colnames(sr) <- c('l','f')
 str(sr)
 sr %>% mutate(across(1:2,str_trim)) -> sr
 sr %>% mutate(across(1:2,toupper)) -> sr
-genRost <- rbind(h2,d1,a5) %>% filter(is.na(`Status Note`))
+genRost <- rbind(#h2,
+                 d1,a5) %>% filter(is.na(`Status Note`))
 
-anti_join(genRost,sr,by='l')%>% print(n=nrow(.))
+anti_join(genRost,sr,by='l')%>% print(n=nrow(.))  #prints those in class rosters but not in self reflection
 left_join(genRost,sr,by='l') %>% filter(f.y!='<NA>') %>%
   arrange(l,section) %>% print(n=nrow(.))
 
