@@ -1,5 +1,5 @@
 ---
-title: "Week_1"
+title: "Week_1_H6_1pm"
 author: "bh"
 date: "`r Sys.Date()`"
 output: html_document
@@ -59,7 +59,7 @@ Okay, the following items ( 7 & 8) deserve a little bit of explanation on my sid
 
 Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, for example, what part of the reading or video were you just watching?  And don't be afraid to keep asking the question 'so what?' about any and all content. 
 
-That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point Forum](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/153184){target="_blank"}
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point Forum](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/153188){target="_blank"}
 
 
 Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
@@ -73,7 +73,7 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
 
 ## Do the following
 
-1. Introduce yourself in canvas [#introductions](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/153148){target=”_blank”} 
+1. Introduce yourself in canvas [#introductions](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/153189){target=”_blank”} 
 
 2. Take a look at the [Getting_started](https://rpubs.com/briholt/Getting_started/){target=”_blank”}, in particular the menu item __Using Google Docs__.
 
@@ -93,9 +93,8 @@ Also, I hope to make these videos a lot better in terms of production.  I think 
    *  Do this one without over thinking it.  
    *  add this to your google doc.  You can add it as a new page.
 
-7. When you are done, post to the [#week-1](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/153147){target="_blank"} Slack channel by including a link to your document from step 2 above. 
-    -  There is a weird behavior I've not seen before.  This link does go to Week1, but then it shifts to resources.  That's weird.  You may have to search for week 1.
-
+7. When you are done, post to the [#week-1](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/153190){target="_blank"} Canvas discussion  by including a link to your document from step 2 above. 
+   
 8. Read some of your classmates' posts and comment on some.  
 
 ## Week content in class
