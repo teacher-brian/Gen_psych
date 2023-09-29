@@ -14,7 +14,7 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="./">General Psychology Spring 2023 schedule</a></li>`
+          <li><a href="./">General Psychology Fall 2023 schedule</a></li>`
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
