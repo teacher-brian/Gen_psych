@@ -3,6 +3,9 @@ title: "Week_1_H6_10am"
 author: "bh"
 date: "`r Sys.Date()`"
 output: html_document
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
 ---
 
 # Week 1 Sept 26 {#Week1} 
