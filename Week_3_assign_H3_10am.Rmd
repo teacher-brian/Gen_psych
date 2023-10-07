@@ -1,0 +1,61 @@
+---
+title: "Week 3 Mon_Wed"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+   anchor_sections: TRUE
+   css: style.css
+   toc: true
+   toc_float: true
+   config:
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+
+
+
+# Week 3  Oct 9 {#Week3}
+
+## It's a pretty dense unit.
+
+## Do, Watch, and Read the following
+
+A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the #muddy-point-board in canvas  For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding.
+
+B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
+
+C. [Layers of Psychological explanation--10 min](http://faculty.seattlecolleges.edu/faculty/brian.holt/vids/Fall2019General/The_systems.mp4){target='_blank'}
+
+D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
+
+
+E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
+
+
+F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+
+## Do the following
+
+1. Reassess your understanding from above A.
+2. What would you add to your understanding in B?
+3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT.
+4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
+    * On that new page, write a quick title like "psycho-biology I'm interested in"
+    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
+    * if you click on that text, you should see a "link" option. Copy that link and...
+5. ...share your ideas from # 3 above to the canvas Discussion page for week 3.
+6. Read some other posts from classmates and comment about some areas of interest.
+
+## In Class/zoom Conversation Questions
+
+These are questions that I'd like to discuss in class/zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+
+A) How does your brain know the difference between real and imaginary?
+B) Where is "information" in the brain?
+C) what metaphors are useful to think about how the nervous system works?
