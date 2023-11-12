@@ -34,28 +34,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 
-# Week 8 May 22  {#Week8}
-
-This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
-
-Be sure to ask questions in the muddy-point channel if they come up. 
-
-Also, take a look a head for the remaining weeks of the quarter.  Lots to do and you'll need to organize your approach so that you don't fall behind. 
-
-## Read/watch some
-
-A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
-
-
-## Do the following
-
-A. [Complete the following metacog assignment posted in a google doc](https://docs.google.com/document/d/1hCDt07L5NhMy0SQDW3k9g9O14YF0k0R-Gklzd7rTP4A/edit?usp=sharing){target="_blank"}
-
-B. Post to the [#week8](https://spr23generalpsych.slack.com/archives/C059EJ32316){target="_blank"}, tag 2 people to review your work.  
-
-
-
-
 # Week 9 Personality May 29 {#Week9}
 
 ## Be sure to check out [Week 11 on social psychology](#Week11)

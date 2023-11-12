@@ -1,0 +1,88 @@
+---
+title: "Week 6 "
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+   anchor_sections: TRUE
+   css: style.css
+   toc: true
+   toc_float: true
+   config:
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+
+
+
+
+# Week 6 Oct 30 {#Week6} 
+
+```{block, type='instructorNote'}
+On Wednesday, Nov 1, there will be no classes held for the whole college district.  
+
+Faculty are expected to be doing other college work.  It's like a teacher's workshop day.
+
+Which means none of you can be required to attend any class on 11/1.  For any class in the whole Seattle college district.  
+```
+
+## Read the following
+
+A. Read/skim [Primer for Behaviorism and Semantic networks](https://docs.google.com/document/d/1MMziOQh7NjWRnrzCZDT99ArOu8Nv6CzQfTEfbSCzjYA/){target="_blank"}. This will be a review, basically.
+
+* skim this but pay closer attention the semantic sections with the schematics for cars
+* Think of a subject.  Maybe it's something academic like math, biology.  Maybe it's about sports, or in particular a single sport, like (the only one that matters) basketball.
+   * in what specific ways would the semantic network be different between a novice and expert?  I don't expect you to know technical terms here (In graph analysis, nodes are the bubbles with concepts, while edges are the lines that connect) but I want you to have an appreciation for how people may differ in terms of their networks.  How do experts differ from novices in terms of their networks.  Are they more complicated?  More lines?  Different organization?  It's helpful to think of something you are knowledgeable about because if you are the novice, it's hard to imagine what the expert knows.  If you have a much younger sibling, think about how they approach something that you might be quite good at but they are still learning. 
+
+B. Read/skim [Chapter 8 of your textbook](https://openstax.org/books/psychology-2e/pages/8-introduction){target="_blank"}
+
+C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr5DQnj_0HU7lQrTdmo9kG2otEITHXUrGzYQdvg/edit?usp=sharing){target="_blank"}
+
+## Do the following
+
+1. Now that you've done the multitasking is a myth assignment,ask chat gpt to defend the claim that multitasking is a myth.  In other words, see how GPT would do your assignment. 
+
+    * go to chat gpt: https://chat.openai.com/
+
+    * Think of gpt as a person to converse with. Be skeptical of it, so if it says something as if it were all knowing, don’t believe it.
+    
+    * Ask it about cultural differences. Ask it meta questions. In other words, don’t think of chat gpt as a source of content or correct, objective, knowledge. Think of it instead as someone who does not think critically but has access to a lot of information and can emotionally handle tough questions (because, of course, it’s not human.)
+
+  * And then use the critical thinking standards to interrogate its claims.
+  
+  * Have it check it's own confirmation biases.
+
+  * Highlight and copy the exchange and then paste it into your google doc.
+
+
+2. Identify the metaphorical dragons that interfere with your learning. Maybe one of them is anxiety about performing well. And this dragon makes it difficult to focus and to filter out extraneous distractions. Or maybe another dragon is the lure of interesting things in your social network making your phone buzz with texts or other activity.  Maybe it’s a dragon of inertia, making it hard to start new things.  There are many dragons.
+
+3. After you’ve listed a few (at least 2) of these dragons, what can you do to either slay these dragons, or can you use them, trick them to actually help you learn new material?  If you aren’t sure where to begin, you might consider your textbook (ch's 7 and 8) and to read that material again as if you’ve been given a secret scroll...a treasure map that helps you.  Obviously the textbook is not going to give you a simple formula like " problem x is solved by y". But if you take this adventure, keep notes as you re-read the chapters.  Ask the chapters questions...even if the chapter can't answer it.
+
+4. Write down your solutions and post them, or at least the ones with which you feel comfortable sharing in the [#week 6 Discussion](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/164749){target='_blank'}
+
+5. Once you have shared material to [#week-6](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/164749){target='_blank'}, Reply to your post, in thread, and tag 3 people in our class by using the @ symbol and their name.  (Canvas claims to be able to allow tagging; if it doesn't work see below).  Ask them to take a look at your work and ask them for feedback on some part.  Maybe it's your writing--like word choice and/or clarity.  Maybe it's something about your critical thinking.  This is hard ask to make of others but try it anyway.  Also, because it's still the pandemic and everything is just hard, don't fret if people you invite can't respond. It's likely that they are just overwhelmed with something.
+
+5a. If the "@" symbol doesn't work for tagging let me know. I'm seeking advice from Elearning.
+
+6. If you are invited to give feedback to people's writing, be kind.  
+
+    * Remember that they are trying things out and are sharing potentially vulnerable parts of their lives.  If you need help giving feedback, send your instructor a /dm and I can help.
+
+    * also, you don't have to respond to everyone who invites you.
+
+    * If you do respond, think about what was asked of you.  Don't try to solve any problems but instead find ways to ask questions.  "I wonder if there is another way for this section to be more clear becauseI see a few different ways to interpret what you said."  That's just an example.  But the key is ask questions and to not simply say "this is wrong" or something aggressive like that.
+
+7. Another Sexual information questionnaire:  [Sexual Assertiveness](https://docs.google.com/forms/d/e/1FAIpQLSfCHJDqjWxvaJZRBZYdZL_TjbDyZG_4XGwgNebWbzaPwIY2Pg/viewform){target='_blank'}
+
+    -Like before, it's optional an anonymous.  But because I found errors in my Human Sexuality textbook, I'd like to provide better information to my students while learning a bit about our community college population
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+
+
