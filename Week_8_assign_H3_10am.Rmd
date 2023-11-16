@@ -1,0 +1,54 @@
+---
+title: "Week 8"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+   anchor_sections: TRUE
+   css: style.css
+   toc: true
+   toc_float: true
+   config:
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+
+# Week 8 Nov 13  {#Week8}
+
+This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
+
+Be sure to ask questions in the muddy-point channel if they come up. 
+
+Also, take a look a head for the remaining weeks of the quarter.  Lots to do and you'll need to organize your approach so that you don't fall behind. 
+
+## (re)Read/watch some
+
+A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+
+## Do the following
+
+A. [Complete the following metacog assignment posted in a google doc](https://docs.google.com/document/d/1hCDt07L5NhMy0SQDW3k9g9O14YF0k0R-Gklzd7rTP4A/edit?usp=sharing){target="_blank"}
+
+B. Post to the [#week8](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/168565){target="_blank"} Discussion in canvas, invite 2 people to review your work by using Canvas' email system.  
+
+Ask them to take a look at your work and ask them for feedback on some part--but be specific.  Maybe it's your writing--like word choice and/or clarity.  Maybe it's something about your critical thinking.  This is hard ask to make of others but try it anyway.  Also, because it's still the pandemic and everything is just hard, don't fret if people you invite can't respond. It's likely that they are just overwhelmed with something.
+
+C. If you are invited to give feedback to people's writing, be kind.  
+
+    * Remember that they are trying things out and are sharing potentially vulnerable parts of their ideas.  If you need help giving feedback, send your instructor a message and I can help.
+
+    * also, you don't have to respond to everyone who invites you.
+
+    * If you do respond, think about what was asked of you.  Don't try to solve any problems but instead find ways to ask questions.  "I wonder if there is another way for this section to be more clear because I see a few different ways to interpret what you said."  That's just an example.  But the key is ask questions and to not simply say "this is wrong" or something aggressive like that.
+
+The exercise of inviting people to look at your work gives the author some control on what feedback they'd like to receive, so honor that. 
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+
+
