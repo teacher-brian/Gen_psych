@@ -70,9 +70,9 @@ Please do not summarise these articles.  Synthesize.  Use the lecture just below
   * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
 
 
-2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into slack...
+2. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste into canvas...
 
-3. Share your work on slack by linking to it in the canvas Discussion #[week-2 completed work](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/156342){target='_blank'}.
+3. Share your work on canvas by linking to it in the canvas Discussion #[week-2 completed work](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/156342){target='_blank'}.
 
 4. Read and comment upon some of your classmates submissions.  In google docs, you can highlight any part of their page and then create a comment by right clicking or using the keyboard shortcut "Ctrl + alt + m"
 
