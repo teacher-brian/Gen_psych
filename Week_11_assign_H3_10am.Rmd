@@ -1,0 +1,41 @@
+---
+title: "Week 11"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+   anchor_sections: TRUE
+   css: style.css
+   toc: true
+   toc_float: true
+   config:
+bibliography: [General_references.bib]
+biblio-style: apalike
+link-citations: yes
+---
+
+
+
+# Week 11 (Dec 11) {#Week11}
+
+This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
+
+Will still have the "read stuff, do stuff" but most instructions will be found here:
+
+## 1. [Assignments are here](https://docs.google.com/document/d/1oaC-Q_UNuxG16e3CSc-zRBfJzk9X92yjQPQ0f-PDoCw/edit?usp=sharing){target="_blank"}
+
+   * The channel will be [#week-11](https://canvas.seattlecolleges.edu/courses/16702/modules/items/780113){target="_blank"}
+
+## 2. [Final Self-reflection](https://forms.gle/VhfLKCBMugfDJuy18){target="_blank"}
+
+## 3. All work should be completed by end of day, December 15, 2023
+
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`
+
+
+
