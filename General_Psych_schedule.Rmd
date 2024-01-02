@@ -1,5 +1,5 @@
 ---
-title: "General Psychology Schedule Spring 2023"
+title: "General Psychology Schedule Winter 2024"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output: 
@@ -14,7 +14,7 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="./">General Psychology Fall 2023 schedule</a></li>`
+          <li><a href="./">General Psychology Winter 2024 schedule</a></li>`
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
@@ -73,6 +73,115 @@ H. Here is the pattern of the course:
   3. When you have finished the weeks assignment, you will post a link to your work in slack.
   4. Assignments should be submitted in a timely fashion. Friday is the standing due date, with reasonable flexibility. 
 
+
+
+# Week 1 Jan 1 {#Week1} 
+
+## What do you want to focus on
+Think about what you want to learn:
+
+Some topics in the past that I have taught include the following and you may find them useful starting points to think about your own process for this quarter.
+
+1. Critical thinking
+2. Technical writing new paragraph finding published research
+3. Evaluating the quality of published articles, for example contrasting popular sources from academic or scholarly.
+4. General introduction to the content of psychology
+5. Theories within psychology
+6. Criticisms of psychology
+7. Limits of psychology
+8. Philosophy of science
+9. Working within groups
+10. Psychology as it relates to other disciplines
+11. Power structures
+12. How to have inclusive group meetings
+    * what are good ground rules for meetings
+
+Any and all of these above could qualify.
+The goal here is for us to individually and collectively think of about what you'd like to learn in our time together.
+
+This list is not exhaustive. There's some things that you may want to focus on or add. Perhaps this might include cognitive dissonance about being a white person and being told that you've got white privilege. What are some ways one can think about opening up to that feedback?
+
+Although I have some expert content knowledge in psychology, I don't know everything. I have my own biases. But I might be someone who can help guide you.
+
+I'm sure there may be things you'd like to learn about and practice and I would be open to hearing those about things, maybe find ways to incorporate them into the overall class. 
+
+## Read Some stuff
+
+1. [The syllabus](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/){target=”_blank”}
+
+2. [Miller's law of communication (in the syllabus)](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.exo9wouxy9qk){target=”_blank”}
+
+3. [George Orwell, Politics and the English Language, 1946 (in the syllabus)](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.f3hxyeh73uh7){target=”_blank”}
+
+4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}
+
+5. [Textbook, chapter 1: What is Psychology?](https://openstax.org/books/psychology-2e/pages/1-introduction){target=”_blank”}
+
+6. Dictionary/Wikipedia definitions on: 
+
+      *Anthropomorphize
+ 
+      *Ethnocentrism
+
+```{block,type='blueBackground'}
+
+Okay, the following items ( 7 & 8) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+
+Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, for example, what part of the reading or video were you just watching?  And don't be afraid to keep asking the question 'so what?' about any and all content. 
+
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point Forum](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/153184){target="_blank"}
+
+
+Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
+```
+7. Watch intro lecture on epistemology
+
+[![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/RHBljDEU5GE "Epistemology"){target='_blank'}
+
+8. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own and be sure to keep track of your sources; include them in your writing as necessary.  
+
+
+## Do the following
+
+1. Introduce yourself in canvas [#introductions](https://24generalnorthseattle.slack.com/archives/C06BS0WMB1U){target=”_blank”} 
+
+2. Take a look at the [Getting_started](https://rpubs.com/briholt/Getting_started/){target=”_blank”}, in particular the menu item [__Using Google Docs__](https://rstudio-pubs-static.s3.amazonaws.com/711457_14b5e3e44b37451cab75199c01ffc96c.html#oneToRule){target=”_blank”}.
+
+3. Frequently asked questions 
+
+4. Write something about what interests you about psychology in your one google doc..remember, have one document. Be sure to give it a title.  Write about things that interest you and ponder whether psychology is related.  **Don't write a book report**.  Be honest, here. I'm not interested in what you **think** you should be interested.  So if you aren't interested in psych, that's okay!.  Some people take this course because it's a prereq for other courses.  That's okay!
+
+5. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  
+
+    a) What is your process for thinking clearly?
+
+    b) How do you know something is true?
+    
+
+6. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
+
+   *  Do this one without over thinking it.  
+   *  add this to your google doc.  You can add it as a new page.
+
+7. When you are done, post to the [#week-1](https://24generalnorthseattle.slack.com/archives/C06C2NGT9K4){target="_blank"} Canvas discussion  by including a link to your document from step 2 above. 
+   
+8. Read some of your classmates' posts and comment on some.  
+
+## Week content in class
+
+### Basic Workflow for Critical Thinking and Writing
+
+Introduction to critical thinking and writing
+
+Steps in the critical thinking and writing process
+
+Developing a thesis statement
+
+Structuring an essay
+
+Causal inference in graphs
+
+Correlations and statistics
 
 
 
