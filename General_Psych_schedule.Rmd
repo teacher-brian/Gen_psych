@@ -77,6 +77,37 @@ H. Here is the pattern of the course:
 
 # Week 1 April 1 {#Week1} 
 
+
+
+## Summary of what really needs to get done before Monday
+
+I recognize this document has become a bit disorganized.  At the risk of making it worse, I thought I could just give a quick summary of what needs doing before Monday here:
+
+### Read
+4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}
+
+11. Read/skim [Chapter 2 of your textbook](https://openstax.org/books/psychology-2e/pages/2-introduction){target="_blank"}.  This means you should read the first page and the summary page of the chapter, and then skim the chapter for things relevant to your work or interests.  Take notes on what you find. You can put them into the google doc if you want.
+                                                            
+12. Read @Schwartz1771, [The importance of stupidity in scientific research](https://jcs.biologists.org/content/121/11/1771){target='_blank'}
+
+8. Read [This evaluation](https://docs.google.com/document/d/1-g6-uJELM5zgb-yTRCQ8Ah76P9FccFZ_V2GK6YwP3iw/edit?usp=sharing){target='_blank'}
+
+### Do
+
+10. Write a synthesis of the 4 sources above (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then 4. chapter 2).  You may want to consider a comment about whether you think knowledge is static.
+
+```{block, type='blueBackground'}
+
+Please do not summarize these articles.  Synthesize.  Use the lecture just below to help.
+
+
+```
+
+  * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+
+
+Okay..the following is what you've already seen before
+
 ## What do you want to focus on
 Think about what you want to learn:
 
