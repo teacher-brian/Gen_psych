@@ -77,6 +77,37 @@ H. Here is the pattern of the course:
 
 # Week 1 April 1 {#Week1} 
 
+
+
+## Summary of what really needs to get done before Monday
+
+I recognize this document has become a bit disorganized.  At the risk of making it worse, I thought I could just give a quick summary of what needs doing before Monday here:
+
+### Read
+4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1Jwo68U8f3gWTWgu_EuTNyGQD2KQeQROsqP_BauADs1g/edit#heading=h.j2nlxy74qee8){target=”_blank”}
+
+11. Read/skim [Chapter 2 of your textbook](https://openstax.org/books/psychology-2e/pages/2-introduction){target="_blank"}.  This means you should read the first page and the summary page of the chapter, and then skim the chapter for things relevant to your work or interests.  Take notes on what you find. You can put them into the google doc if you want.
+                                                            
+12. Read @Schwartz1771, [The importance of stupidity in scientific research](https://jcs.biologists.org/content/121/11/1771){target='_blank'}
+
+8. Read [This evaluation](https://docs.google.com/document/d/1-g6-uJELM5zgb-yTRCQ8Ah76P9FccFZ_V2GK6YwP3iw/edit?usp=sharing){target='_blank'}
+
+### Do
+
+10. Write a synthesis of the 4 sources above (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then 4. chapter 2).  You may want to consider a comment about whether you think knowledge is static.
+
+```{block, type='blueBackground'}
+
+Please do not summarize these articles.  Synthesize.  Use the lecture just below to help.
+
+
+```
+
+  * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+
+
+Okay..the following is what you've already seen before
+
 ## What do you want to focus on
 Think about what you want to learn:
 
@@ -246,7 +277,7 @@ Correlations and statistics
 
 
 
-<!-- # Week 2 April 8  {#Week2} -->
+# Week 2 April 8  {#Week2}
 <!-- ## Orienting comment -->
 
 <!-- Memory is a relatively shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on this scale.  There are other scales out there, but Bloom is well known. -->
@@ -268,85 +299,87 @@ Correlations and statistics
 
 <!-- # Week 3  Jan 15 {#Week3} -->
 
-<!-- ## It's a pretty dense unit. -->
+## It's a pretty dense unit.
 
-<!-- ## Do, Watch, and Read the following -->
+## Do, Watch, and Read the following
 
-<!-- A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-boardhttps://generalpsychs-xkn6199.slack.com/archives/C06S2K2MGP7){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding. -->
+A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://generalpsychs-xkn6199.slack.com/archives/C06S2K2MGP7){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding.
 
-<!-- B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below** -->
+B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
 
-<!-- C. [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'} -->
+C. [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'}
 
-<!-- D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'} -->
-
-
-<!-- E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"} -->
+D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
 
 
-<!-- F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"} -->
-
-<!-- G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"} -->
+E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
 
 
-<!-- ## Do the following -->
+F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
-<!-- 1. Reassess your understanding from above A. -->
-<!-- 2. What would you add to your understanding in B? -->
-<!-- 3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT. -->
-<!-- 4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page -->
-<!--     * On that new page, write a quick title like "psycho-biology I'm interested in" -->
-<!--     * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon -->
-<!--     * if you click on that text, you should see a "link" option. Copy that link and... -->
-<!-- 5. ...share your ideas from # 3 above to the the [#week 3 channel](https://24generalnorthseattle.slack.com/archives/C06CHHPT5V4){target="_blank"} -->
-<!-- 6. Read some other posts from classmates and comment about some areas of interest. -->
-
-<!-- ## In Class/zoom Conversation Questions -->
-
-<!-- These are questions that I'd like to discuss in class/zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation. -->
-
-<!-- A) How does your brain know the difference between real and imaginary? -->
-<!-- B) Where is "information" in the brain? -->
-<!-- C) what metaphors are useful to think about how the nervous system works? -->
+G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
 
+## Do the following
 
-<!-- # Week 4 Jan 22 {#Week4} -->
+1. Reassess your understanding from above A.
+2. What would you add to your understanding in B?
+3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT.
+4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
+    * On that new page, write a quick title like "psycho-biology I'm interested in"
+    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
+    * if you click on that text, you should see a "link" option. Copy that link and...
+5. ...share your ideas from # 3 above to the the [#week 2 channel---notice this is a clickable link](https://generalpsychs-xkn6199.slack.com/archives/C06T8A88N8K){target="_blank"}
+6. Read some other posts from classmates and comment about some areas of interest.
 
-<!-- ## Do, Watch, and Read the following -->
+## In Class/zoom Conversation Questions
 
-<!-- A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Make sure it's different from week 3. -->
+These are questions that I'd like to discuss in class/zoom sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
 
-<!-- Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** a behavior works while this week you are explaining **when** it works. **Do this before watching/reading below** -->
-
-<!-- >    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake? -->
-
-<!-- This is an example; you should come up with your own. -->
-
-<!-- B. Read/skim [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"} -->
-
-<!-- C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'} -->
-
-<!-- D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'} -->
-
-<!-- E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'} -->
-
-<!-- F. @Naik_2001  -->
-
-<!--   * Link to their article [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'} -->
+A) How does your brain know the difference between real and imaginary?
+B) Where is "information" in the brain?
+C) what metaphors are useful to think about how the nervous system works?
 
 
-<!-- ## Do some stuff: -->
 
-<!-- 1. Reassess your understanding from above, week 4, part A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing. -->
-<!-- 2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice? -->
-<!-- 3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you? -->
-<!-- 4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?  This is Brian's example. You should come up with your own -->
-<!-- 5. Link your writing for  what you just wrote in #3 and #4 to channel [#week-4](https://24generalnorthseattle.slack.com/archives/C06EPMWR26A){target='_blank'}. -->
-<!-- 6. Comment and try to engage with a few of your classmates on this assignment.   -->
-<!--     * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.   -->
-<!--     * Don't simply say this is clear or not.  -->
-<!--     * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?" -->
+# Week 3 April 15 {#Week3}
+
+## Do, Watch, and Read the following
+
+Please first fill out this survey on how many hours you spent on classes: [Survey on weekly workload](https://docs.google.com/forms/d/e/1FAIpQLSeNVXfXLd5_XHqLlom99JZ8U8KMrlg5XbRjYdhRGkd98WlygQ/viewform?usp=sf_link){target="_blank"}
+
+A. Like last week, Pick a new behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Make sure it's different from week 2.
+
+Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** a behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+
+>    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
+
+This is an example; you should come up with your own.
+
+B. Read/skim [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
+
+C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
+
+E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+
+F. @Naik_2001
+
+  * Link to their article is here...for some reason the site is labeled as "insecure"...just click through [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'}
+
+
+## Do some stuff:
+
+1. Reassess your understanding from above, week 3, part A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing.
+2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
+3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
+4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?  This is Brian's example. You should come up with your own.
+5. Link your writing for  what you just wrote in #3 and #4 to channel [#week-3](https://generalpsychs-xkn6199.slack.com/archives/C06U82T3P7C){target='_blank'}.
+6. Comment and try to engage with a few of your classmates on this assignment.
+    * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.
+    * Don't simply say this is clear or not.
+    * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
 
 
 
