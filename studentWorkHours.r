@@ -9,5 +9,5 @@ colnames(sh) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","c
 sh[,2:3] <- lapply(sh[,2:3],as.factor)
 
 sh %>% group_by(student_class,week) %>%
-  summarise(across(ends_with("hrs"),  list(mean = mean, sd = sd, max = max ), na.rm = TRUE))
+  summarise(across(ends_with("hrs"),  list(mean = mean, sd = sd, max = max ), na.rm = TRUE)) %>% t()
 
