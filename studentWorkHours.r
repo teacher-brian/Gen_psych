@@ -11,7 +11,7 @@ sh[,2:3] <- lapply(sh[,2:3],as.factor)
 sh %>% group_by(student_class) %>%
   summarise(across(ends_with("hrs"),  list(mean = mean, sd = sd, max = max ), na.rm = TRUE)) %>% t()
 
-
+sh <- sh[-1,]
 
 sh %>% group_by(student_class) %>%
   select(student_class,psych_hrs) %>%
@@ -26,3 +26,11 @@ sh %>% group_by(student_class) %>%
 
 sh %>% group_by(student_class) %>%
   ggplot(aes(x=student_class,y=work_hrs))+geom_boxplot()
+
+
+
+sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
+  group_by(student_class,source) %>%
+  ggplot(aes(x=source,y=hours))+
+  geom_boxplot()+
+  facet_grid(~student_class)
