@@ -1,5 +1,6 @@
 library(googlesheets4)
 library(tidyverse)
+library(ggridges)
 
 sh<- read_sheet("https://docs.google.com/spreadsheets/d/1_thOimGodxEqC006RQLB84uZBe7oCf0e-W2CJDpkyYs/edit?resourcekey#gid=675895326",range= "Form Responses 1")
 
@@ -35,6 +36,15 @@ sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
   geom_boxplot()+
   facet_grid(~student_class)+
   geom_hline(yintercept = quantile(sh$psych_hrs,na.rm=T)[3],color='blue')
+
+
+# ridges
+
+sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
+  group_by(student_class,source) %>%
+  ggplot(aes(y=source,x=hours))+  geom_density_ridges()+
+  facet_wrap(~student_class)
+
 
 #what is the average psych hours for students reporting 1, 2, 3, 4, 5 classes?  For loop?
 
