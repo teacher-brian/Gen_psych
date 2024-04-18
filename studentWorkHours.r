@@ -40,3 +40,23 @@ sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
 
 
 
+
+
+
+# Week 3
+
+
+
+
+sh3<- read_sheet("https://docs.google.com/spreadsheets/d/1KFlGLc8jLC144P7kjcrxHYk8j_qQaMiUYRd7VA-nC4E/edit?usp=sharing",range= "Form Responses 1")
+
+
+str(sh3)
+colnames(sh3) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","class3_hrs","class4_hrs","class5_hrs","hs_hrs","work_hrs")
+sh3[,2:3] <- lapply(sh3[,2:3],as.factor)
+
+sh3 %>% group_by(student_class) %>%
+  summarise(across(ends_with("hrs"),  list(mean = mean, sd = sd, max = max ), na.rm = TRUE)) %>% t()
+
+#sh3 <- sh3[-1,]
+
