@@ -33,4 +33,7 @@ sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
   group_by(student_class,source) %>%
   ggplot(aes(x=source,y=hours))+
   geom_boxplot()+
-  facet_grid(~student_class)
+  facet_grid(~student_class)+
+  geom_hline(yintercept = quantile(sh$psych_hrs,na.rm=T)[3],color='blue')
+
+#what is the average psych hoursfor students reporting 1, 2, 3, 4, 5 classes?
