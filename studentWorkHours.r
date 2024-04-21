@@ -8,11 +8,12 @@ sh<- read_sheet("https://docs.google.com/spreadsheets/d/1_thOimGodxEqC006RQLB84u
 str(sh)
 colnames(sh) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","class3_hrs","class4_hrs","class5_hrs","hs_hrs","work_hrs")
 sh[,2:3] <- lapply(sh[,2:3],as.factor)
-
-sh %>% group_by(student_class) %>%
-  summarise(across(ends_with("hrs"),  list(mean = mean, sd = sd, max = max ), na.rm = TRUE)) %>% t()
-
 sh <- sh[-1,]
+sh %>% group_by(student_class) %>%
+  reframe(across(ends_with("hrs"),  \(x) c(mean=mean(x,na.rm=T), sd=sd(x,na.rm=T),max=max(x,na.rm=T))))# %>% t()
+
+# how to get the labels right?
+
 
 sh %>% group_by(student_class) %>%
   select(student_class,psych_hrs) %>%
