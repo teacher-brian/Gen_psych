@@ -10,9 +10,8 @@ colnames(sh) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","c
 sh[,2:3] <- lapply(sh[,2:3],as.factor)
 sh <- sh[-1,]
 sh %>% group_by(student_class) %>%
-  reframe(across(ends_with("hrs"),  \(x) c(mean=mean(x,na.rm=T), sd=sd(x,na.rm=T),max=max(x,na.rm=T))))# %>% t()
+  summarise(across(ends_with("hrs"),.f = list(mean = mean, sd = sd, max = max), na.rm = TRUE))
 
-# how to get the labels right?
 
 
 sh %>% group_by(student_class) %>%
