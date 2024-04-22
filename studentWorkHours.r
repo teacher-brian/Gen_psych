@@ -2,15 +2,23 @@ library(googlesheets4)
 library(tidyverse)
 library(ggridges)
 
-sh<- read_sheet("https://docs.google.com/spreadsheets/d/1_thOimGodxEqC006RQLB84uZBe7oCf0e-W2CJDpkyYs/edit?resourcekey#gid=675895326",range= "Form Responses 1")
+sh_raw<- read_sheet("https://docs.google.com/spreadsheets/d/1_thOimGodxEqC006RQLB84uZBe7oCf0e-W2CJDpkyYs/edit?resourcekey#gid=675895326",range= "Form Responses 1")
 
-
+sh <- sh_raw
 str(sh)
 colnames(sh) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","class3_hrs","class4_hrs","class5_hrs","hs_hrs","work_hrs")
 sh[,2:3] <- lapply(sh[,2:3],as.factor)
 sh <- sh[-1,]
 sh %>% group_by(student_class) %>%
   summarise(across(ends_with("hrs"),.f = list(mean = mean, sd = sd, max = max), na.rm = TRUE)) %>% t()
+
+# total hours worked
+
+Total_Hours_possible <-  24*7
+
+hist(apply(sh[,4:10],1,sum,na.rm=T))
+
+sh<- sh %>% mutate(total_hrs=rowSums( across(ends_with('hrs')),na.rm=T))
 
 
 
@@ -46,7 +54,35 @@ sh %>% pivot_longer(cols = 4:10,names_to = 'source',values_to = 'hours') %>%
   facet_wrap(~student_class)
 
 
-#what is the average psych hours for students reporting 1, 2, 3, 4, 5 classes?  For loop?
+psych_total_comp.lm <- lm(sh$total_hrs~sh$psych_hrs)
+plot(sh$psych_hrs,sh$total_hrs)
+abline(psych_total_comp.lm)
+
+
+count_na <- function(x) sum(!is.na(x))
+apply(sh[,4:10],1,count_na)
+sh <- sh %>% mutate(count_of_activities = apply(sh[,4:10],1,count_na))
+
+
+
+sh %>% mutate(non_work_hrs = Total_Hours_possible- total_hrs) %>%
+  mutate(free_time=non_work_hrs - Total_Hours_possible*.33) %>%
+    #select(11:13) %>%
+  ggplot(aes(y=free_time,x=count_of_activities))+
+  geom_point()+
+  geom_smooth()
+
+hist(sh$count_of_activities)
+
+
+
+
+
+
+#what is the average psych hours for students reporting 1, 2, 3, 4, 5 classes?  group
+
+
+sh %>% group_by(student_class,count_of_activities) %>% summarise(mean(psych_hrs))
 
 
 
