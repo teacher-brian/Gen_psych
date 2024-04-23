@@ -129,7 +129,7 @@ sh %>% group_by(student_class) %>%
   summarise(mean=mean(total_hrs-work_hrs,na.rm=T))
 
 
-sims <- 100
+sims <- 1000
 sample.df <- data.frame('mean'=1:sims,'sd'=NA)
 for (i in 1:sims){
   samp<- sample(nrow(sh),10,replace = T)
@@ -144,3 +144,9 @@ sample.df[1,2]/sqrt(10)
 sample.df$se<- sample.df[,2]/sqrt(10)
 
 apply(sample.df,2,mean)
+
+hist(sample.df$mean)
+abline(v=mean(21.8))
+abline(v=mean(sample.df$mean),col='blue')
+
+#reminder of quantitude where have a sample distribution at top, long line down page, and then each row is a new sample
