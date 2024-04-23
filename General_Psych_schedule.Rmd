@@ -228,6 +228,10 @@ Please do not summarize these articles.  Synthesize.  Use the lecture just below
 
 12. When you are done, post to the [#week-1](https://generalpsychs-xkn6199.slack.com/archives/C06S80U5T44){target="_blank"} channel by including a link to your document from step 2 above. 
 
+```{block, Dangers of URLs1, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
 13. Read and comment upon some of your classmates submissions.  In google docs, you can highlight any part of their page and then create a comment by right clicking or using the keyboard shortcut "Ctrl + alt + m"
 
 14. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email.
@@ -330,6 +334,12 @@ G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/
     * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
     * if you click on that text, you should see a "link" option. Copy that link and...
 5. ...share your ideas from # 3 above to the the [#week 2 channel---notice this is a clickable link](https://generalpsychs-xkn6199.slack.com/archives/C06T8A88N8K){target="_blank"}
+
+```{block, Dangers of URLs2, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
 6. Read some other posts from classmates and comment about some areas of interest.
 
 ## In Class/zoom Conversation Questions
@@ -381,6 +391,12 @@ F. @Naik_2001
     * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.
     * Don't simply say this is clear or not.
     * Share your interpretations of what they wrote. You could say something like "when I read this section, I see a couple of different ways to understand it.  Here is 1, here is another.  Do one of my interpretations line up with your intentions?"
+
+```{block, Dangers of URLs3, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
 
   
 # Week 4 April 22 {#Week5}
@@ -488,6 +504,12 @@ You will understand your own work better when you try to anticipate your readers
 
 2. Link your work to the [#week 4](https://generalpsychs-xkn6199.slack.com/archives/C06V9RHAXS8){target='_blank'} channel
 
+```{block, Dangers of URLs4, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
+
 # Week 5 April 29 {#Week6}
 
 
@@ -528,6 +550,12 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 3. After you’ve listed a few (at least 2) of these dragons, what can you do to either slay these dragons, or can you use them, trick them to actually help you learn new material?  If you aren’t sure where to begin, you might consider your textbook (ch's 7 and 8) and to read that material again as if you’ve been given a secret scroll...a treasure map that helps you.  Obviously the textbook is not going to give you a simple formula like " problem x is solved by y". But if you take this adventure, keep notes as you re-read the chapters.  Ask the chapters questions...even if the chapter can't answer it.
 
 4. Write down your solutions and post them, or at least the ones with which you feel comfortable sharing in the [#week 5 channel](https://generalpsychs-xkn6199.slack.com/archives/C070G5HC8G0){target='_blank'}
+
+```{block, Dangers of URLs5, type='blueBackground'}
+Please note that slack has a bug that makes my URL links to channels automatically go to the #resource channel. That means you'll need to use the slack search bar at the top to find and join channels
+```
+
+
 
 5. Once you have shared material to [#week 5](https://generalpsychs-xkn6199.slack.com/archives/C070G5HC8G0){target='_blank'}, Right click your post and notice the drop down menu that allows you "Reply in thread", and tag 3 people in our class by using the @ symbol and their name.  Ask them to take a look at your work and ask them for feedback on some part.  Maybe it's your writing--like word choice and/or clarity.  Maybe it's something about your critical thinking.  This is hard ask to make of others but try it anyway.  Also, because it's still the pandemic and everything is just hard, don't fret if people you invite can't respond. It's likely that they are just overwhelmed with something.
 
