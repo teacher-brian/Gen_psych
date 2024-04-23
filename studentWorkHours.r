@@ -124,3 +124,23 @@ sh3 %>% group_by(student_class) %>%
 str(sh)
 
 mean(sh$total_hrs-sh$work_hrs,na.rm=T)
+
+sh %>% group_by(student_class) %>%
+  summarise(mean=mean(total_hrs-work_hrs,na.rm=T))
+
+
+sims <- 100
+sample.df <- data.frame('mean'=1:sims,'sd'=NA)
+for (i in 1:sims){
+  samp<- sample(nrow(sh),10,replace = T)
+  sample.df[i,1] <- mean(sh$total_hrs[samp]-sh$work_hrs[samp],na.rm=T)
+  sample.df[i,2] <- sd(sh$total_hrs[samp]-sh$work_hrs[samp],na.rm=T)
+}
+apply(sample.df,2,mean)
+
+# standard error of mean example
+sample.df[1,2]/sqrt(10)
+
+sample.df$se<- sample.df[,2]/sqrt(10)
+
+apply(sample.df,2,mean)
