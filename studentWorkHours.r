@@ -29,6 +29,15 @@ sh %>% group_by(student_class) %>%
 sh %>% group_by(student_class) %>%
   ggplot(aes(x=student_class,y=class2_hrs))+geom_boxplot()
 
+sh %>% group_by(student_class) %>%
+  ggplot(aes(x=student_class,y=class3_hrs))+geom_boxplot()
+
+sh %>% group_by(student_class) %>%
+  ggplot(aes(x=student_class,y=class4_hrs))+geom_boxplot()
+
+
+sh %>% group_by(student_class) %>%
+  ggplot(aes(x=student_class,y=class5_hrs))+geom_boxplot()
 
 sh %>% group_by(student_class) %>%
   ggplot(aes(x=student_class,y=hs_hrs))+geom_boxplot()
