@@ -94,11 +94,13 @@ sh %>% group_by(student_class,count_of_activities) %>% summarise(mean(psych_hrs)
 
 
 
-sh3<- read_sheet("https://docs.google.com/spreadsheets/d/1KFlGLc8jLC144P7kjcrxHYk8j_qQaMiUYRd7VA-nC4E/edit?usp=sharing",range= "Form Responses 1")
+sh3_raw<- read_sheet("https://docs.google.com/spreadsheets/d/1KFlGLc8jLC144P7kjcrxHYk8j_qQaMiUYRd7VA-nC4E/edit?usp=sharing",range= "Form Responses 1")
 
-
+sh3 <- sh3_raw
 str(sh3)
 colnames(sh3) <- c("timestamp","student_class","week","psych_hrs","class2_hrs","class3_hrs","class4_hrs","class5_hrs","hs_hrs","work_hrs")
+
+
 sh3[,2:3] <- lapply(sh3[,2:3],as.factor)
 
 sh3 %>% group_by(student_class) %>%
@@ -106,3 +108,10 @@ sh3 %>% group_by(student_class) %>%
 
 #sh3 <- sh3[-1,]
 
+# Standard error of mean
+
+
+
+str(sh)
+
+mean(sh$total_hrs-sh$work_hrs,na.rm=T)
