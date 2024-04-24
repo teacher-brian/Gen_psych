@@ -9,17 +9,31 @@ library(clipr)
 library(lubridate)
 email<- read_clip()  #from notify everyone email before sending
 email1<- read_clip()  #from notify everyone email before sending
-users<- read.csv(file="/media/brian/dater_bridge2/work/rosters/slack-spr23generalpsych-members.csv")
+#users<- read.csv(file="/media/brian/dater_bridge2/work/rosters/slack-spr23generalpsych-members.csv")
+users<- read.csv(file='slack-generalpsychs-xkn6199-members.csv')
+
+
 #roster.d1 <- read.csv("/media/brian/dater_bridge2/work/rosters/2023-4-20_GeneralPsychology_PSYC& 100 - H2 (24624).csv")
 
-roster.h2 <- read.csv("/media/brian/dater_bridge2/work/rosters/2023-4-20_GeneralPsychology_PSYC& 100 - H2 (24624).csv")
+roster.h2 <- readxl::read_xlsx("h2.xlsx")
+roster.h2 <- roster.h2[,-1]
+
+roster.d1 <- readxl::read_xlsx("d1.xlsx")
+roster.d1 <- roster.d1[,-1]
+
 roster.h2<- roster.h2[complete.cases(roster.h2$ID),]
-roster <- rbind(#roster.d1,
+roster.d1<- roster.d1[complete.cases(roster.d1$ID),]
+roster.d1$`Status Note` <- NA
+
+roster <- rbind(roster.d1,
                 roster.h2)
 rownames(roster) <- NULL
 
+
+colnames(roster) <- c("id","Name","grade","units","program","level","Status")
+
 roster<- roster %>%
-  filter(Status=='Enrolled') %>%
+  filter(is.na(Status)) %>%
   separate(Name,into = c('last','first'),sep = ',')
 
 email<- as.data.frame(strsplit(email,", "))
@@ -56,7 +70,7 @@ posted <- week_post %>%
 
   unique(.) %>% arrange(data)
 
-posted <- posted %>% filter(posted$data!='eden')
+#posted <- posted %>% filter(posted$data!='eden')
 # joins users from slack to roster
 users  %>% mutate_all(as.character) %>%
   mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>%
