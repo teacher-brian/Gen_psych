@@ -161,3 +161,31 @@ abline(v=mean(sh$total_hrs-sh$work_hrs,na.rm=T))
 abline(v=mean(sample.df$mean),col='blue')
 
 #reminder of quantitude where have a sample distribution at top, long line down page, and then each row is a new sample
+
+
+
+#standard error for work hours given it's so skewey
+
+mean(sh$work_hrs,na.rm=T)
+
+sims<- 1000
+sample_wrk.df <- data.frame('mean'=1:sims,'sd'=NA)
+for (i in 1:sims){
+  samp<- sample(nrow(sh),nrow(sh),replace = T)
+  sample_wrk.df[i,1] <- mean(sh$work_hrs[samp],na.rm=T)
+  sample_wrk.df[i,2] <- sd(sh$work_hrs[samp],na.rm=T)
+}
+
+sample_wrk.df
+
+
+hist(sh$work_hrs)
+abline(v=mean(sh$work_hrs,na.rm=T))
+abline(v=mean(sh$work_hrs,na.rm=T)+2*(sd(sh$work_hrs,na.rm=T)/sqrt(nrow(sh))),col='blue')
+abline(v=mean(sh$work_hrs,na.rm=T)-2*(sd(sh$work_hrs,na.rm=T)/sqrt(nrow(sh))),col='blue')
+
+
+hist(sample_wrk.df$mean)
+abline(v=mean(sample_wrk.df$mean))
+abline(v=mean(sample_wrk.df$mean)+2*sd(sample_wrk.df$mean),col='blue')
+abline(v=mean(sample_wrk.df$mean)-2*sd(sample_wrk.df$mean),col='blue')
