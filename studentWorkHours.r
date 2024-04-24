@@ -132,21 +132,32 @@ sh %>% group_by(student_class) %>%
 sims <- 1000
 sample.df <- data.frame('mean'=1:sims,'sd'=NA)
 for (i in 1:sims){
-  samp<- sample(nrow(sh),10,replace = T)
+  samp<- sample(nrow(sh),nrow(sh),replace = T)
   sample.df[i,1] <- mean(sh$total_hrs[samp]-sh$work_hrs[samp],na.rm=T)
   sample.df[i,2] <- sd(sh$total_hrs[samp]-sh$work_hrs[samp],na.rm=T)
 }
 apply(sample.df,2,mean)
 
-# standard error of mean example
-sample.df[1,2]/sqrt(10)
+#standard error is just the sd of these means
+apply(sample.df[1],2,sd)
 
-sample.df$se<- sample.df[,2]/sqrt(10)
+hist(sample.df$mean)
+abline(v=apply(sample.df[1],2,sd)*2+mean(sample.df$mean),col='blue')
+abline(v=mean(sample.df$mean)-apply(sample.df[1],2,sd)*2,col='blue')
+abline(v=mean(sample.df$mean),col='red')
+
+sd(sh$total_hrs-sh$work_hrs,na.rm=T)/sqrt(nrow(sh))
+
+
+# standard error of mean example
+sample.df[1,2]/sqrt(nrow(sh))
+
+sample.df$se<- sample.df[,2]/sqrt(nrow(sh))
 
 apply(sample.df,2,mean)
 
 hist(sample.df$mean)
-abline(v=mean(21.8))
+abline(v=mean(sh$total_hrs-sh$work_hrs,na.rm=T))
 abline(v=mean(sample.df$mean),col='blue')
 
 #reminder of quantitude where have a sample distribution at top, long line down page, and then each row is a new sample
