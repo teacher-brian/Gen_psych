@@ -91,7 +91,8 @@ hist(sh$count_of_activities)
 #what is the average psych hours for students reporting 1, 2, 3, 4, 5 classes?  group
 
 
-sh %>% group_by(student_class,count_of_activities) %>% summarise(mean(psych_hrs))
+sh %>% group_by(student_class,count_of_activities) %>% summarise(mean(psych_hrs)) %>% ggplot(aes(x=count_of_activities,y=`mean(psych_hrs)`))+
+  geom_point()+geom_smooth()
 
 
 
