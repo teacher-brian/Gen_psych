@@ -532,11 +532,13 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 
 1. Now that you've done the multitasking is a myth assignment,ask chat gpt to defend the claim that multitasking is a myth.  In other words, see how GPT would do your assignment.
 
+    * This list is to help you interogate chatgpt:
+    
     * go to chat gpt: https://chat.openai.com/
 
     * Think of gpt as a person to converse with. Be skeptical of it, so if it says something as if it were all knowing, don’t believe it.
 
-    * Ask it about cultural differences. Ask it meta questions. In other words, don’t think of chat gpt as a source of content or correct, objective, knowledge. Think of it instead as someone who does not think critically but has access to a lot of information and can emotionally handle tough questions (because, of course, it’s not human.)
+    * Ask gpt about whether cultural differences influence mutltitasking, or perceptions of multitasking. Ask it meta questions. In other words, don’t think of chat gpt as a source of content or correct, objective, knowledge. Think of it instead as someone who does not think critically but has access to a lot of information and can emotionally handle tough questions (because, of course, it’s not human.)
 
   * And then use the critical thinking standards to interrogate its claims.
 
