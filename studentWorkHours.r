@@ -194,3 +194,4 @@ hist(sample_wrk.df$mean)
 abline(v=mean(sample_wrk.df$mean))
 abline(v=mean(sample_wrk.df$mean)+2*sd(sample_wrk.df$mean),col='blue')
 abline(v=mean(sample_wrk.df$mean)-2*sd(sample_wrk.df$mean),col='blue')
+
