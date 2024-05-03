@@ -575,75 +575,75 @@ Please note that slack has a bug that makes my URL links to channels automatical
 
 
 
-<!-- # Week 7  Feb 12 {#Week7} -->
+# Week 6  May 1 {#Week6}
 
 
 
-<!-- ```{block, type='instructorNote'} -->
-<!-- On Thursday, May 9, there will be no classes held for the whole college district. -->
+```{block, type='instructorNote'}
+On Thursday, May 9, there will be no classes held for the whole college district.
 
-<!-- Faculty are expected to be doing other college work.  It's like a teacher's workshop day. -->
+Faculty are expected to be doing other college work.  It's like a teacher's workshop day.
 
-<!-- Which means none of you can be required to attend any class on 5/9/24.  For any class in the whole Seattle college district. -->
-<!-- ``` -->
-
-
-<!-- ## Read the following: -->
-
-<!-- * Re-Read/skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"} -->
-
-<!-- * Re-Read/skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"} -->
-
-<!-- * [Do A self-reflection Survey--be sure to select week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"} -->
-
-<!--     * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown. -->
-
-<!-- * [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} -->
-
-<!-- * [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'} -->
-
-<!-- * Places to Intervene in a System [@meadows_leverage_1999 -this link goes to our schedule's References at the bottom; <b>there you'll find a link to the actual document...Right click that link to open it</b>]  (But here is a direct link to the document just for ease: [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){target="_blank"} ) -->
-<!--    * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you. -->
-<!--    * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'} -->
-
-<!-- Piaget Videos -->
-
-<!-- * [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'} -->
-
-<!-- ### Brian's workflow video -->
-
-<!-- #### Two Videos you could watch if you are still unclear about workflow..they are a bit boring so watch at fast speed. -->
-
-<!-- 1. This one is recent, shorter (~18 minutes), and a general psychology class.  The document and video can be found here...it's a past struggle regarding [whether people have a natural or learned fear of snakes.](https://youtu.be/I4PiC3xvmXk){target="_blank"} -->
-
-<!-- 2. In my abnormal psych class, a few quarters ago I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  -->
-
-<!--   * [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}.  Admittedly, it's a bit tedious.  You should watch this on <b>2x speed.</b> -->
+Which means none of you can be required to attend any class on 5/9/24.  For any class in the whole Seattle college district.
+```
 
 
-<!-- ## Do some work: -->
+## Read the following:
 
-<!-- * Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach. -->
+* Re-Read/skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
-<!-- * From a systems point of view, using some of Meadows [@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas. -->
+* Re-Read/skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
-<!-- * Now go to chatgpt and ask it why toddlers go to mom. -->
+* [Do A self-reflection Survey--be sure to select week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
 
-<!--     * ask your question -->
+    * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
 
-<!--     * when it answers, use the critical thinking standards to think about its answer. Is there an area that is weak? Ask GPT to explain, to reconcile itself, to consider things it left out. -->
+* [William Perry's development theory on thought](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'}
 
-<!--     * Highlight and copy the chat gpt thread and paste it into your google doc. You might need to edit the formatting a bit. -->
+* [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
 
-<!-- * Look at your "dragon" work from the past week again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work. -->
+* Places to Intervene in a System [@meadows_leverage_1999 -this link goes to our schedule's References at the bottom; <b>there you'll find a link to the actual document...Right click that link to open it</b>]  (But here is a direct link to the document just for ease: [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){target="_blank"} )
+   * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you.
+   * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
 
-<!-- ```{block, type='blueBackground'} -->
-<!-- <span class='sidenote'>Use the jargon correctly</span> -->
+Piaget Videos
 
-<!-- Positive and negative do NOT mean good or bad, respectively.  So be thoughtful about what a *positive feedback* loop is, and what it does. -->
+* [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
 
-<!-- ``` -->
-<!-- * Post your one-document again in the [#week7](https://24generalnorthseattle.slack.com/archives/C06H18Y6LE9){target=”_blank”} channel.  -->
+### Brian's workflow video
+
+#### Two Videos you could watch if you are still unclear about workflow..they are a bit boring so watch at fast speed.
+
+1. This one is recent, shorter (~18 minutes), and a general psychology class.  The document and video can be found here...it's a past struggle regarding [whether people have a natural or learned fear of snakes.](https://youtu.be/I4PiC3xvmXk){target="_blank"}
+
+2. In my abnormal psych class, a few quarters ago I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.
+
+  * [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}.  Admittedly, it's a bit tedious.  You should watch this on <b>2x speed.</b>
+
+
+## Do some work:
+
+* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
+
+* From a systems point of view, using some of Meadows [@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
+
+* Now go to chatgpt and ask it why toddlers go to mom.
+
+    * ask your question
+
+    * when it answers, use the critical thinking standards to think about its answer. Is there an area that is weak? Ask GPT to explain, to reconcile itself, to consider things it left out.
+
+    * Highlight and copy the chat gpt thread and paste it into your google doc. You might need to edit the formatting a bit.
+
+* Look at your "dragon" work from the past week again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work.
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Use the jargon correctly</span>
+
+Positive and negative do NOT mean good or bad, respectively.  So be thoughtful about what a *positive feedback* loop is, and what it does.
+
+```
+* Post your one-document again in the [#week6](https://generalpsychs-xkn6199.slack.com/archives/C071W0PG46R){target=”_blank”} channel...remember if the link takes you to resources, just used the slack search bar.
 
 
 
