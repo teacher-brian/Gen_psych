@@ -575,7 +575,7 @@ Please note that slack has a bug that makes my URL links to channels automatical
 
 
 
-# Week 6  May 1 {#Week6}
+# Week 6  May 6 {#Week6}
 
 
 
@@ -594,7 +594,7 @@ Which means none of you can be required to attend any class on 5/9/24.  For any 
 
 * Re-Read/skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
-* [Do A self-reflection Survey--be sure to select week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
+* [Do A self-reflection Survey--be sure to select week 6 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
 
     * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
 
@@ -623,7 +623,7 @@ Piaget Videos
 
 ## Do some work:
 
-* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
+* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), from a systems approach.
 
 * From a systems point of view, using some of Meadows [@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
 
