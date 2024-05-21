@@ -15,10 +15,10 @@ users<- read.csv(file='slack-generalpsychs-xkn6199-members.csv')
 
 #roster.d1 <- read.csv("/media/brian/dater_bridge2/work/rosters/2023-4-20_GeneralPsychology_PSYC& 100 - H2 (24624).csv")
 
-roster.h2 <- readxl::read_xlsx("h2.xlsx")
+roster.h2 <- readxl::read_xlsx("H-2.xlsx")
 roster.h2 <- roster.h2[,-1]
 
-roster.d1 <- readxl::read_xlsx("d1.xlsx")
+roster.d1 <- readxl::read_xlsx("D-1.xlsx")
 roster.d1 <- roster.d1[,-1]
 
 roster.h2<- roster.h2[complete.cases(roster.h2$ID),]
@@ -81,8 +81,8 @@ users  %>% mutate_all(as.character) %>%
 # does anti-join to find roster names not in week 1
 
 users  %>% mutate_all(as.character) %>% mutate(displayname=ifelse(nchar(displayname)<1,fullname,displayname)) %>% anti_join(posted, by = c("displayname"="data")) %>% filter(status =="Member") %>% select(displayname,email,fullname) %>%
-  #select(email) %>%
-  mutate(message= paste0("\n\n\nHi @",displayname,", This is a generic message to all students who appear to not have posted their week 2 assignment.  Week 3 is ending, and I don't think you've posted to week 2. I might be wrong because I'm using a program to filter for people who haven't posted yet, but I don't think you've posted to week 2.  Do you need any help?  I know a few students are trying to get caught up, and a few of you have reached out. But at this point I'm a little worried you may fall behind.  It's not too late, but time keeps moving forward.  Reach out for help\n\n\n"))  %>% write_clip()
+  #select(email) %>%# mutate(email=paste0(email,";")) %>%
+  mutate(message= paste0("\n\n\nHi @",displayname,", This is a message to all students who appear to not have posted their week 5 assignment.  Week 8 is half over and so it's time to seriously consider dropping the course.\n\n\nYes, that is correct.  It's time to drop the course.\n\n The reason is that this Friday, May 24, is the last day for you to officially withdraw.  A 'W' on your transcript does not impact your gpa. \n\n\n  But because you are so far behind, it is unreasonable to expect that you'll get feedback from me quickly enough to help your work get to a level that would qualify as passing for the course.\n\nIn other words, it is very likely that you will not get a passing grade.\n\n\n"))
 
 
 
