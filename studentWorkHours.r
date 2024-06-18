@@ -1,6 +1,7 @@
 library(googlesheets4)
 library(tidyverse)
 library(ggridges)
+library(kableExtra)
 
 #get data
 
@@ -198,3 +199,16 @@ abline(v=mean(sample_wrk.df$mean))
 abline(v=mean(sample_wrk.df$mean)+2*sd(sample_wrk.df$mean),col='blue')
 abline(v=mean(sample_wrk.df$mean)-2*sd(sample_wrk.df$mean),col='blue')
 
+
+# basic pysch comp
+
+sh %>% filter(week=="Week 2 (April 8, 2024)") %>%
+  select(student_class,week,psych_hrs,class2_hrs,hs_hrs,work_hrs) %>%
+  group_by(student_class) %>%
+  summarise(across(ends_with("_hrs"),list (mean=mean,std=sd), na.rm=T))
+
+
+sh %>% filter(week=="Week 2 (April 8, 2024)") %>%
+  select(student_class,week,psych_hrs,class2_hrs,hs_hrs,work_hrs) %>%
+  group_by(student_class) %>%
+  ggplot(aes(x=psych_hrs,y=class2_hrs))+geom_point() +geom_smooth()
