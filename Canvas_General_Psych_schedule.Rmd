@@ -481,16 +481,16 @@ C. Read [How to Study, By Brian Holt](https://docs.google.com/document/d/1j9LFqr
 
     -Like before, it's optional an anonymous.  But because I found errors in my Human Sexuality textbook, I'd like to provide better information to my students while learning a bit about our community college population
 
-# Week 6  May 6 {#Week6}
+# Week 6  Oct 28 {#Week6}
 
 
 
 ```{block, type='instructorNote'}
-On Thursday, May 9, there will be no classes held for the whole college district.
+On Monday, Oct 28, there will be no classes held for the whole college district.
 
 Faculty are expected to be doing other college work.  It's like a teacher's workshop day.
 
-Which means none of you can be required to attend any class on 5/9/24.  For any class in the whole Seattle college district.
+Which means none of you can be required to attend any class on 10/28/24.  For any class in the whole Seattle college district.
 ```
 
 
@@ -539,7 +539,7 @@ Piaget Videos
 
     * when it answers, use the critical thinking standards to think about its answer. Is there an area that is weak? Ask GPT to explain, to reconcile itself, to consider things it left out.
 
-    * Highlight and copy the chat gpt thread and paste it into your google doc. You might need to edit the formatting a bit.
+    * Highlight and copy the chatgpt thread and paste it into your google doc. You might need to edit the formatting a bit.
 
 * Look at your "dragon" work from the past week again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work.
 
@@ -549,7 +549,7 @@ Piaget Videos
 Positive and negative do NOT mean good or bad, respectively.  So be thoughtful about what a *positive feedback* loop is, and what it does.
 
 ```
-* Post your one-document again in the [#week6](https://generalpsychs-xkn6199.slack.com/archives/C071W0PG46R){target=”_blank”} channel...remember if the link takes you to resources, just used the slack search bar.
+* Post your one-document again in the [#week6](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/295398){target=”_blank”} discussion.
 
 
 
