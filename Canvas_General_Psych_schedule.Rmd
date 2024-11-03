@@ -172,7 +172,7 @@ Please do not summarize these articles.  Synthesize.  Use the lecture just below
 ```{block, Dangers of URLs, type='blueBackground'}
 <span class='underline'>Note on References and only using URLs</span>
 
-Your instructor will frequently remind you to not rely on URLs when referencing. If the URL is available, you should include it in the reference, but whenever you are supporting a claim with a reference you should fill out the full reference, including the author, the year it was published, its title, and the publisher. The reason is that URLs will change from time to time as this happened to your instructor with the bloom taxonomy link.
+Your instructor will frequently remind you to not rely on URLs when referencing. If the URL is available, you should include it in the reference, but whenever you are supporting a claim with a reference you should fill out the full reference, including the author, the year it was published, its title, and the publisher. The reason is that URLs will change from time to time.
 ```
 
 
@@ -552,6 +552,37 @@ Positive and negative do NOT mean good or bad, respectively.  So be thoughtful a
 * Post your one-document again in the [#week6](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/295398){target=”_blank”} discussion.
 
 
+
+# Week 7 Nov 4  {#Week7}
+
+This week is a more proper assignment to practice self-reflection, metacognition, and critical thinking.  It's a little bit more involved so I've put the instructions into a google document so that this page isn't overwhelming.
+
+Be sure to ask questions in the muddy-point channel if they come up.
+
+Also, take a look a head for the remaining weeks of the quarter.  Lots to do and you'll need to organize your approach so that you don't fall behind.
+
+## (re)Read//skim/watch some
+
+A. Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+
+## Do the following
+
+A. [Complete the following metacog assignment posted in a google doc](https://docs.google.com/document/d/1hCDt07L5NhMy0SQDW3k9g9O14YF0k0R-Gklzd7rTP4A/edit?usp=sharing){target="_blank"}
+
+B. Post to the [#week 7](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/297425){target="_blank"} discussion, invite 2 people to review your work by using the "@" symbol.  So, simply post your URL, and then reply to that post and ask a few people to take look at your work.
+
+Ask them to take a look at your work and ask them for feedback on some part--but be specific.  Maybe it's your writing--like word choice and/or clarity.  Maybe it's something about your critical thinking.  This is hard ask to make of others but try it anyway.  Also, because it's still the pandemic and everything is just hard, don't fret if people you invite can't respond. It's likely that they are just overwhelmed with something.
+
+C. If you are invited to give feedback to people's writing, be kind.
+
+  * Remember that they are trying things out and are sharing potentially vulnerable parts of their ideas.  If you need help giving feedback, send your instructor a message and I can help.
+
+  * also, you don't have to respond to everyone who invites you.
+
+  * If you do respond, think about what was asked of you.  Don't try to solve any problems but instead find ways to ask questions.  "I wonder if there is another way for this section to be more clear because I see a few different ways to interpret what you said."  That's just an example.  But the key is ask questions and to not simply say "this is wrong" or something aggressive like that.
+
+The exercise of inviting people to look at your work gives the author some control on what feedback they'd like to receive, so honor that.
 
 
 # Appendix
