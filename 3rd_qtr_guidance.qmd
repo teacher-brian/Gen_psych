@@ -1,0 +1,240 @@
+---
+title: "Gen_Psych_guidance"
+author: "Brian Holt"
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 900
+    #logo: "your url here"
+    #footer: "your footer here"
+    #css: #["theme/theme.css"]
+    theme: simple
+    echo: true
+---
+
+Notice that the point values are larger, and in some cases, you have more time to work on them.
+
+------------------------------------------------------------------------
+
+## Big Ideas
+
+::: incremental
+-   How to evaluate your work with critical thinking
+
+-   Checking for confirmation biases
+
+-   Organizing your thoughts
+
+-   Writing drafts
+:::
+
+------------------------------------------------------------------------
+
+## The critical thinking standards
+
+A reminder, the critical thinking standards include
+
+::: columns
+::: {.column width="40%"}
+::: incremental
+1.  Clarity
+
+2.  Accuracy
+
+3.  Precision
+
+4.  Relevance
+
+5.  Depth
+
+6.  Breadth
+
+7.  Significance
+
+8.  Logic
+
+9.  Fairness
+:::
+:::
+
+::: {.column width="60%"}
+::: incremental
+-   Accuracy is close to the idea of "truth"
+
+-   Precision is close to the idea of sharp consistency
+
+-   Depth is about detail while breadth is about range of view
+
+-   Fairness is about giving points of view their best shot of survival
+:::
+:::
+:::
+
+::: notes
+Many struggle with difference between accuracy and precision depth and breadth
+
+and what fairness means
+:::
+
+------------------------------------------------------------------------
+
+-   Critical thinking is a choice
+
+-   It's time consuming though.
+
+-   It doesn't always lead to a clear, absolute, true answer
+
+-   If you're going to take a course in something, if there's a thing out there in the world that's important to you, then honor the fact that you care about that topic by actually using the critical thinking standards.
+
+::: notes
+Please don't just looks something up and then regurgitates that thing as if that's the final answer.
+
+The world is in too much disarray for us to be lazy like that.
+
+I'm not saying we have to do this in all aspects of our life. critical thinking is difficult and time-consuming. and it often doesn't lead to specific clear absolute true answers. many of the things that we have to do in life like crossing the street, should not be interrupted for seeking out pedestrian car fatalities of that intersection. we ain't got time for that.
+
+But if you're going to take a course in something, if there's a thing out there in the world that's important to you, then honor the fact that you care about that topic by actually using the critical thinking standards.
+:::
+
+------------------------------------------------------------------------
+
+## How to use them? Iteration
+
+::: incremental
+-  Iteration is a type of repetitive process. 
+
+-  Think about your goal, work towards the goal, check your work.
+
+-  For example, a thesis where basketball the only one, true beautiful sport, and if I were to ask you if you agreed, obviously the correct answer is yes, objectively.
+:::
+::: incremental
+
+-  And if you were to write a paper about that you might start off with that kind of a strong statement.
+
+-  Along the way, you'll point out the strengths of your argument
+
+-  But write about it, the more you may have some irritating and distracting thoughts
+
+-  Or worse, you don't even consider that you might be wrong.
+
+-  What should you do?
+:::
+::: incremental
+
+1. [Check for confirmation bias!  Look to see how your argument is too simple, or mistaken]{style="color:purple;"} 
+
+2. [Check for critical thinking standards: Accuracy, depth, breadth, fairness]{style="color:purple;"} 
+
+:::
+
+:::{.notes}
+
+We do this all the time, when you're washing dishes by hand, you'll go through the motions a little bit and then you'll inspect that the dish is in fact clean. if it's not, you wash a little bit more, maybe you get out a different kind of a tool that is a more aggressive cleaning agent. and then you go back and check to see that it's absolutely clean. you're done
+
+that's iteration.
+
+Along the way, you'll point out about how you see a range of athletic ability in a range of athletic sizes, the excitement, the intensity, the team aspect punctuated with sudden demonstration of individual talent.
+
+But the more you think and write about it, the more you write you may have some irritating and distracting thoughts about what you're claiming.
+
+Or worse, you don't even consider that you might be wrong.
+
+What should you do? 
+
+Most the, time, when we're feeling lazy or tired we try not to think about those thoughts. 
+
+We recognize that thinking about those thoughts, and investigating them, your thesis is going to have to change, which means you're going to have to start over, more or less. That's time consuming and frustrating. you have a deadline.
+
+If you choose to avoid those thoughts, if you choose to avoid even challenging your own thoughts, you are not being a critical thinker. you are not being intellectual. you're avoiding that work. that makes it low level. and you should not expect Rewards.
+:::
+
+
+## Checking for confirmation biases
+
+::: incremental
+
+-  Checking for confirmation bias is actually quite simple but in practice it can be emotionally difficult.
+-  If you believe something, you should be able to cite a reason, possibly even a reference for that belief.
+-  And if you can do that, you should also take some time to think about and do some Web browser searches looking for evidence that proves your belief false.
+-  That's an incredibly important skill to get in a habit of.
+-  And I want to see you do it in your papers.
+
+:::
+
+
+## Confirmation bias continued
+
+::: incremental
+
+-  When is a good time in your writing to check for biases?
+
+-  well, it depends on how you have a workflow of writing. for me, I usually have to jot some things down in bullet point form, maybe some really basic sentences that start to look like a paragraph.
+
+-  and then I take a break from that and then look at what I've written and ask myself the question am I committing the confirmation bias. in other words am I looking for evidence, or coming from a point of view that assumes that my belief is true?
+
+-  and from there I might do some research and poke around to see whether or not my beliefs are reasonable.
+
+-  that takes emotional vulnerability and it's not always fun.
+
+-  and sometimes it means I have to rewrite my bullet points, or maybe even rewrite my thesis.
+
+-  but if I take 10 minutes to do that early on, the quality of my work is much higher by the time I'm done.
+
+:::
+
+## Organizing your thoughts
+
+Have you ever been on a deadline and you had interesting thoughts, maybe thoughts that undermined your thesis? 
+
+What do you do? Often, we ignore them.
+
+Stop that
+
+What do you do with the stuff that you don't actually include in your final draft?
+
+That is one aspect of [workflow]{style="color:purple;"} 
+
+
+:::{.notes}
+If any of you have had the experience of writing something and then in that process you stumble upon an idea that's interesting to you but you simply don't have enough time to follow up on that, because of a deadline, because you've been putting things off, whatever.
+
+but you make the choice to not include that information.
+
+do you write that down anywhere? and if not why not because you should honor that. you should actually realize that you've got clever ideas from time to time and that you should probably write them down someplace. even if they're not something that you would include in a given assignment.
+
+that's an example question of workflow: what do you do with the stuff that you don't actually include in your final draft?
+
+a lot of people just throw those things aside because they think that their thoughts aren't worth anything unless it's tied to some payment of points in an academic sense.
+
+stop that. you're smart, you've got experiences and points of view. use those somewhere. write them down.
+:::
+
+
+
+## Writing drafts
+
+::: incremental
+-  Rough drafts are for convincing yourself that you understand something. 
+
+-  Final drafts demonstrates it to somebody else.
+:::
+
+:::{.notes}
+This weekend I came across an interesting comment from some researchers at the University of Washington. they were talking about riding drafts, and this is something that's showing up in the context of artificial intelligence/LLM's because students aren't having to do as much writing.
+
+Anyway the comment was this: you write rough drafts to convince yourself that you understand something. The final draft is demonstrating to somebody else that you understand it, and maybe even teach them something along the way.
+
+Rough drafts might include a summary, final drafts usually don't need to.
+
+to demonstrate to yourself that you understand something, writing a final draft to help somebody else understand it.
+
+:::
+
+## Challengint assignments
+These final assignments, they're big and complicated. I'm challenging you. I'm not asking you to solve the question ”what is personality, what is identity?” because none of us are capable of doing that in a few weeks.
+
+When you're approaching the Threads assignment, where I ask you to explain what identity is, I'm not asking you to have a complete answer. I'm not asking you to be comprehensive. you're not getting a PhD in identity, or personality.
+
+But I do want my students who've taken an introductory psychology course to at least be able to grapple with that kind of a question or (about gun violence) as if they're talking with a friend and communicate to that friend a little bit of sophistication about the big ideas that might matter, and to explain what a reasonable answer could look like.
+
