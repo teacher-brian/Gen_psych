@@ -1,5 +1,5 @@
 ---
-title: "General Schedule Fall 2024"
+title: "General Schedule Fall 2025"
 author: "Brian Holt"
 date: "`r  Sys.Date()`"
 output:
@@ -84,7 +84,7 @@ H. Here is the pattern of the course:
   4. Assignments should be submitted in a timely fashion. Friday is the standing due date, with reasonable flexibility. 
 
 
-# Week 1 9/23/24 {#Week1} 
+# Week 1 9/29/25 {#Week1} 
 
 ## Read Some stuff
 
