@@ -10,7 +10,7 @@ output:
         after: |
           <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
         before: |
-          <li><a href="./">General Psychology Fall 2024 schedule</a></li>
+          <li><a href="./">General Psychology Fall 2025 schedule</a></li>
         scroll_highlight: yes
       toolbar:
         position: fixed
@@ -50,81 +50,71 @@ library(tidygraph)
 library(ggraph)
 ```
 
-# Background before we begin
+<!-- # Background before we begin -->
 
-  A. First of all, welcome. My intention is to keep instructions brief and simple. 
+<!--   A. First of all, welcome. My intention is to keep instructions brief and simple.  -->
 
-  B. You are always welcome to ask for clarification. It is helpful to your instructor if you try to ask the class first because often the class can be helpful. So, please first ask a question in Canvas. If it's personal, please use my email account Brian.Holt@seattlecolleges.edu
+<!--   B. You are always welcome to ask for clarification. It is helpful to your instructor if you try to ask the class first because often the class can be helpful. So, please first ask a question in Canvas. If it's personal, please use my email account Brian.Holt@seattlecolleges.edu -->
 
-  C. It is absolutely crucial that students, teachers, all of us, respect that everybody comes to this class with different experiences, abilities, and intentions..
+<!--   C. It is absolutely crucial that students, teachers, all of us, respect that everybody comes to this class with different experiences, abilities, and intentions.. -->
 
-  D. It can be embarrassing to ask for help. Please try to ask anyway.
+<!--   D. It can be embarrassing to ask for help. Please try to ask anyway. -->
 
-  E. My intention as the instructor is to teach you ways to evaluate quality knowledge and to practice quality thinking and quality writing. The context of this endeavor is going to be in psychology.
+<!--   E. My intention as the instructor is to teach you ways to evaluate quality knowledge and to practice quality thinking and quality writing. The context of this endeavor is going to be in psychology. -->
 
-  F. Computer requirements: 
+<!--   F. Computer requirements:  -->
 
-   1. You must have access to a real computer for writing. If you cannot afford a laptop or do not have a laptop or computer please contact me because we actually have free rentals for students. 
+<!--    1. You must have access to a real computer for writing. If you cannot afford a laptop or do not have a laptop or computer please contact me because we actually have free rentals for students.  -->
 
-   2. A tablet or smartphone will be insufficient. It's fine to do some communication (texting etc) using those tools, but for real writing you're going to need a real computer or a laptop. 
-  
-  3. You'll need to have quality access to the internet.  IF you don't have consistent access to the internet from home, we have loaner hot-spots that you can borrow for free.  They should give you internet at home.
-  
-G. Software (apps)
+<!--    2. A tablet or smartphone will be insufficient. It's fine to do some communication (texting etc) using those tools, but for real writing you're going to need a real computer or a laptop.  -->
 
-  1. A web browser, like Firefox, chrome. 
+<!--   3. You'll need to have quality access to the internet.  IF you don't have consistent access to the internet from home, we have loaner hot-spots that you can borrow for free.  They should give you internet at home. -->
 
-  2. A free Google doc account. If you have Gmail you already have a Google account for documents and spreadsheets. **This is a requirement; no other word processing software will be allowed.** I have reasons and we can talk about them but unless it is related to a disability accommodation you must be using Google docs.
+<!-- G. Software (apps) -->
 
- 
-H. Here is the pattern of the course: 
+<!--   1. A web browser, like Firefox, chrome.  -->
 
-  1. Each week you will be given a list of things to read and it's list of things to do. 
-  2. Most of what you'll do is some type of writing assignment in google docs. I will give you instructions and support for how to do this. 
-  3. When you have finished the weeks assignment, you will post a link to your work in Canvas.
-  4. Assignments should be submitted in a timely fashion. Friday is the standing due date, with reasonable flexibility. 
+<!--   2. A free Google doc account. If you have Gmail you already have a Google account for documents and spreadsheets. **This is a requirement; no other word processing software will be allowed.** I have reasons and we can talk about them but unless it is related to a disability accommodation you must be using Google docs. -->
 
 
-# Week 1 9/29/25 {#Week1} 
+<!-- H. Here is the pattern of the course:  -->
 
-## Read Some stuff
+<!--   1. Each week you will be given a list of things to read and it's list of things to do.  -->
+<!--   2. Most of what you'll do is some type of writing assignment in google docs. I will give you instructions and support for how to do this.  -->
+<!--   3. When you have finished the weeks assignment, you will post a link to your work in Canvas. -->
+<!--   4. Assignments should be submitted in a timely fashion. Friday is the standing due date, with reasonable flexibility.  -->
 
-1. [The syllabus](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit?usp=sharing){target=”_blank”}
+<!-- 1. [The syllabus](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit?usp=sharing){target=”_blank”} -->
 
-2. [Miller's law of communication (in the syllabus)](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit#bookmark=id.t6wxg68sjbw2){target=”_blank”}
+<!-- 2. [Miller's law of communication (in the syllabus)](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit#bookmark=id.t6wxg68sjbw2){target=”_blank”} -->
 
-3. [George Orwell, Politics and the English Language, 1946 (in the syllabus)](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit#bookmark=id.4653yhnpxy9o){target=”_blank”}
-
-4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit#bookmark=id.7u4ugyf7ab9o){target=”_blank”}
-
-5. [Textbook, chapter 1: What is Psychology?](https://openstax.org/books/psychology-2e/pages/1-introduction){target=”_blank”}
-
-6. Dictionary/Wikipedia definitions on: 
-
-      *Anthropomorphize
- 
-      *Ethnocentrism
+<!-- 3. [George Orwell, Politics and the English Language, 1946 (in the syllabus)](https://docs.google.com/document/d/10vQI3Y0kkiUzOKtQR7r5WUmIxsW4uSAd2alzWBdRAUA/edit#bookmark=id.4653yhnpxy9o){target=”_blank”} -->
 
 
-7. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own and be sure to keep track of your sources; include them in your writing as necessary.  
 
-8. [Watch video on writing guide](https://www.youtube.com/watch?v=ytWuC6tns_w&feature=youtu.be){target="_blank"}
+# Week 3 10/13/25 {#Week3} 
 
-9. Re-read the critical thinking items in the syllabus
-    * Write them in your one document to rule them all and give a one-sentence description of each **using your own words.**
+This will be your first real assignment outside of quizzes in our class, so I'm giving a few weeks for this to be done. The pattern of instructions below will basically “be read some stuff” and then “do some stuff. “
 
-10. Read/skim [Chapter 2 of your textbook](https://openstax.org/books/psychology-2e/pages/2-introduction){target="_blank"}.  This means you should read the first page and the summary page of the chapter, and then skim the chapter for things relevant to your work or interests.  Take notes on what you find. You can put them into the google doc if you want.
+You will put your writing into your google document that you set up during the first week of class. 
 
-12. Read @Schwartz1771, [The importance of stupidity in scientific research
+
+## Read/watch Some stuff
+
+1. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1Dl6kwktH53wSnPS-CEP2yadHCNgmaUL1PD-8v9fm6x8/edit?tab=t.0#bookmark=kix.7akv47kpo2or){target=”_blank”}
+
+2. [Textbook, chapter 2: What is Psychology?](https://openstax.org/books/psychology-2e/pages/2-introduction){target=”_blank”}
+
+<!-- 3. [Watch video on writing guide](https://www.youtube.com/watch?v=ytWuC6tns_w&feature=youtu.be){target="_blank"} -->
+
+
+3. Read @Schwartz1771, [The importance of stupidity in scientific research
 ](https://jcs.biologists.org/content/121/11/1771){target='_blank'}
 
 
 ## Do the following
 
-1. Introduce yourself in  [#introductions](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/286696?module_item_id=1377842){target=”_blank”} 
-
-
-2. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  
+1. In your original google document, make a new page, title it, and write some thoughts down to the following prompts.  
 
     a) What is your process for thinking clearly?
 
@@ -133,22 +123,16 @@ H. Here is the pattern of the course:
 
 3. [Red scare assignment](https://docs.google.com/document/d/17cknH7NPIA6h9AZXirtSAxFGTvNC_pwYYJhEdcTE3J8/edit){target=”_blank”} 
 
-   *  Do this one without over thinking it.  
-   *  add this to your google doc.  You can add it as a new page.
+   *  Do this one without over-thinking it.  
+   *  add this to your google doc by adding it as a new page.
 <br>
 <br>
 
-4. Read some of your classmates' posts and comment on some.  
+4. Read some of your classmates' posts and comment on some in their google document.  
    
 5. Read [This evaluation](https://docs.google.com/document/d/1-g6-uJELM5zgb-yTRCQ8Ah76P9FccFZ_V2GK6YwP3iw/edit?usp=sharing){target='_blank'}
 
-6. Reminder to write down descriptions of the critical thinking standards in your own words.
-
-```{block, type='blueBackground'}
-** step 7 has been added to week 2, but I'm leaving it here with the hope it's less confusing to just move it.
-```
-
-7. Write a synthesis of the 4 sources mentioned in week one (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then #4. Chapter 2).  You may want to consider a comment about whether you think knowledge is static.
+6. Write a synthesis of the 4 sources mentioned in week one (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then #4. Chapter 2). 
 
 ```{block, type='blueBackground'}
 Please do not summarize these articles.  Synthesize.  Use the lecture just below to help.
@@ -156,17 +140,11 @@ Please do not summarize these articles.  Synthesize.  Use the lecture just below
 
   * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
 
-8. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste.
+7. Put your writing into the 'one doc to rule them all'.  Give that page a new heading, a title. Highlight that title and go to the 'insert' menu item and insert "bookmark".  You should see a little blue ribbon and a "link" that you can copy and paste.
 
+8. Read and comment upon some of your classmates submissions.  In google docs, you can highlight any part of their page and then create a comment by right clicking or using the keyboard shortcut "Ctrl + alt + m"
 
-9. Read and comment upon some of your classmates submissions.  In google docs, you can highlight any part of their page and then create a comment by right clicking or using the keyboard shortcut "Ctrl + alt + m"
-
-10. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email.
-
-* It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work.
-
-
-11. When you are done, post to the [#week-1 discussion](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/286697?module_item_id=1377843){target="_blank"} by including a link to your document from step 2 above. 
+9. When you are done, post to the [#week-4 Syntehsis Work discussion](https://canvas.seattlecolleges.edu/courses/35378/discussion_topics/421638){target="_blank"} by including a link to your document. 
 
 
 
@@ -178,36 +156,15 @@ Your instructor will frequently remind you to not rely on URLs when referencing.
 
 
 
+<!-- # Week 4 Oct 6  {#Week2} -->
 
 
-## Conversation Questions
+<!-- 10. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email. -->
 
-These are questions that I'd like to discuss in class sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
-
-A) What is the confirmation bias?
-B) What is a workflow?
-C) What value is there in synthesizing information?
+<!-- * It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work. -->
 
 
 
-
-## Week content in class
-
-### Basic Workflow for Critical Thinking and Writing
-
-Introduction to critical thinking and writing
-
-Steps in the critical thinking and writing process
-
-Developing a thesis statement
-
-Structuring an essay
-
-Causal inference in graphs
-
-Correlations and statistics
-
-# Week 2 Oct 6  {#Week2}
 <!-- ## Orienting comment -->
 
 <!-- Memory is a relatively shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on this scale.  There are other scales out there, but Bloom is well known. -->
@@ -228,226 +185,230 @@ Correlations and statistics
 
 
 
-## It's a pretty dense unit.
+<!-- ## It's a pretty dense unit. -->
 
-## Do, Watch, and Read the following
+<!-- ## Do, Watch, and Read the following -->
 
-A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287518){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding.
+<!-- A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287518){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding. -->
 
-B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
+<!-- B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below** -->
 
-C. [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'}
+<!-- C. [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'} -->
 
-D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
+<!-- D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'} -->
 
 
-E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
+<!-- E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"} -->
 
 
-F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+<!-- F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"} -->
 
-G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+<!-- G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"} -->
 
 
-## Do the following
+<!-- ## Do the following -->
 
-Step 7 from week 1:
-7. Write a synthesis of the 4 sources mentioned in week one (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then #4. Chapter 2).  You may want to consider a comment about whether you think knowledge is static.
+<!-- Step 7 from week 1: -->
+<!-- 7. Write a synthesis of the 4 sources mentioned in week one (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then #4. Chapter 2).  You may want to consider a comment about whether you think knowledge is static. -->
 
-```{block, type='blueBackground'}
-Please do not summarize these articles.  Synthesize.  Use the lecture just below to help.
-```
+<!-- ```{block, type='blueBackground'} -->
+<!-- Please do not summarize these articles.  Synthesize.  Use the lecture just below to help. -->
+<!-- ``` -->
 
-  * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'}
+<!--   * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'} -->
 
 
-1. Reassess your understanding from above A.
-2. What would you add to your understanding in B?
-3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT.
-4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
-    * On that new page, write a quick title like "psycho-biology I'm interested in"
-    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
-    * if you click on that text, you should see a "link" option. Copy that link and...
-5. ...share your ideas from # 3 above to the the [#week 2 Discussion---notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287538?module_item_id=1381026){target="_blank"}
+<!-- 1. Reassess your understanding from above A. -->
+<!-- 2. What would you add to your understanding in B? -->
+<!-- 3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT. -->
+<!-- 4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page -->
+<!--     * On that new page, write a quick title like "psycho-biology I'm interested in" -->
+<!--     * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon -->
+<!--     * if you click on that text, you should see a "link" option. Copy that link and... -->
+<!-- 5. ...share your ideas from # 3 above to the the [#week 2 Discussion---notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287538?module_item_id=1381026){target="_blank"} -->
 
-6. Read some other posts from classmates and comment about some areas of interest.
+<!-- 6. Read some other posts from classmates and comment about some areas of interest. -->
 
-## In Class Conversation Questions
+<!-- ## In Class Conversation Questions -->
 
-These are questions that I'd like to discuss in class sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+<!-- These are questions that I'd like to discuss in class sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation. -->
 
-A) How does your brain know the difference between real and imaginary?
-B) Where is "information" in the brain?
-C) what metaphors are useful to think about how the nervous system works?
+<!-- A) How does your brain know the difference between real and imaginary? -->
+<!-- B) Where is "information" in the brain? -->
+<!-- C) what metaphors are useful to think about how the nervous system works? -->
 
 
 
 
+<!-- # What comes below -->
 
+<!-- is just a detailed description on how to use the library efficiently.  -->
 
-# Appendix
 
-## Using the library {#useLibrary} 
 
-The library has set up a simple library guide for our class.  You can find it here: [Abnormal Psychology library guide](https://libguides.northseattle.edu/psych220). I
+<!-- # Appendix -->
 
-```{block, type='blueBackground'}
-<span class='sidenote'>Note: Don't pay for articles</span>
+<!-- ## Using the library {#useLibrary}  -->
 
-One important word of advice is to never pay for a scholarly article. If you go online and use Google, or even Google Scholar to find online sources, you may be directed to the publication that will charge you a large amount of money to access just one article.  So don’t do that.
+<!-- The library has set up a simple library guide for our class.  You can find it here: [Abnormal Psychology library guide](https://libguides.northseattle.edu/psych220). I -->
 
-Generally there are ways to get articles through our library, so don't pay for articles.
-```
+<!-- ```{block, type='blueBackground'} -->
+<!-- <span class='sidenote'>Note: Don't pay for articles</span> -->
 
+<!-- One important word of advice is to never pay for a scholarly article. If you go online and use Google, or even Google Scholar to find online sources, you may be directed to the publication that will charge you a large amount of money to access just one article.  So don’t do that. -->
 
-To get started with our readings, you'll need to use our Library (online, of course) to obtain many of the articles.  
+<!-- Generally there are ways to get articles through our library, so don't pay for articles. -->
+<!-- ``` -->
 
-Finding journal articles is a skill that gets better with practice.  This happens to be why Librarians are so helpful.  They've actually been trained so if you can't find an article, it's okay to ask librarians for help.  
 
-In fact, here is how you can [get help from North Seattle's library staff](https://libguides.northseattle.edu/welcome/askus). 
+<!-- To get started with our readings, you'll need to use our Library (online, of course) to obtain many of the articles.   -->
 
+<!-- Finding journal articles is a skill that gets better with practice.  This happens to be why Librarians are so helpful.  They've actually been trained so if you can't find an article, it's okay to ask librarians for help.   -->
 
+<!-- In fact, here is how you can [get help from North Seattle's library staff](https://libguides.northseattle.edu/welcome/askus).  -->
 
-### Relationship of an article to its Journal
 
-Using hierarchies helps us organize information. Journal articles, or for that matter the file directories on your computer, work somewhat like an address for a person's home. There are several different parts that give us information to track down and locate whatever it is we're looking for, be it a computer file, or Journal article. Basically, a journal article  has the following components, some of which may be familiar to you :
 
-      Database (of periodicals)
-        Periodical (eg., magazine, newspaper, scholarly journal)
-         Year (of publication)
-           Volume Number
-            Volumne Issue number
-             Page Number (optional, often unnecessary)
-               Article Title
-                  Author
+<!-- ### Relationship of an article to its Journal -->
 
-So, to find an article, you'll need to know the parts above.  When you are given a list of references, or citations, nearly all of the information needed above is given to  you.  What is not given, or at least is done implicitly with web searches, is access to the top part, the database.  
+<!-- Using hierarchies helps us organize information. Journal articles, or for that matter the file directories on your computer, work somewhat like an address for a person's home. There are several different parts that give us information to track down and locate whatever it is we're looking for, be it a computer file, or Journal article. Basically, a journal article  has the following components, some of which may be familiar to you : -->
 
-#### Here is a typical citation:
+<!--       Database (of periodicals) -->
+<!--         Periodical (eg., magazine, newspaper, scholarly journal) -->
+<!--          Year (of publication) -->
+<!--            Volume Number -->
+<!--             Volumne Issue number -->
+<!--              Page Number (optional, often unnecessary) -->
+<!--                Article Title -->
+<!--                   Author -->
 
->Author(s). (year of pub). "Article Title." <span class='underline'>Periodical title</span>. Volume Number (issue number).
+<!-- So, to find an article, you'll need to know the parts above.  When you are given a list of references, or citations, nearly all of the information needed above is given to  you.  What is not given, or at least is done implicitly with web searches, is access to the top part, the database.   -->
 
-The information in a citation isn't presented in the same hierarchy as above, but all of the necessary parts are there.  
+<!-- #### Here is a typical citation: -->
 
-Here is an example citation (reference) for something we may read.  Can you identify the periodical?
+<!-- >Author(s). (year of pub). "Article Title." <span class='underline'>Periodical title</span>. Volume Number (issue number). -->
 
->Jay Efran, Michael Lukens, Mitchell Greene. 2007. “Defining Psychotherapy: The Last 25 Years Have Taught Us That It’s Neither Art nor Science.” <span class='underline'>Psychotherapy Networker</span> 31 (2). 
+<!-- The information in a citation isn't presented in the same hierarchy as above, but all of the necessary parts are there.   -->
 
-Most of the items in the list above are self-explanatory. I want to focus a bit about periodicals.
+<!-- Here is an example citation (reference) for something we may read.  Can you identify the periodical? -->
 
-```{block, type='blueBackground'}
-<span class='sidenote'>Note on formatting citations: underlining publication titles</span>
+<!-- >Jay Efran, Michael Lukens, Mitchell Greene. 2007. “Defining Psychotherapy: The Last 25 Years Have Taught Us That It’s Neither Art nor Science.” <span class='underline'>Psychotherapy Networker</span> 31 (2).  -->
 
-In print, publication titles are *italicized*.  I have a very hard time noticing that subtle font.  
+<!-- Most of the items in the list above are self-explanatory. I want to focus a bit about periodicals. -->
 
-When you submit a written manuscript for printing, publication titles are <span style='text-decoration: underline'>underlined</span> because traditionally manuscripts were typed with typewriters, and to be able to type italicized words required an entire additional alphabet represented in the hammers.  So, underlining was how you could emphasize a word, and the printer--a physical person--could notice the author's formatting intent and correctly publish the final product in italics. 
+<!-- ```{block, type='blueBackground'} -->
+<!-- <span class='sidenote'>Note on formatting citations: underlining publication titles</span> -->
 
-It's a bit different now with our computers, obviously.  Still, I have a hard time seeing italicized words and will occasionally use underline. 
+<!-- In print, publication titles are *italicized*.  I have a very hard time noticing that subtle font.   -->
 
-So, sometimes I'll underline pub titles, sometimes I'll italicize. I have no rule on this.  I am chaos manifested.  Beware. 
-```
+<!-- When you submit a written manuscript for printing, publication titles are <span style='text-decoration: underline'>underlined</span> because traditionally manuscripts were typed with typewriters, and to be able to type italicized words required an entire additional alphabet represented in the hammers.  So, underlining was how you could emphasize a word, and the printer--a physical person--could notice the author's formatting intent and correctly publish the final product in italics.  -->
 
-#### Periodicals
+<!-- It's a bit different now with our computers, obviously.  Still, I have a hard time seeing italicized words and will occasionally use underline.  -->
 
-These are just the names of the major publication. _The New York Times_, is colloquially known as a newspaper but technically it is a periodical. <span class='underline'>The Journal of Abnormal Psychology</span> is also a periodical. 
+<!-- So, sometimes I'll underline pub titles, sometimes I'll italicize. I have no rule on this.  I am chaos manifested.  Beware.  -->
+<!-- ``` -->
 
-When we search for articles, we have to first know which journal, or periodical, owns that article.  So it is a little counter intuitive but once we have identified an article we would like to read, we have to first find out whether or not our College has access to that periodical.  
+<!-- #### Periodicals -->
 
-To do that, we have to use our colleges periodical locator.
+<!-- These are just the names of the major publication. _The New York Times_, is colloquially known as a newspaper but technically it is a periodical. <span class='underline'>The Journal of Abnormal Psychology</span> is also a periodical.  -->
 
-### Finding a journal using Periodical locator
+<!-- When we search for articles, we have to first know which journal, or periodical, owns that article.  So it is a little counter intuitive but once we have identified an article we would like to read, we have to first find out whether or not our College has access to that periodical.   -->
 
-#### Periodical locator {#PeriodicalLocator} 
+<!-- To do that, we have to use our colleges periodical locator. -->
 
-Notice the first link within [North's Article page](https://libguides.northseattle.edu/welcome/articles){target="_blank"}.  It should say "Periodical Locator"
+<!-- ### Finding a journal using Periodical locator -->
 
-There are many databases, inside of these databases are pages of journals, and inside those journals are articles. 
+<!-- #### Periodical locator {#PeriodicalLocator}  -->
 
-**We need to use the periodical locator to determine which database houses which periodical.  With that, we can then open up that periodical and get the article**
+<!-- Notice the first link within [North's Article page](https://libguides.northseattle.edu/welcome/articles){target="_blank"}.  It should say "Periodical Locator" -->
 
+<!-- There are many databases, inside of these databases are pages of journals, and inside those journals are articles.  -->
 
-```{block, type='blueBackground'}
-<span class='sidenote'>Note on 'free' articles and tuition/fees</span>
+<!-- **We need to use the periodical locator to determine which database houses which periodical.  With that, we can then open up that periodical and get the article** -->
 
-Part of the fees that you pay as a student are used to pay subscriptions for these periodical databases. We have a small, but pretty good selection. Major universities have much larger collections due to their size and tuition/fee structure.
 
-So in a way, you are **not** actually getting this for free because you are paying for library access. That's the benefit of taking classes from a college. If you were not an active student, you would not be able to see many of these articles.
+<!-- ```{block, type='blueBackground'} -->
+<!-- <span class='sidenote'>Note on 'free' articles and tuition/fees</span> -->
 
-So, download them all!
-```
+<!-- Part of the fees that you pay as a student are used to pay subscriptions for these periodical databases. We have a small, but pretty good selection. Major universities have much larger collections due to their size and tuition/fee structure. -->
 
-##### Here's the main point: {#libraryMainPoint} 
+<!-- So in a way, you are **not** actually getting this for free because you are paying for library access. That's the benefit of taking classes from a college. If you were not an active student, you would not be able to see many of these articles. -->
 
-I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+<!-- So, download them all! -->
+<!-- ``` -->
 
-Let's use that @efran_defining_2007 article.  
+<!-- ##### Here's the main point: {#libraryMainPoint}  -->
 
-1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.  
+<!-- I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool. -->
 
-2. Type in the name of the periodical for Efran's piece. 
+<!-- Let's use that @efran_defining_2007 article.   -->
 
-You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction:
+<!-- 1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.   -->
 
-3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need.
+<!-- 2. Type in the name of the periodical for Efran's piece.  -->
 
-    That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.  Or, I think now you can just click on it and skip to step 8.
+<!-- You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction: -->
 
-4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
+<!-- 3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need. -->
 
-5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
+<!--     That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.  Or, I think now you can just click on it and skip to step 8. -->
 
+<!-- 4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles). -->
 
+<!-- 5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest). -->
 
-6. Click on "A to Z"
 
-7. You might notice that there are 67 databases that North Seattle has premium access to. In our case we're going to be looking for the proquest direct database. And we can either click on the letter "P" or we can just type in proquest direct.
 
+<!-- 6. Click on "A to Z" -->
 
-```{block, type='blueBackground'}
-<span class='sidenote'>Note on Popular sources</span>
+<!-- 7. You might notice that there are 67 databases that North Seattle has premium access to. In our case we're going to be looking for the proquest direct database. And we can either click on the letter "P" or we can just type in proquest direct. -->
 
-You may also notice the little tag "popular" next to proquest link.  That's an indicator that the articles are not peer reviewed and so aren't exactly cutting edge science. Even though this particular journal we are looking for, _Psychotherapy Networker_, is flagged as a popular type, it is a place for therapists to share their thoughts on the profession so there is a lot of value in it.
 
-For help in distinguishing the different types of sources, the library has some guides:
+<!-- ```{block, type='blueBackground'} -->
+<!-- <span class='sidenote'>Note on Popular sources</span> -->
 
-* [Scholar vs popular](http://libguides.northseattle.edu/c.php?g=97441&p=630690)
+<!-- You may also notice the little tag "popular" next to proquest link.  That's an indicator that the articles are not peer reviewed and so aren't exactly cutting edge science. Even though this particular journal we are looking for, _Psychotherapy Networker_, is flagged as a popular type, it is a place for therapists to share their thoughts on the profession so there is a lot of value in it. -->
 
-* [Find Scholarly Journals](http://libguides.northseattle.edu/c.php?g=97441&p=630669)
+<!-- For help in distinguishing the different types of sources, the library has some guides: -->
 
-```
+<!-- * [Scholar vs popular](http://libguides.northseattle.edu/c.php?g=97441&p=630690) -->
 
-8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact a student of North Seattle before you can continue, which is why you've been prompted for your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+<!-- * [Find Scholarly Journals](http://libguides.northseattle.edu/c.php?g=97441&p=630669) -->
 
-     - 8a. If you don't know your @ seattlecolleges.edu email, or email password, you can go to this location [https://tools.seattlecolleges.edu/Initialize/resetmypassword](https://tools.seattlecolleges.edu/Initialize/resetmypassword){target='_blank'} to update it, reset/change the password. If you still can't get access, let me know.
-<p>     </p>
-9. You should see a simple search box, where you can enter important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
+<!-- ``` -->
 
-But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
+<!-- 8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact a student of North Seattle before you can continue, which is why you've been prompted for your @ seattlecolleges.edu email and password. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article. -->
 
-When you search for those two terms in their respective fields, you will get two hits and one of them is the article we need. You should notice that it is a full text, not all databases provide full text documents. But in this case it's a full text. You can either print it or read it online.
+<!--      - 8a. If you don't know your @ seattlecolleges.edu email, or email password, you can go to this location [https://tools.seattlecolleges.edu/Initialize/resetmypassword](https://tools.seattlecolleges.edu/Initialize/resetmypassword){target='_blank'} to update it, reset/change the password. If you still can't get access, let me know. -->
+<!-- <p>     </p> -->
+<!-- 9. You should see a simple search box, where you can enter important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful. -->
 
-Yay.  Now you can find the other articles. 
+<!-- But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like). -->
 
-### A quick video of the process (some day once ctclink matures)
+<!-- When you search for those two terms in their respective fields, you will get two hits and one of them is the article we need. You should notice that it is a full text, not all databases provide full text documents. But in this case it's a full text. You can either print it or read it online. -->
 
-## Anatomy of a journal article
+<!-- Yay.  Now you can find the other articles.  -->
 
-#### Title
-#### Abstract
-#### Introduction
-##### Lit review
-##### hypothesis
-#### Methods
-##### Participants
-##### Materials
-##### Procedure
-#### Results
-#### Discussion
-#### References
+<!-- ### A quick video of the process (some day once ctclink matures) -->
 
+<!-- ## Anatomy of a journal article -->
 
+<!-- #### Title -->
+<!-- #### Abstract -->
+<!-- #### Introduction -->
+<!-- ##### Lit review -->
+<!-- ##### hypothesis -->
+<!-- #### Methods -->
+<!-- ##### Participants -->
+<!-- ##### Materials -->
+<!-- ##### Procedure -->
+<!-- #### Results -->
+<!-- #### Discussion -->
+<!-- #### References -->
 
 
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+
+
+<!-- `r if (knitr:::is_html_output()) ' -->
+<!-- # References {-} -->
+<!-- '` -->
