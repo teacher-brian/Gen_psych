@@ -156,93 +156,11 @@ Your instructor will frequently remind you to not rely on URLs when referencing.
 
 
 
-<!-- # Week 4 Oct 6  {#Week2} -->
-
-
-<!-- 10. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email. -->
-
-<!-- * It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work. -->
-
-
-
-<!-- ## Orienting comment -->
-
-<!-- Memory is a relatively shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on this scale.  There are other scales out there, but Bloom is well known. -->
-
-<!-- You might also notice that summary is much lower than synthesis, which is way over under "create". -->
-
-<!-- Back to my point, vocabulary is a very low level type of knowledge. It's not without importance. The more you immerse yourself into a discipline, you'll need to know the vocab for efficient/accurate information.  But that will come while you are in your groove. -->
-
-<!-- And, so, the reasons that human beings create schools and classes, such as ours, is to learn things in a deeper way. -->
-
-<!-- You may be interested to know in Psychology, what causes attention deficit hyperactivity disorder. You might wonder what causes bipolar disorder or why is it that you enjoy one type of activity but somebody else does not. Or perhaps how it is that certain romantic partners get along while others do not. These are all interesting questions and curiosities. -->
-
-<!-- The moment you start getting into those questions, it would be nice if there were short answers but those short answers are usually simplistic and shallow. -->
-
-<!-- So we have to practice, and it is a practice--you don't just get an education and stop learning--you have to keep practicing what you know and how you know it. And it turns out that 'how you know something' is a philosophical question. -->
-
-<!-- So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit with the materials you watched during week one. But the idea is that you're going to have to reflect a little bit about this epistemological question: how do you know what you know? -->
-
-
-
-<!-- ## It's a pretty dense unit. -->
-
-<!-- ## Do, Watch, and Read the following -->
-
-<!-- A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287518){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding. -->
-
-<!-- B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below** -->
-
-<!-- C. [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'} -->
-
-<!-- D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'} -->
-
-
-<!-- E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"} -->
-
-
-<!-- F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"} -->
-
-<!-- G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"} -->
-
-
-<!-- ## Do the following -->
-
-<!-- Step 7 from week 1: -->
-<!-- 7. Write a synthesis of the 4 sources mentioned in week one (1. the critical thinking standards, 2. stupidity in science, 3. red scare evaluation--the evaluation, not your thoughts, and then #4. Chapter 2).  You may want to consider a comment about whether you think knowledge is static. -->
-
-<!-- ```{block, type='blueBackground'} -->
-<!-- Please do not summarize these articles.  Synthesize.  Use the lecture just below to help. -->
-<!-- ``` -->
-
-<!--   * [Lecture on one way to write a synthesis paper--This should pop-up a new tab/window but you'll have to log in to canvas because that is how the videos are stored.](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=44737fc2-c8cb-4286-9dcf-ac4b011de256){target='_blank'} -->
-
-
-<!-- 1. Reassess your understanding from above A. -->
-<!-- 2. What would you add to your understanding in B? -->
-<!-- 3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT. -->
-<!-- 4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page -->
-<!--     * On that new page, write a quick title like "psycho-biology I'm interested in" -->
-<!--     * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon -->
-<!--     * if you click on that text, you should see a "link" option. Copy that link and... -->
-<!-- 5. ...share your ideas from # 3 above to the the [#week 2 Discussion---notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287538?module_item_id=1381026){target="_blank"} -->
-
-<!-- 6. Read some other posts from classmates and comment about some areas of interest. -->
-
-<!-- ## In Class Conversation Questions -->
-
-<!-- These are questions that I'd like to discuss in class sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation. -->
-
-<!-- A) How does your brain know the difference between real and imaginary? -->
-<!-- B) Where is "information" in the brain? -->
-<!-- C) what metaphors are useful to think about how the nervous system works? -->
-
-
 
 
 <!-- # What comes below -->
 
-<!-- is just a detailed description on how to use the library efficiently.  -->
+<!-- is just a detailed description on how to use the library efficiently. -->
 
 
 

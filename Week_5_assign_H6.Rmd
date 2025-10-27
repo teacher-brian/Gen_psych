@@ -14,111 +14,185 @@ biblio-style: apalike
 link-citations: yes
 ---
 
+# Week 5 Oct 27  {#Week5}
 
-# Week 5 Oct 23 1 {#Week5}
 
-<span style="color: violet;">Lots to do this week.  Buckle up. Get moving.</span>
+<!-- 10. Please fill out this [Importance of Sexuality Survey](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform?usp=sf_link){target='_blank'}.  It is anonymous. I do not collect information that can be personally tied to you. If you are logged into your google account, google will show you your email address and say that you can use your account to 'store' your work so that you can come back to it. But that's google and not the survey.  I don't track your email. -->
 
-## New layer of explanation: Cognition background
-
-So this week throws us into the deep end of the pool regarding the way that we think about the world.
-
-Probably before human beings have been writing and painting on the inside of caves there has been some quality of activity that we would recognize as “thinking.”
-
-Fast forward to the 60's when computers began to displace workers in the workplace, the concept of 'computer as a machine" crept into the collective conscious of people across the planet and we began to recognize that in some ways humans have a cognitive ability that might be modeled as a computer. 
-
-In other words, during the fifties and sixties, Humanity received a new lexicon for describing things like memory, thinking, and processing information.  You could call it the 'information processing model" of the Brain.
-
-Our contemporary understanding of long-term memory is *because* we first had a computer part called a hard drive. I'm oversimplifying it a bit, but what I want to impress upon you is that a lot of the hypothetical constructs that we use today to describe thinking came about because we invented computers. Yes, we all had some concept of memory before computers.  But computers gave us a new metaphor to operationally define how memory might work.  **Key phrase "operational define"**
-
-Once we had a lexicon about computers we then began to use that lexicon to describe humans. It's not a perfect model, but it's taught us a lot about the limits of our cognitive powers.
-
-## Instructions
-
-To begin, and before you start doing more reading and writing, I want you to first imagine some scenario. Maybe it’s simple like watching a bird. Maybe you can do it right now as you read these instructions.  If you want to write it in your google document, you can.  But you don't have to. 
+<!-- * It's not required, but it's helpful for my classes because it is useful to see how surveys are supposed to work. -->
 
 
 
-While you do this, imagine that you are able to witness your thoughts from the point of view of another person, or perhaps a different side of yourself.
+## Orienting comment
 
->“So, I can see myself, Brian, sitting at his computer writing these words and I notice that Brian looks up at the window and appreciates the leaves in the sun on the Rhododendron outside this room; it was around then that Brian thought to use ‘watching a bird’ as a part of the assignment. He also felt a little like he’d rather be out in the sun but a lot of people need him to finish this. Brian also considered not including that last sentence.”
+Memory is a relatively shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on this scale.  There are other scales out there, but Bloom is well known.
 
-It might be that you are watching your behavior and then noting the pattern of how/where your thoughts come about; it might be an auditory exercise where you’re able to listen and hear the words you’re saying. Most of you do this naturally, but some of you might not have a lot of experience in observing your own thoughts. This is a meta cognitive exercise.
+You might also notice that summary is much lower than synthesis, which is way over under "create".
 
-## Do One of the following (Part A)
+Back to my point, vocabulary is a very low level type of knowledge. It's not without importance. The more you immerse yourself into a discipline, you'll need to know the vocab for efficient/accurate information.  But that will come while you are in your groove.
 
-I am only asking you to think of one of the following. You can write about this material, but you **may want to keep it private**, stored in another document.  Notice that I'm **not** asking you to post your writings about this imagined scenario, described next. 
+And, so, the reasons that human beings create schools and classes, such as ours, is to learn things in a deeper way.
 
-* Think about why you might not ask somebody out on a date.  A lot of the first thoughts that come to your mind will be relatively broad and vague. A good example of this is going to be a fear of rejection. If you think about this particular example, try to think about a specific person that you do, but do not, want to ask out on a date, and think about the follow-up thoughts that arise when you say "I'm afraid of being rejected”. What comes after "afraid of being rejected?"  Play with answers around  "what if you are rejected?"  **you don't have to put this in your one google doc**
+You may be interested to know in Psychology, what causes attention deficit hyperactivity disorder. You might wonder what causes bipolar disorder or why is it that you enjoy one type of activity but somebody else does not. Or perhaps how it is that certain romantic partners get along while others do not. These are all interesting questions and curiosities.
 
-* Or think about somebody you are romantically involved with but are afraid to bring up a topic. I'm not really interested in the topic itself, but what I am interested is to have you write down the obstacles you perceive to be present making this topic difficult, and then to analyze your thoughts, beliefs, and assumptions about those obstacles. **you don't have to put this in your one google doc**
+The moment you start getting into those questions, it would be nice if there were short answers but those short answers are usually simplistic and shallow.
 
-* Or, if you are not involved in a romantic relationship, think about a difficult conversation with an authority figure. Something you would like to tell them,  But won't because of what you perceive to be obstacles to that conversation. **you don't have to put this in your one google doc**
+So we have to practice, and it is a practice--you don't just get an education and stop learning--you have to keep practicing what you know and how you know it. And it turns out that 'how you know something' is a philosophical question.
 
-Again, you don't have to do all of these, I am asking you to identify 1 of the above and to think about your thoughts. Specifically, which thoughts arise and then think about the cascading thoughts that follow.  Asking “so what” might be useful.   For example, “I don't want to ask that person out because I'm afraid they will turn me down.”  So what?  Because rejection means….  So what?   do this a few iterations.
-
-
-## Do the following (Part B)
-
-### Biases
-
-1. Make a guess as to the number of cognitive biases there are. If you don't know what this means, that's okay. Guess anyway.  Write down the guess in your one google document.
-
-2. Go to Wikipedia and look up "list of cognitive biases".  Use the full phrase. Now, right down how many cognitive biases you see on the page (estimates are fine...don't count the actual number!)
-
-3. Pick 3 of your favorite biases from that Wikipedia list and describe them in your own words; include a link to them along with a proper reference.  I don't have a preference for which referencing style. 
-
-## Read the following
-
-A. Read/skim [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"}
-
-B. Read the following excerpt (just below in blue) from the book The Craft of research @boothCraftResearch2016
+So, week 2 is going to be a lot to do with philosophy. It overlaps a little bit with the materials you watched during week one. But the idea is that you're going to have to reflect a little bit about this epistemological question: how do you know what you know?
 
 
-```{block,type='blueBackground'}
-<h2 style="text-decoration: underline;">Craft of Research Excerpt</h2>
-<h4 style="text-decoration: underline;">Why write our research up?</h4>
 
-For some of you, the invitation to join into a expert research conversation may still seem easy to decline but if you accept it you'll 
+## It's a pretty dense unit.
 
-One answer is that we write not just to share our work but to improve it before we do.
+## Do, Watch, and Read the following
 
-<h4 style="text-decoration: underline;">Write to remember</h4>
+A. Make a note of how much you think you understand about biological influences of psychology. For example, you might simply "I understand 20% of biological influences on our lives". If you aren't sure what this means, post a question to the [#muddy-point-board](https://canvas.seattlecolleges.edu/courses/27122/discussion_topics/287518){target="_blank"}. For what it's worth a lot of students mistakenly interpret this question as "how much does biology cause our behavior". That's not what I'm asking.  I'm asking to assess how much you think you understand about biology causing behavior. And don't over think it.  You are just estimating some amount of confidence in your understanding.
 
-Experienced researchers first write just to remember what they read. A few talented people can hold in mind masses of information, but most of us get lost when we think about what *Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Buscovich but what was it that Smith said?* When you don't take notes on what you read, you are likely to forget or, worse misremember it.
+B. Pick a behavior; it could be a feeling, an action, a thought, but try to keep it simple (thoughts may actually be too hard) and write a few sentences that explains how biologically it happens. **Do this before watching/reading below**
 
-<h4 style="text-decoration: underline;">Write to understand</h4>
+C. Review the [Layers of Psychological explanation--10 min](https://youtu.be/q_kqltsG9Xs){target='_blank'}. Many of you only covered 4 layers, which makes me think you did not watch this video.  
 
-The second reason for writing is to see larger patterns in what you read. When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts. 
-
-*I want to use these claims from long, but her argument is undercut by Smith's data. When I put them side-by-side, I see that Smith ignores this last part of Wong's argument. aha! If I introduce it with this part from Brunelli, I can focus on one more clearly. *
-
-That's why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways. 
-
-<h4 style="text-decoration: underline;">Write to test your thinking</h4>
-
-But even when they agree that writing is an important part of learning thinking and understanding some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined, or even want to, and conform to conventions they did nothing to create. 
-
-*Why should I adopt language in forms that are not mine? Aren't you just trying to turn me into an academic light yourself? If I write as you expect me to, I risk losing my identity.*
-
-Such concerns are legitimate (most teachers wish students would raise them more often). But it would be a feeble education that did not change you at all, and the deeper your education the more it will change the "you" that you are or want to be.
-
-That's why it is so important to choose carefully what you study and with whom. But it would be a mistake to think that learning to report sound research must threaten your true identity. It will change the way you think, but only by giving you more ways of thinking. You will be different by being freer to choose who you want to be and what you want to do with your life. 
-
-But the most important reason for learning to write in ways readers expect is that when you write for others, **you demand more of yourself and when you write for yourself alone.** By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be *but for what they really are.* 
-
-You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected?
-```
-## Do the following Part C
-
-1. Without using an anecdote, defend this statement: "Multitasking is a myth". Defend means to use a combination of logic and evidence, so be sure to do a bit of outside reading on the topic. When you do this part of your work, be mindful of the critical thinking standards.  This work should be in your google doc.
-
-2. Link your work to the [#week 5](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/162252){target='_blank'} discussion
+D. [Biopsych youtube playlist, 10 videos of various lengths](https://www.youtube.com/playlist?list=PLDEwZwMNQswtFvhRvOliHzeDfuBPIdsSf){target='_blank'}
 
 
-`r if (knitr:::is_html_output()) '
-# References {-}
-'`
+E. Read [Chapter 3 of your textbook](https://openstax.org/books/psychology-2e/pages/3-introduction){target="_blank"}
+
+
+F. Skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+G. Skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+
+## Do the following
+
+
+1. Reassess your understanding from above A.
+2. What would you add to your understanding in B?
+3. Ask chatGpt to what the neuronal threshold is, and then ask it what changing the threshold would do to "selective signal transmission". Ask it questions, challenge it, drill down a bit.   Share both your questions and its answers in your google document. Include some of the back and forth between you and GPT.
+4. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about in biological psychology.  What is still missing for you?  Put this into your one google doc to rule them all by placing it in a new page
+    * On that new page, write a quick title like "psycho-biology I'm interested in"
+    * highlight that title, and then go to the "insert" menu and insert "bookmark".  You should see a little blue ribbon
+    * if you click on that text, you should see a "link" option. Copy that link and...
+5. ...share your ideas from # 3 above to the the [#week 5 Discussion---notice this is a clickable link](https://canvas.seattlecolleges.edu/courses/35386/discussion_topics/424929?module_item_id=2086882){target="_blank"}
+
+6. Read some other posts from classmates and comment about some areas of interest.
+
+## In Class Conversation Questions (or if not in class, questions to ponder) You don't have to answer these
+
+These are questions that I'd like to discuss in class sessions.  I think that if you've done the reading/watching of videos, you may have the ability to contribute to the conversation.
+
+A) How does your brain know the difference between real and imaginary?
+B) Where is "information" in the brain?
+C) what metaphors are useful to think about how the nervous system works?
+
+
+
+
+<!-- # Week 5 Oct 23 1 {#Week5} -->
+
+<!-- <span style="color: violet;">Lots to do this week.  Buckle up. Get moving.</span> -->
+
+<!-- ## New layer of explanation: Cognition background -->
+
+<!-- So this week throws us into the deep end of the pool regarding the way that we think about the world. -->
+
+<!-- Probably before human beings have been writing and painting on the inside of caves there has been some quality of activity that we would recognize as “thinking.” -->
+
+<!-- Fast forward to the 60's when computers began to displace workers in the workplace, the concept of 'computer as a machine" crept into the collective conscious of people across the planet and we began to recognize that in some ways humans have a cognitive ability that might be modeled as a computer.  -->
+
+<!-- In other words, during the fifties and sixties, Humanity received a new lexicon for describing things like memory, thinking, and processing information.  You could call it the 'information processing model" of the Brain. -->
+
+<!-- Our contemporary understanding of long-term memory is *because* we first had a computer part called a hard drive. I'm oversimplifying it a bit, but what I want to impress upon you is that a lot of the hypothetical constructs that we use today to describe thinking came about because we invented computers. Yes, we all had some concept of memory before computers.  But computers gave us a new metaphor to operationally define how memory might work.  **Key phrase "operational define"** -->
+
+<!-- Once we had a lexicon about computers we then began to use that lexicon to describe humans. It's not a perfect model, but it's taught us a lot about the limits of our cognitive powers. -->
+
+<!-- ## Instructions -->
+
+<!-- To begin, and before you start doing more reading and writing, I want you to first imagine some scenario. Maybe it’s simple like watching a bird. Maybe you can do it right now as you read these instructions.  If you want to write it in your google document, you can.  But you don't have to.  -->
+
+
+
+<!-- While you do this, imagine that you are able to witness your thoughts from the point of view of another person, or perhaps a different side of yourself. -->
+
+<!-- >“So, I can see myself, Brian, sitting at his computer writing these words and I notice that Brian looks up at the window and appreciates the leaves in the sun on the Rhododendron outside this room; it was around then that Brian thought to use ‘watching a bird’ as a part of the assignment. He also felt a little like he’d rather be out in the sun but a lot of people need him to finish this. Brian also considered not including that last sentence.” -->
+
+<!-- It might be that you are watching your behavior and then noting the pattern of how/where your thoughts come about; it might be an auditory exercise where you’re able to listen and hear the words you’re saying. Most of you do this naturally, but some of you might not have a lot of experience in observing your own thoughts. This is a meta cognitive exercise. -->
+
+<!-- ## Do One of the following (Part A) -->
+
+<!-- I am only asking you to think of one of the following. You can write about this material, but you **may want to keep it private**, stored in another document.  Notice that I'm **not** asking you to post your writings about this imagined scenario, described next.  -->
+
+<!-- * Think about why you might not ask somebody out on a date.  A lot of the first thoughts that come to your mind will be relatively broad and vague. A good example of this is going to be a fear of rejection. If you think about this particular example, try to think about a specific person that you do, but do not, want to ask out on a date, and think about the follow-up thoughts that arise when you say "I'm afraid of being rejected”. What comes after "afraid of being rejected?"  Play with answers around  "what if you are rejected?"  **you don't have to put this in your one google doc** -->
+
+<!-- * Or think about somebody you are romantically involved with but are afraid to bring up a topic. I'm not really interested in the topic itself, but what I am interested is to have you write down the obstacles you perceive to be present making this topic difficult, and then to analyze your thoughts, beliefs, and assumptions about those obstacles. **you don't have to put this in your one google doc** -->
+
+<!-- * Or, if you are not involved in a romantic relationship, think about a difficult conversation with an authority figure. Something you would like to tell them,  But won't because of what you perceive to be obstacles to that conversation. **you don't have to put this in your one google doc** -->
+
+<!-- Again, you don't have to do all of these, I am asking you to identify 1 of the above and to think about your thoughts. Specifically, which thoughts arise and then think about the cascading thoughts that follow.  Asking “so what” might be useful.   For example, “I don't want to ask that person out because I'm afraid they will turn me down.”  So what?  Because rejection means….  So what?   do this a few iterations. -->
+
+
+<!-- ## Do the following (Part B) -->
+
+<!-- ### Biases -->
+
+<!-- 1. Make a guess as to the number of cognitive biases there are. If you don't know what this means, that's okay. Guess anyway.  Write down the guess in your one google document. -->
+
+<!-- 2. Go to Wikipedia and look up "list of cognitive biases".  Use the full phrase. Now, right down how many cognitive biases you see on the page (estimates are fine...don't count the actual number!) -->
+
+<!-- 3. Pick 3 of your favorite biases from that Wikipedia list and describe them in your own words; include a link to them along with a proper reference.  I don't have a preference for which referencing style.  -->
+
+<!-- ## Read the following -->
+
+<!-- A. Read/skim [Chapter 7 of your textbook](https://openstax.org/books/psychology-2e/pages/7-introduction){target="_blank"} -->
+
+<!-- B. Read the following excerpt (just below in blue) from the book The Craft of research @boothCraftResearch2016 -->
+
+
+<!-- ```{block,type='blueBackground'} -->
+<!-- <h2 style="text-decoration: underline;">Craft of Research Excerpt</h2> -->
+<!-- <h4 style="text-decoration: underline;">Why write our research up?</h4> -->
+
+<!-- For some of you, the invitation to join into a expert research conversation may still seem easy to decline but if you accept it you'll  -->
+
+<!-- One answer is that we write not just to share our work but to improve it before we do. -->
+
+<!-- <h4 style="text-decoration: underline;">Write to remember</h4> -->
+
+<!-- Experienced researchers first write just to remember what they read. A few talented people can hold in mind masses of information, but most of us get lost when we think about what *Smith found in light of Wong's position, and compare both to the odd data in Brunelli, especially as they are supported by Buscovich but what was it that Smith said?* When you don't take notes on what you read, you are likely to forget or, worse misremember it. -->
+
+<!-- <h4 style="text-decoration: underline;">Write to understand</h4> -->
+
+<!-- The second reason for writing is to see larger patterns in what you read. When you arrange and rearrange the results of your research in new ways, you discover new implications, connections, and complications. Even if you could hold it all in mind, you would need help to line up arguments that pull in different directions, plot out complicated relationships, sort out disagreements among experts.  -->
+
+<!-- *I want to use these claims from long, but her argument is undercut by Smith's data. When I put them side-by-side, I see that Smith ignores this last part of Wong's argument. aha! If I introduce it with this part from Brunelli, I can focus on one more clearly. * -->
+
+<!-- That's why careful researchers never put off writing until they've gathered all the data they need: they write from the start of their projects to help them assemble their information in new ways.  -->
+
+<!-- <h4 style="text-decoration: underline;">Write to test your thinking</h4> -->
+
+<!-- But even when they agree that writing is an important part of learning thinking and understanding some still wonder why they can't write up their research in their own way, why they have to satisfy demands imposed by a community that they have not joined, or even want to, and conform to conventions they did nothing to create.  -->
+
+<!-- *Why should I adopt language in forms that are not mine? Aren't you just trying to turn me into an academic light yourself? If I write as you expect me to, I risk losing my identity.* -->
+
+<!-- Such concerns are legitimate (most teachers wish students would raise them more often). But it would be a feeble education that did not change you at all, and the deeper your education the more it will change the "you" that you are or want to be. -->
+
+<!-- That's why it is so important to choose carefully what you study and with whom. But it would be a mistake to think that learning to report sound research must threaten your true identity. It will change the way you think, but only by giving you more ways of thinking. You will be different by being freer to choose who you want to be and what you want to do with your life.  -->
+
+<!-- But the most important reason for learning to write in ways readers expect is that when you write for others, **you demand more of yourself and when you write for yourself alone.** By the time you fix your ideas in writing, they are so familiar to you that you need help to see them not for what you want them to be *but for what they really are.*  -->
+
+<!-- You will understand your own work better when you try to anticipate your readers inevitable and critical questions: how have you evaluated your evidence? Why do you think it's relevant? What ideas have you considered but rejected? -->
+<!-- ``` -->
+<!-- ## Do the following Part C -->
+
+<!-- 1. Without using an anecdote, defend this statement: "Multitasking is a myth". Defend means to use a combination of logic and evidence, so be sure to do a bit of outside reading on the topic. When you do this part of your work, be mindful of the critical thinking standards.  This work should be in your google doc. -->
+
+<!-- 2. Link your work to the [#week 5](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/162252){target='_blank'} discussion -->
+
+
+<!-- `r if (knitr:::is_html_output()) ' -->
+<!-- # References {-} -->
+<!-- '` -->
 
 
 
