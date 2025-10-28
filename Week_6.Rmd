@@ -1,5 +1,5 @@
 ---
-title: "Week 4 tues_thurs"
+title: "Week 6"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output:
@@ -18,7 +18,7 @@ link-citations: yes
 
 
 
-# Week 4 Oct 16 {#Week4}
+# Week 6 Nov 3 {#Week6}
 
 ## Do, Watch, and Read the following
 
