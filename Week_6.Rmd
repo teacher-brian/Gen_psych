@@ -22,32 +22,37 @@ link-citations: yes
 
 ## Do, Watch, and Read the following
 
-A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Make sure it's different from week 3.
+ A. Like last week, Pick a behavior--a feeling, an action, a thought, but try to keep it simple (thoughts may work here) and write a few sentences into your google doc that explains how the environment causes the behavior. Make sure it's different The biological example you gave in a previous week.
+  
+    * Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** a behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+      
+      >    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
 
-Said another way, explain what is happening in the environment to elicit the behavior.  For clarification, you could say last week the biology is **how** a behavior works while this week you are explaining **when** it works. **Do this before watching/reading below**
+ B. Read/skim [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
 
->    As an example, consider driving a car down a street and you hit the brakes.  The behavior is the stepping on the brake.  What environmental stimulus 'caused' the stepping on the brake?
+ C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
 
-B. Read/skim [Chapter 6 of your textbook](https://openstax.org/books/psychology-2e/pages/6-introduction){target="_blank"}
+ D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
 
-C. [Learning theories youtube playlist, videos 1: 2 (this reads as 1 through 2)](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
+ E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
 
-D. [Video on the law of effect](https://www.youtube.com/watch?v=fanm--WyQJo){target='_blank'}
-
-E. [Remaining Learning theories youtube playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswsCPfmo03BZBkLURdfDubMX){target='_blank'}
-
-F. @Naik_2001 
+ F. @Naik_2001 
 
   * Link to their article [Behaviorism as a theory of personality](http://personalityresearch.org/papers/naik.html){target='_blank'}
 
 
 ## Do some stuff:
 
-1. Reassess your understanding from above, week 4, part A. Can you see what has changed in your understanding?  Can you jot down some ideas that shows this new learning?  Maybe some vocabulary?  Maybe some vocab that is still confusing.
-2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature led you to this choice?
-3. Whether or not the textbook and videos didn't lead to any new learning, identify what you would like to know more about.  What is still missing for you?
+1. Reassess your understanding from above, part A. Can you see what has changed in your understanding?  Can you jot down some ideas that demonstrates this new learning? "I never noticed that I push the elevator button hundreds of times while waiting, now I see that ______ explains that behavior."   Maybe some vocabulary?  Maybe some vocab that is still confusing.  
+
+2. Is your chosen behavior better explained by classical conditioning or operant conditioning?  What key feature of your example and feature of the theory led you to this choice?
+
+3. Whether or not the textbook and videos led to any new learning, identify what you would like to know more about.  What is still missing for you?
+
 4. Choose a new behavior that you want to change its frequency.  Like eating more chocolate.  I mean less.  Less chocolate.  How might you change the **environment** so that you eat ~~more, damn I mean~~ less chocolate?
-5. Link your writing for  what you just wrote in #3 and #4 to the canvas discussion room for  [#week-4](https://canvas.seattlecolleges.edu/courses/16707/discussion_topics/160527){target='_blank'}.
+
+5. Link your writing for  what you just wrote in #3 and #4 to the canvas discussion room for  [#week-6](https://canvas.seattlecolleges.edu/courses/35386/discussion_topics/425372?module_item_id=2088035){target='_blank'}.
+
 6. Comment and try to engage with a few of your classmates on this assignment.  
     * In particular, try to give feedback--kindly--where you found someone's writing clear or unclear.  
     * Don't simply say this is clear or not. 
@@ -55,7 +60,7 @@ F. @Naik_2001
 
 
 `r if (knitr:::is_html_output()) '
-# References {-}
+## References {-}
 '`
 
 
