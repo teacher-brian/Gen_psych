@@ -14,7 +14,7 @@ biblio-style: apalike
 link-citations: yes
 ---
 
-# Week 7  Nov 4 {#Week7}
+# Week 7  Nov 10 {#Week7}
 
 ## Read the following:
 
@@ -23,32 +23,33 @@ link-citations: yes
 
 * [Developmental Chapter Textbook](https://openstax.org/books/psychology-2e/pages/9-introduction){target='_blank'}
 
-* Places to Intervene in a System [@meadows_leverage_1999 -this link goes to our schedule's References at the bottom; <b>there you'll find a link to the actual document...Right click that link to open it</b>]  (But here is a direct link to the document just for ease: [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){target="_blank"} )
-   * This is both at times an easy and difficult read.  It's lengthy.  Give yourself time. Take notes.  Think of examples that apply to you.
+* Skim, donn't read the whole thing: Places to Intervene in a System [@meadows_leverage_1999 -this link goes to the References at the bottom; <b>there you'll find a link to the actual document...Right click that link to open it</b>]  (But here is a direct link to the document just for ease: [https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/](https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/){target="_blank"} )
+   * This is both at times an easy and difficult read.  It's lengthy.  **if you want to read it ** give yourself time. Take notes.  Think of examples that apply to you.
    * [Class video as an intro to systems.  I think this might be very helpful](https://youtu.be/b3ylatiAbBs){target='_blank'}
 
 Piaget Videos
 
 * [Developmental playlist](https://www.youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
 
-### Brian's workflow video
 
-#### Two Videos you could watch if you are still unclear about workflow..they are a bit boring so watch at fast speed.
+<!-- ### Brian's workflow video -->
 
-1. This one is recent, shorter (~18 minutes), and a general psychology class.  The document and video can be found here...it's a past struggle regarding [whether people have a natural or learned fear of snakes.](https://youtu.be/I4PiC3xvmXk){target="_blank"}
+<!-- #### Two Videos you could watch if you are still unclear about workflow..they are a bit boring so watch at fast speed. -->
 
-2. In my abnormal psych class, a few quarters ago I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically. 
+<!-- 1. This one is recent, shorter (~18 minutes), and a general psychology class.  The document and video can be found here...it's a past struggle regarding [whether people have a natural or learned fear of snakes.](https://youtu.be/I4PiC3xvmXk){target="_blank"} -->
 
-  * [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}.  Admittedly, it's a bit tedious.  You should watch this on <b>2x speed.</b>
+<!-- 2. In my abnormal psych class, a few quarters ago I was asked to show how I might use tools to solve a question.  Here is a 36 minute video to that end. You might find it useful to see what I mean by "having a workflow" as a way to think critically.  -->
+
+<!--   * [Brian's workflow on whether Acute stress disorder is a good predictor of developing PTSD](https://youtu.be/y0V92Ggp0sc){target="_blank"}.  Admittedly, it's a bit tedious.  You should watch this on <b>2x speed.</b> -->
 
 
 ## Do some work:
 
-* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), as a systems approach.
+* Think about something in the developmental chapter (your choice), like attachment or Piaget (equilibrium), from a systems approach.  This could be related to Developmental psychology, too.  So attachment, as a example, extends into adulthood (theoretically) and many students enjoy thinking about attachment styles and how they affect adult relationships. I want you to have fun with this topic, so if thinking about kids isn't your thing, that's fine; but do try to find some content that has it's roots in the developmental chapter. 
 
-* From a systems point of view, using some of Meadows [@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.
+* From a systems point of view, using some of Meadows [@meadows_leverage_1999] concepts, explain why upset toddlers go to mom. In a document, write down your ideas.  This bit of work can be relatively short. 
 
-* Now go to chatgpt and ask it why toddlers go to mom.
+* Now go to chatgpt or the like, and ask it why toddlers go to mom.
 
     * ask your question
 
@@ -56,7 +57,9 @@ Piaget Videos
     
     * Highlight and copy the chat gpt thread and paste it into your google doc. You might need to edit the formatting a bit.
 
-* Look at your "dragon" work from the past week again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work.
+<!-- * Look at your "dragon" work from the past week again.  Consider them from a systems point of view.  What is the focal "stock" of the system?  In the same document as above, write a bit about how positive and negative feedback loops help you avoid doing work. -->
+
+---
 
 ```{block, type='blueBackground'}
 <span class='sidenote'>Use the jargon correctly</span>
@@ -64,7 +67,9 @@ Piaget Videos
 Positive and negative do NOT mean good or bad, respectively.  So be thoughtful about what a *positive feedback* loop is, and what it does.
 
 ```
-* Post your one-document again in the [#week7](https://canvas.seattlecolleges.edu/courses/16702/discussion_topics/166708){target=”_blank”} channel. 
+---
+
+* Post your one-document again in the [#week7](https://canvas.seattlecolleges.edu/courses/35386/discussion_topics/428392?module_item_id=2098265){target=”_blank”} channel. 
 
 
 `r if (knitr:::is_html_output()) '
