@@ -1,0 +1,130 @@
+---
+title: "Survey Question Writing Worksheets"
+author: "Brian Holt"
+output:
+  html_document:
+    toc: true
+    toc_depth: 2
+    number_sections: false
+  pdf_document: default
+  word_document: default
+---
+
+# Worksheet 1: Writing Effective Survey Questions
+
+**Overview**  
+This worksheet guides you through the first stages of developing a research survey: planning, drafting, and conducting a quality check.  
+Follow each step carefully and record your notes in the spaces provided.
+
+---
+
+## Stage 1: Plan the Project
+
+Goal: Identify what your survey is about and why it matters.
+
+| Task | Description | Your Notes |
+|------|--------------|------------|
+| Pick a topic and audience | What do you want to measure, and who will answer the questions? | |
+| Define the construct | Write the main psychological or behavioral concept (for example, motivation, stress, belonging). | |
+| Write one-sentence operational definition | Explain exactly how you will recognize or measure the construct. Example: "Academic stress refers to the self-reported pressure students feel about grades and workload." | |
+| Note ethics and consent needs | Will your questions ask for private or sensitive information? How will you protect confidentiality? | |
+| Decide scope and time window | How many participants do you expect, and how long will the survey take to complete? | |
+
+---
+
+## Stage 2: Draft Items
+
+Goal: Create a pool of possible survey questions before editing.
+
+| Task | Description | Your Draft Work |
+|------|--------------|----------------|
+| Generate an item pool | Write 10–15 possible survey items. Each should express a single idea. | |
+| Choose response scale candidates | Select possible response formats (for example, 5-point Likert scale, Yes/No, frequency scale). | |
+| Write clear instructions | Draft a short sentence for participants explaining how to answer (for example, "Please indicate how often you feel this way."). | |
+| Group items and set order | Arrange questions logically (for example, by theme or difficulty). | |
+
+---
+
+## Stage 3: Quality Check
+
+Goal: Ensure your questions are clear, fair, and aligned with your construct.
+
+| Criterion | Self-Check | Revisions Needed |
+|------------|-------------|------------------|
+| Clarity – Each question is short and uses simple words. |  |  |
+| Neutrality – Avoids leading or emotionally loaded wording. |  |  |
+| Single idea per item – No double-barreled or compound questions. |  |  |
+| Consistency – Same scale format and direction throughout. |  |  |
+| Alignment – Each item matches your operational definition. |  |  |
+| Ethical sensitivity – Avoids personal or identifying details. |  |  |
+
+---
+
+Instructor Tip:  
+After completing the Quality Check, exchange worksheets with a peer.  
+Each peer should mark unclear wording and suggest one specific improvement per item.
+
+---
+
+# Worksheet 2: Pilot Testing Your Survey
+
+Goal: Pilot testing helps you find confusing, biased, or inconsistent questions before collecting real data.  
+Use this worksheet to plan, conduct, and document your pilot phase.
+
+---
+
+## Stage 4: Pilot Testing
+
+| Step | Task | Description | Notes / Evidence |
+|------|------|--------------|------------------|
+| 1 | Test with 3–5 peers | Identify a small group similar to your target audience. Have them complete your survey under realistic conditions (same format, device, or timing you plan to use). | |
+| 2 | Collect notes on confusion and usability | Ask peers to highlight any questions they found confusing, ambiguous, or difficult to answer. Record all comments, especially those mentioned by more than one person. | |
+| 3 | Conduct optional short interviews | (Optional but recommended) After completion, ask a few participants brief "think-aloud" questions such as: <br>• What did you think this item was asking? <br>• Was any question hard to answer or too personal? <br>• Did any response options not fit your experience? | |
+| 4 | Summarize feedback | Review peer notes and interview summaries. Group issues into categories: wording problems, unclear scales, confusing order, etc. | |
+
+---
+
+## Decision Point: Were Issues Found?
+
+| Question | Response (check one) | Explanation |
+|-----------|----------------------|--------------|
+| Did any pilot participants misunderstand a question or scale? | [ ] Yes   [ ] No | |
+| Did participants skip questions or choose "neutral" due to confusion? | [ ] Yes   [ ] No | |
+| Did wording or formatting cause bias or discomfort? | [ ] Yes   [ ] No | |
+
+---
+
+## If "Yes": Revise Wording and Scales
+
+List each problem area and how you revised it. Use clear evidence from your pilot notes.
+
+| Item Number | Original Wording / Problem | Type of Issue (for example, unclear, leading, inconsistent scale) | Revision and Rationale |
+|--------------|----------------------------|------------------------------------------------------------------|------------------------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+---
+
+## If "No": Select Final Items
+
+If no major issues were found, finalize your survey instrument.
+
+| Task | Description | Completed (Y/N) |
+|------|--------------|----------------|
+| Select final items | Keep only clear, relevant, and balanced questions. |  |
+| Confirm consistent scales | Ensure all response options follow the same direction and wording. |  |
+| Proofread for clarity | Read the entire survey aloud to catch awkward phrasing or repetition. |  |
+| Record final version | Save a dated copy labeled "Final Pilot Version" before collecting real data. |  |
+
+---
+
+## Reflection
+
+Write a short paragraph (4–6 sentences) summarizing what you learned from the pilot process. Consider:
+
+* What patterns did you notice in participant feedback?  
+* Which changes made the survey clearer or more reliable?  
+* How confident are you that your final items now measure the intended construct?
+
+---
