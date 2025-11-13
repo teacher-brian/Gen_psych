@@ -114,7 +114,8 @@ Use this to catch common wording problems before pilot testing.
 
 - Agreement (7-point, and preferred):Strongly Disagree, Mostly Disagree, Disagree, Neither, Agree, Mostly Agree, Strongly Agree
 - Agreement (5-point): Strongly disagree, Disagree, Neither, Agree, Strongly agree
-- Frequency (5-point): Never, Rarely, Sometimes, Often, Always
+- Frequency (provide a time period): "how often do you [do thing] each [time period]? Eg, [check text messages] per [hour].
+- Intensity (scale): from 0 to 10
 - Intensity (5-point): Not at all, Slightly, Moderately, Very, Extremely
 - Ability (5-point): Not at all able, Slightly able, Somewhat able, Very able, Completely able
 - Yes/No: Yes, No
@@ -156,7 +157,7 @@ Use this worksheet to plan, conduct, and document your pilot phase.
 
 | Step | Task | Description | Notes / Evidence |
 |------|------|--------------|------------------|
-| 1 | Test with 3–5 peers | Identify a small group similar to your target audience. Have them complete your survey under realistic conditions (same format, device, or timing you plan to use). | |
+| 1 | Test with 3–5 peers | Identify a small group similar to your target audience if possible. Have them complete your survey under realistic conditions (same format, device, or timing you plan to use). | |
 | 2 | Collect notes on confusion and usability | Ask peers to highlight any questions they found confusing, ambiguous, or difficult to answer. Record all comments, especially those mentioned by more than one person. | |
 | 3 | Conduct optional short interviews | (Optional but recommended) After completion, ask a few participants brief "think-aloud" questions such as: <br>• What did you think this item was asking? <br>• Was any question hard to answer or too personal? <br>• Did any response options not fit your experience? | |
 | 4 | Summarize feedback | Review peer notes and interview summaries. Group issues into categories: wording problems, unclear scales, confusing order, etc. | |
@@ -179,10 +180,10 @@ List each problem area and how you revised it. Use clear evidence from your pilo
 
 | Item Number | Original Wording / Problem | Type of Issue (for example, unclear, leading, inconsistent scale) | Revision and Rationale |
 |--------------|----------------------------|------------------------------------------------------------------|------------------------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-
+| . |  |  |  |
+| . |  |  |  |
+| . |  |  |  |
+| . |  |  |  |
 ---
 
 ## If "No": Select Final Items
