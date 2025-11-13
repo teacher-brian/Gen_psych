@@ -24,7 +24,8 @@ Goal: Identify what your survey is about and why it matters.
 
 | Task | Description | Your Notes |
 |------|--------------|------------|
-| Pick a topic and audience | What do you want to measure, and who will answer the questions? | |
+| Pick a topic | What do you want to measure? | |
+| Pick an audience | Who will answer the questions? | |
 | Define the construct | Write the main psychological or behavioral concept (for example, motivation, stress, belonging). | |
 | Write one-sentence operational definition | Explain exactly how you will recognize or measure the construct. Example: "Academic stress refers to the self-reported pressure students feel about grades and workload." | |
 | Note ethics and consent needs | Will your questions ask for private or sensitive information? How will you protect confidentiality? | |
@@ -39,9 +40,87 @@ Goal: Create a pool of possible survey questions before editing.
 | Task | Description | Your Draft Work |
 |------|--------------|----------------|
 | Generate an item pool | Write 10–15 possible survey items. Each should express a single idea. | |
-| Choose response scale candidates | Select possible response formats (for example, 5-point Likert scale, Yes/No, frequency scale). | |
+| Choose response scale candidates | Select possible response formats (for example, at minimum a 7-point Likert scale, Yes/No, frequency scale). | |
 | Write clear instructions | Draft a short sentence for participants explaining how to answer (for example, "Please indicate how often you feel this way."). | |
 | Group items and set order | Arrange questions logically (for example, by theme or difficulty). | |
+### Example item pool drafts (single-idea items)
+
+Below are example item pools you can adapt. Each item is a single idea and can be used with a 7-point Likert scale (Strongly Disagree, Mostly Disagree, Disagree, Neither, Agree, Mostly Agree, Strongly Agree) unless otherwise noted.
+
+#### A. Campus belonging (12 items)
+1) I feel like I am part of the campus community.
+2) I can find at least one group on campus where I fit in.
+3) I feel comfortable asking classmates for help.
+4) I feel comfortable asking instructors for help.
+5) I have at least one friend on campus I can rely on.
+6) I feel welcome in my classes.
+7) I feel respected by people on this campus.
+8) I know where to go on campus when I need support.
+9) I see people like me represented in campus activities.
+10) I feel safe expressing my opinions in class.
+11) I feel connected to at least one campus organization or resource.
+12) I am likely to return next term because I feel I belong here.
+
+Recommended scale: 1 = Strongly disagree ... 7 = Strongly agree.
+
+#### B. Academic stress (6 items)
+1) In the past 2 weeks, I felt stressed about my coursework.
+2) I often feel I have too many deadlines at once.
+3) I worry about meeting my instructors’ expectations.
+4) I lose sleep because of schoolwork.
+5) I feel rushed when completing assignments.
+6) I feel tense during exams.
+<!-- 7) I have trouble relaxing after studying. -->
+<!-- 8) I feel overwhelmed by the amount of reading. -->
+<!-- 9) I find it hard to balance school with other responsibilities. -->
+<!-- 10) I feel tired during class because of school-related stress. -->
+<!-- 11) I put off assignments because they feel overwhelming. -->
+<!-- 12) I feel pressure to get top grades. -->
+
+Recommended scale: 1 = Never, 2 = Rarely, 3 = Sometimes, 4 = Often, 5 = Always.
+
+#### C. Study habits (3 items)
+1) I set specific goals before each study session.
+2) I plan my study time on a weekly schedule.
+3) I review class notes within 24 hours of each class.
+<!-- 4) I break large assignments into smaller tasks. -->
+<!-- 5) I study in a place with few distractions. -->
+<!-- 6) I turn off or silence notifications while studying. -->
+<!-- 7) I quiz myself to check my understanding. -->
+<!-- 8) I use practice problems when they are available. -->
+<!-- 9) I ask for help when I do not understand something. -->
+<!-- 10) I start assignments at least two days before they are due. -->
+<!-- 11) I take short breaks during long study sessions. -->
+<!-- 12) I adjust my study strategies based on feedback. -->
+
+Recommended scale: 1 = Never ... 5 = Always.
+
+---
+
+### Quick rewrite guide: avoid and improve
+
+Use this to catch common wording problems before pilot testing.
+
+| Problem type | Avoid (do not use) | Better (single idea, neutral) |
+|--------------|---------------------|-------------------------------|
+| Double-barreled | I feel welcome and supported by instructors and classmates. | I feel welcome in my classes.<br> I feel welcome by instructors<br> I feel supported by instructors<br> I feel welcome by classmagtes||
+| Leading/loaded | How helpful are the excellent student services on campus? | How helpful are student services on campus? |
+| Vague frequency | I often feel behind in class. | In the past 2 weeks, I felt behind in class. |
+| Ambiguous term | I feel successful at school. | I am satisfied with my grades this term. |
+
+---
+
+### Simple response scale templates (copy/paste)
+
+- Agreement (7-point, and preferred):Strongly Disagree, Mostly Disagree, Disagree, Neither, Agree, Mostly Agree, Strongly Agree
+- Agreement (5-point): Strongly disagree, Disagree, Neither, Agree, Strongly agree
+- Frequency (5-point): Never, Rarely, Sometimes, Often, Always
+- Intensity (5-point): Not at all, Slightly, Moderately, Very, Extremely
+- Ability (5-point): Not at all able, Slightly able, Somewhat able, Very able, Completely able
+- Yes/No: Yes, No
+
+Tip: Keep the scale direction and labels consistent across all items in a given survey.
+<br>Statistical Tip: generally you should use more than 5 point scales...7 at minimum. I would even use 9 or 11 because some constructs may elicit a few extreme responses, even if most poeple might pick "neutral" or the middle score, a few people may have very extreme ratings.  A 5 point scale might not be wide enough. 
 
 ---
 
