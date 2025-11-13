@@ -208,3 +208,180 @@ Write a short paragraph (4–6 sentences) summarizing what you learned from the 
 * How confident are you that your final items now measure the intended construct?
 
 ---
+
+
+---
+title: "Basic Demographic Survey Questions"
+author: "Brian Holt"
+output:
+  html_document:
+    toc: false
+    number_sections: false
+  pdf_document: default
+  word_document: default
+---
+
+# Basic Demographic Questions
+
+The following are example demographic questions that can be included in a simple survey.  
+Add or remove items based on the goals and ethics of your specific study.
+
+---
+
+## 1. Age
+
+Option A: open-ended numeric
+
+- What is your age in years?  _____
+
+Option B: age ranges
+
+- What is your age?
+
+  - Under 18  
+  - 18-24  
+  - 25-34  
+  - 35-44  
+  - 45-54  
+  - 55-64  
+  - 65 or older  
+  - Prefer not to answer  
+
+---
+
+## 2. Gender
+
+- What is your gender?
+
+  - Woman  
+  - Man  
+  - Nonbinary  
+  - Another gender:  _____  
+  - Prefer not to answer  
+
+---
+
+## 3. Race / Ethnicity
+
+(Adapt categories to match institutional or regional standards. Students may select more than one.)
+
+- How would you describe your race or ethnicity?  
+  (Check all that apply.)
+
+  - American Indian or Alaska Native  
+  - Asian  
+  - Black or African American  
+  - Hispanic or Latino/a/x  
+  - Middle Eastern or North African  
+  - Native Hawaiian or Pacific Islander  
+  - White  
+  - Another race or ethnicity:  _____  
+  - Prefer not to answer  
+
+---
+
+## 4. Education Level (for general adult samples)
+
+- What is the highest level of education you have completed?
+
+  - Less than high school  
+  - High school diploma or GED  
+  - Some college  
+  - Associate degree  
+  - Bachelor’s degree  
+  - Graduate or professional degree  
+  - Prefer not to answer  
+
+---
+
+## 5. Employment Status
+
+- What is your current employment status?
+
+  - Employed full time  
+  - Employed part time  
+  - Unemployed and looking for work  
+  - Not working (not seeking work)  
+  - Student  
+  - Retired  
+  - Prefer not to answer  
+
+---
+
+## 6. Income (optional and sensitive)
+
+Include only if income is relevant to your research question. If not needed, remove this item.
+
+- What is your approximate annual household income?
+
+  - Under 25,000 USD  
+  - 25,000-49,999 USD  
+  - 50,000-74,999 USD  
+  - 75,000-99,999 USD  
+  - 100,000-149,999 USD  
+  - 150,000 USD or more  
+  - Prefer not to answer  
+
+---
+
+## 7. Household Size
+
+- How many people live in your household, including yourself?
+
+  - 1  
+  - 2  
+  - 3  
+  - 4  
+  - 5  
+  - 6 or more  
+  - Prefer not to answer  
+
+---
+
+## 8. Student-Specific Questions (for campus surveys)
+
+Use these when your target population is students.
+
+### 8.1 Student Status
+
+- What is your current student status?
+
+  - First-year student  
+  - Second-year student  
+  - Third-year student  
+  - Fourth-year student  
+  - Graduate student  
+  - Non-degree student  
+  - Other:  _____  
+
+### 8.2 Enrollment Status
+
+- What is your enrollment status?
+
+  - Full time  
+  - Part time  
+
+### 8.3 First-Generation Status
+
+- Are you a first-generation college student  
+  (that is, neither parent or guardian has completed a 4-year college degree)?
+
+  - Yes  
+  - No  
+  - Not sure  
+  - Prefer not to answer  
+
+---
+
+## 9. Minimal Core Set
+
+If you need only a very short demographic section, a minimal set might include:
+
+1. Age (either numeric or ranges)  
+2. Gender  
+3. Race / ethnicity  
+4. Student status or education level  
+
+You can subset the items above to create a shorter demographic block for quick surveys or in-class exercises.
+
+
