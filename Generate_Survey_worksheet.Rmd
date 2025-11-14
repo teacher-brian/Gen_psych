@@ -131,12 +131,12 @@ Goal: Ensure your questions are clear, fair, and aligned with your construct.
 
 | Criterion | Self-Check | Revisions Needed |
 |------------|-------------|------------------|
-| Clarity – Each question is short and uses simple words. |  |  |
-| Neutrality – Avoids leading or emotionally loaded wording. |  |  |
-| Single idea per item – No double-barreled or compound questions. |  |  |
-| Consistency – Same scale format and direction throughout. |  |  |
-| Alignment – Each item matches your operational definition. |  |  |
-| Ethical sensitivity – Avoids personal or identifying details. |  |  |
+| Clarity: Each question is short and uses simple words. |  |  |
+| Neutrality: Avoids leading or emotionally loaded wording. |  |  |
+| Single idea per item: No double-barreled or compound questions. |  |  |
+| Consistency: Same scale format and direction throughout. |  |  |
+| Alignment: Each item matches your operational definition. |  |  |
+| Ethical sensitivity: Avoids personal or identifying details. |  |  |
 
 ---
 
@@ -167,9 +167,9 @@ Use this worksheet to plan, conduct, and document your pilot phase.
 ## Decision Point: Were Issues Found?
 
 | Question | Response (check one) | Explanation |
-|-----------|----------------------|--------------|
-| Did any pilot participants misunderstand a question or scale? | [ ] Yes   [ ] No | |
-| Did participants skip questions or choose "neutral" due to confusion? | [ ] Yes   [ ] No | |
+|-----------|:----------------------:|--------------|
+| Did any pilot participants misunderstand a question or scale? | [ ] Yes   [ ] No  | |
+| Did participants skip questions or choose "neutral" due to confusion? |  [ ] Yes   [ ] No | |
 | Did wording or formatting cause bias or discomfort? | [ ] Yes   [ ] No | |
 
 ---
@@ -201,30 +201,25 @@ If no major issues were found, finalize your survey instrument.
 
 ## Reflection
 
-Write a short paragraph (4–6 sentences) summarizing what you learned from the pilot process. Consider:
+Write a short paragraph summarizing what you learned from the pilot process. Consider:
 
 * What patterns did you notice in participant feedback?  
 * Which changes made the survey clearer or more reliable?  
 * How confident are you that your final items now measure the intended construct?
 
----
 
-
----
-title: "Basic Demographic Survey Questions"
-author: "Brian Holt"
-output:
-  html_document:
-    toc: false
-    number_sections: false
-  pdf_document: default
-  word_document: default
----
 
 # Basic Demographic Questions
 
 The following are example demographic questions that can be included in a simple survey.  
-Add or remove items based on the goals and ethics of your specific study.
+Add or remove items based on the goals and ethics of your specific study.  
+
+Be thoughtful: this is one of those points of decision where students will just dump a bunch of demographic questions into a survey without thinking about the purpose of including them
+
+If your survey above is asking about education, then it might make sense to ask questions about years in school, etc. 
+
+One way to do this is to think about scenarios where an answer would depend on, or be changed by the respondent's demographics. 
+
 
 ---
 
@@ -371,17 +366,16 @@ Use these when your target population is students.
   - Not sure  
   - Prefer not to answer  
 
----
+
 
 ## 9. Minimal Core Set
 
 If you need only a very short demographic section, a minimal set might include:
-
 1. Age (either numeric or ranges)  
 2. Gender  
 3. Race / ethnicity  
 4. Student status or education level  
 
-You can subset the items above to create a shorter demographic block for quick surveys or in-class exercises.
 
 
+---
