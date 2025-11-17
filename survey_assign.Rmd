@@ -97,12 +97,21 @@ digraph flow {
 
 There are 3 major parts: Generating questions, Piloting questions, then actually making the survey's available. 
 
-**Generate Questions Due: before class Thursday November 20th, Friday Nov 21st**
+* **Generate Questions Due: before class Thursday November 20th, Friday Nov 21st**
 
-**Pilot questions: Tuesday November 25th, Wednesday 26th**
+* **Pilot questions: Tuesday November 25th, Wednesday 26th**
 
-**Collect data by: Tuesday 12/2, Wednesday 12/3 **
+* **Collect data by: Tuesday 12/2, Wednesday 12/3 **
 
 
 
 # Explanations
+
+* There is a worksheet in canvas that has a lot of information on what to do. 
+
+* Survey's have basically 2 parts: the questions and then the demographics
+
+* We are going to focus on generating questions at first. After Thanksgiving we can work on the data.
+
+
+

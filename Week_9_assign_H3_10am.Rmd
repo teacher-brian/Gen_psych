@@ -17,9 +17,13 @@ link-citations: yes
 
 # Week 9 Personality Nov 20 {#Week9}
 
-## Be sure to check out Week 11 Gun violence assignment on social psychology
+Lots here.  One thing will be an assignment for you creating a very short survey.
 
-As an assignment, it may be taxing so you'll want to plan out your next few weeks.
+## Survey assignment
+
+See [instructional video here](){target='_blank'}
+
+See [worksheet for steps](){target='_blank'}
 
 ## Personality
 
@@ -52,11 +56,14 @@ The second thing to be aware of is that there are several persistent and likely 
 
 * [Personality Chapter Textbook](https://openstax.org/books/psychology-2e/pages/11-introduction){target='_blank'}
 
-* Video's on personality (about 1.3 hours) 
+* Video's on personality (about 1.6 hours) 
   * [Personality part 1](https://youtu.be/IhYt6xhG-6Q){target='_blank'}
   
   * [Personality part 2](https://youtu.be/0lJqfoT-W0Y){target='_blank'}
-
+  
+  * [Personality part 3 on Freud](  https://youtu.be/CHtoonRN4uU){target='_blank'}
+  
+  * [Personality part 4 on existentialism](https://youtu.be/np-drb_tjuA){target='_blank'}
 
 ```{block,type='blueBackground'}
 Please don't skip these following videos/pods--stroke of insight and words.  Let me know if the links don't work for you. 
@@ -92,23 +99,23 @@ Another way to think about this assignment:   If students take an intro to psych
 ```
 
 
-* Re-Read/skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+<!-- * Re-Read/skim Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"} -->
 
-* Re-Read/skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+<!-- * Re-Read/skim Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"} -->
 
-* [Do A self-reflection Survey--be sure to select week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"}
+<!-- * [Do A self-reflection Survey--be sure to select week 9 self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdCKXCNvH-nSdnuCz0OrFUcQPZXVEugR4D5lyBiZzNKYVkANw/viewform?usp=sf_link){target="_blank"} -->
 
-    * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown.
+<!--     * the text boxes you see in this survey will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words to just fit the box shown. -->
 
 
 
-# Optional assignment on Killmonger
+<!-- # Optional assignment on Killmonger -->
 
-Last quarter I made an offhand comment about killmonger from the marvel movie universe.  It was in the context of a need to operational define terms like villain, hero, tragic hero, etc.
+<!-- Last quarter I made an offhand comment about killmonger from the marvel movie universe.  It was in the context of a need to operational define terms like villain, hero, tragic hero, etc. -->
 
-I offer it as an optional but different opportunity to think about psychology and to demonstrate critical thinking. 
+<!-- I offer it as an optional but different opportunity to think about psychology and to demonstrate critical thinking.  -->
 
-## [Is Killmonger a villian or a tragic hero?](https://docs.google.com/document/d/1PQ4GopLAz2gnCf6RH3PjAdjAepYdgpMdUeIwEPNEkbY/edit?usp=sharing){target='_blank'} 
+<!-- ## [Is Killmonger a villian or a tragic hero?](https://docs.google.com/document/d/1PQ4GopLAz2gnCf6RH3PjAdjAepYdgpMdUeIwEPNEkbY/edit?usp=sharing){target='_blank'}  -->
 
 
 
