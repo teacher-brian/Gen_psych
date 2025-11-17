@@ -4,6 +4,7 @@ author: "Brian Holt"
 output:
   html_document:
     toc: true
+    toc_float: true
     toc_depth: 4
     number_sections: false
   pdf_document: default
@@ -61,7 +62,7 @@ Below are example item pools you can adapt. Each item is a single idea and can b
 11) I feel connected to at least one campus organization or resource.
 12) I am likely to return next term because I feel I belong here.
 
-Recommended scale: 1 = Strongly disagree ... 7 = Strongly agree.
+  Recommended scale: 1 = Strongly disagree ... 7 = Strongly agree.
 
 #### B. Academic stress (6 items)
 1) In the past 2 weeks, I felt stressed about my coursework.
@@ -99,12 +100,13 @@ Recommended scale: 1 = Never ... 5 = Always.
 
 
 #### C. Quarter life crisis (3 items)
-Think about the exisential content covered in class (on video)
+Think about the existential content covered in class (on video)
 1) 
 2)
 3)
 
-Recommended scale: 1 = Strongly disagree ... 7 = Strongly agree.
+ Recommended scale: 1 = Strongly disagree ... 7 = Strongly agree.
+ 
 ---
 
 ### Quick rewrite guide: avoid and improve
