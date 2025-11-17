@@ -14,7 +14,16 @@ output: revealjs::revealjs_presentation
 library(DiagrammeR)
 ```
 
+
+# Intro
+
+Essentially you are going to write a very short survey of 3 to 5 questions.  
+
+There are a lot of steps we are going to skip for speed.
+
 ## Simple scientific method 
+
+
 
 ```{r flowchart, echo=FALSE}
 DiagrammeR::grViz("
@@ -44,7 +53,7 @@ digraph flow {
 
 
 }
-", width = "100%", height = "850px")
+", width = "100%", height = "720px")
 ```
 
 
@@ -79,17 +88,20 @@ digraph flow {
     Reliability  -> Validity
   }
 }
-", width = "100%", height = "850px")
+", width = "100%", height = "720px")
 ```
 
 
-# Intro
-
-Essentially you are going to write a very short survey of 3 to 5 questions.  
-
-There are a lot of steps we are going to skip for speed. 
 
 # Due dates
+
+There are 3 major parts: Generating questions, Piloting questions, then actually making the survey's available. 
+
+**Generate Questions Due: before class Thursday November 20th, Friday Nov 21st**
+
+**Pilot questions: Tuesday November 25th, Wednesday 26th**
+
+**Collect data by: Tuesday 12/2, Wednesday 12/3 **
 
 
 
