@@ -113,5 +113,10 @@ There are 3 major parts: Generating questions, Piloting questions, then actually
 
 * We are going to focus on generating questions at first. After Thanksgiving we can work on the data.
 
+ **Generate Questions Due: Thurs 11/20, Friday 11/21**
+
+ **Pilot questions: Tues 11/25, Wed 11/26**
+
+ **Collect data by: Tues 12/2, Wed 12/3 **
 
 
