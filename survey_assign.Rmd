@@ -2,13 +2,95 @@
 title: "Survey Assignment"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
-output: html_document
+output: revealjs::revealjs_presentation
+# output: 
+#   html_document:
+#     toc: true
+#     toc_float: true
+#     toc_depth: 4
 ---
 
+```{r setup, include=FALSE}
+library(DiagrammeR)
+```
 
-Intro
+## Simple scientific method 
 
-Due dates
+```{r flowchart, echo=FALSE}
+DiagrammeR::grViz("
+digraph flow {
 
-explanations
+  # left to right layout
+  rankdir = LR;
 
+  # node style
+  node [shape = rectangle, style = rounded, fontsize = 10];
+
+  subgraph cluster_science {
+    label = 'Simple scientific method';
+    Curious1           [label = 'Curious'];
+    LibraryResearch    [label = 'Library research'];
+    Hypothesis         [label = 'Generate hypothesis'];
+    SetUpTest          [label = 'Set up test'];
+    DataAnalysis       [label = 'Data analysis'];
+    Conclude           [label = 'Conclude'];
+
+    Curious1       -> LibraryResearch
+    LibraryResearch -> Hypothesis
+    Hypothesis     -> SetUpTest
+    SetUpTest      -> DataAnalysis
+    DataAnalysis   -> Conclude
+  }
+
+
+}
+", width = "100%", height = "850px")
+```
+
+
+
+## Simple Survey Construction 
+
+```{r flowchart survey, echo=FALSE}
+DiagrammeR::grViz("
+digraph flow {
+
+  # left to right layout
+  rankdir = LR;
+
+  # node style
+  node [shape = rectangle, style = rounded, fontsize = 10];
+
+  subgraph cluster_survey {
+    label = 'Survey development';
+    Curious2        [label = 'Curious'];
+    LibrarySurvey   [label = 'Library'];
+    Brainstorm      [label = 'Brainstorm questions'];
+    Pilot           [label = 'Pilot'];
+    FinalQs         [label = 'Final selection of Qs'];
+    Reliability     [label = 'Reliability'];
+    Validity        [label = 'Validity'];
+
+    Curious2     -> LibrarySurvey
+    LibrarySurvey -> Brainstorm
+    Brainstorm   -> Pilot
+    Pilot        -> FinalQs
+    FinalQs      -> Reliability
+    Reliability  -> Validity
+  }
+}
+", width = "100%", height = "850px")
+```
+
+
+# Intro
+
+Essentially you are going to write a very short survey of 3 to 5 questions.  
+
+There are a lot of steps we are going to skip for speed. 
+
+# Due dates
+
+
+
+# Explanations
