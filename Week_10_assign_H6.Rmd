@@ -15,9 +15,9 @@ link-citations: yes
 ---
 # Week 10 Abnormal Dec 1 {#Week10}
 
-## Be sure to check out Week 11 on social psychology
+<!-- ## Be sure to check out Week 11 on social psychology -->
 
-As an assignment it may be taxing so you'll want to plan out your next few weeks
+<!-- As an assignment it may be taxing so you'll want to plan out your next few weeks -->
 
 ## Abnormal Psych
 
