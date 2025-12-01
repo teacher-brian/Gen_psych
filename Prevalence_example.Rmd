@@ -4,7 +4,143 @@ author: "Brian Holt"
 date: "2025-12-01"
 output: ioslides_presentation
 ---
+# Why do we care about prevalence psychological disorders?
 
+* It's useful to know how common they are,
+* Whether the rates are changing
+* and where they are occurring
+
+But it also helps as a type of control condition, perhaps "comparison is a better term"
+
+# what is prevalence?
+
+It's in the context of Epidemiology, or the study of Incidence and prevalence of disease
+
+## some terms
+
+* Etiology : study of cause
+
+* Incidence = (New Cases) / (Population x Timeframe)  
+
+  Tenny, S., & Boktor, S. W. (2025). Incidence. In StatPearls. StatPearls Publishing. http://www.ncbi.nlm.nih.gov/books/NBK430746/
+
+
+# prevalence details
+
+* Prevalence: Total number of people with the disease divided by total number of people
+
+    * Lifetime--total number of people that at some point in their life meet criteria divided of total 
+number of people
+
+    * Point--prevalence for a brief period (e.g., 1 year)
+      * this is dependent on the thing of study (so, Ebola would probably need a point prevalence of 1 day)
+
+What follows will be a silly example demonstrating the prevalence of height
+
+```{r}
+library(dplyr)
+library(ggplot2)
+library(tibble)
+
+```
+
+
+# Simulate mixed adult population with sex
+
+The following code (in R statistics) just creates a population of 200,000 cases, with about half being "male" and the other half "female". I'm being simple about sex because that's not the point of this demonstration
+
+```{r,echo=T}
+set.seed(2025)
+N_pop <- 200000
+
+population_df <- tibble(
+  sex = sample(c("Male","Female"), N_pop, replace = TRUE, prob = c(0.5,0.5))
+) %>%
+  mutate(
+    height = if_else(
+      sex == "Male",
+      rnorm(N_pop, mean = 173, sd = 9),
+      rnorm(N_pop, mean = 160, sd = 8)
+    )
+  )
+```
+
+
+
+
+# Draw a sample
+
+This randomly selects 500 cases from that population above and the next slide shows some simple stats 
+
+```{r, echo=T}
+sample_size <- 500
+sample_df <- sample_n(population_df, sample_size, replace = FALSE)
+```
+
+
+# Summary statistics on the sample
+```{r, echo=T}
+sample_summary <- sample_df %>%
+  summarize(
+    mean_height   = mean(height),
+    median_height = median(height),
+    sd_height     = sd(height),
+    min_height    = min(height),
+    max_height    = max(height)
+  )
+
+print(sample_summary)
+```
+
+Note that there is 2.54 cm per inch, so 165 cm is equliavlent to `{r} 165/2.54` inches, or just under 5 foot 5. Two hundred cm is `{r} 200/2.54` inches, or 6 foot 6. 
+
+# Prevalence estimate: taller than 185 cm
+
+So, 185 cm is `{r} 185/2.54`, just under 6 feet and 1 inch.  This code below takes the sample and compares it's rate of people taller than 185 cm and then compares that to the actual population.  yes...this is all silly but's close to how things work.  
+
+```{r}
+pop_prev_over_185  <- mean(population_df$height > 185)
+samp_prev_over_185 <- mean(sample_df$height > 185)
+
+print(tibble(
+  population_prevalence_over_185 = pop_prev_over_185,
+  sample_prevalence_over_185 = samp_prev_over_185
+))
+```
+
+
+What this says is that if we just counted the number of people taller than 185 cm, made that a denominator, and then divided by the total number of people, that's the prevalence. 
+
+
+# Histogram of sample heights by sex
+
+```{r}
+ggplot(sample_df, aes(x = height, fill = sex)) +
+  geom_histogram(binwidth = 2, alpha = 0.6, position = "identity") +
+  labs(
+    title = "Height distribution in sample",
+    x = "Height (cm)",
+    y = "Count"
+  )
+```
+
+# Prevalence bar plot (>185 cm) in the sample
+
+```{r}
+bar_df <- tibble(
+  category = c("Taller than 185 cm","185 cm or shorter"),
+  proportion = c(samp_prev_over_185, 1 - samp_prev_over_185)
+)
+
+ggplot(bar_df, aes(x = category, y = proportion)) +
+  geom_col() +
+  scale_y_continuous(labels = scales::percent_format(accuracy = 0.1)) +
+  labs(
+    title = "Prevalence of height > 185 cm in sample",
+    x = "",
+    y = "Proportion"
+  )
+```
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```

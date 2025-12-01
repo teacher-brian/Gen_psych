@@ -113,6 +113,10 @@ print(tibble(
 ))
 ```
 
+
+What this says is that if we just counted the number of people taller than 185 cm, made that a denominator, and then divided by the total number of people, that's the prevalence. 
+
+
 # Histogram of sample heights by sex
 
 ```{r}
