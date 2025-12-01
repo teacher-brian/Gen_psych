@@ -16,7 +16,7 @@ link-citations: yes
 
 
 
-# Week 11 (Dec 11) {#Week11}
+# Week 11 (Dec 7) {#Week11}
 
 This week is a bit different as I'm giving a lot more instruction given the potentially provocative content.
 

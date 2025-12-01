@@ -13,11 +13,12 @@ bibliography: [General_references.bib]
 biblio-style: apalike
 link-citations: yes
 ---
-# Week 10 Abnormal Dec 2 {#Week10}
 
-## Be sure to check out Week 11 on social psychology
+# Week 10 Abnormal Dec 1 {#Week10}
 
-As an assignment it may be taxing so you'll want to plan out your next few weeks
+<!-- ## Be sure to check out Week 11 on social psychology -->
+
+<!-- As an assignment it may be taxing so you'll want to plan out your next few weeks -->
 
 ## Abnormal Psych
 
