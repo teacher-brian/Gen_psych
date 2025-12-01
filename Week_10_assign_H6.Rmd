@@ -13,7 +13,7 @@ bibliography: [General_references.bib]
 biblio-style: apalike
 link-citations: yes
 ---
-# Week 10 Abnormal Dec 4 {#Week10}
+# Week 10 Abnormal Dec 2 {#Week10}
 
 ## Be sure to check out Week 11 on social psychology
 
