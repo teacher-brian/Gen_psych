@@ -2,8 +2,11 @@
 title: "Prev_demo"
 author: "Brian Holt"
 date: "2025-12-01"
-output: ioslides_presentation
+output: slidy_presentation
 ---
+
+
+
 # Why do we care about prevalence psychological disorders?
 
 * It's useful to know how common they are,
@@ -20,32 +23,27 @@ It's in the context of Epidemiology, or the study of Incidence and prevalence of
 
 * Etiology : study of cause
 
-* Incidence = (New Cases) / (Population x Timeframe)  
-
-  Tenny, S., & Boktor, S. W. (2025). Incidence. In StatPearls. StatPearls Publishing. http://www.ncbi.nlm.nih.gov/books/NBK430746/
-
-
-# prevalence details
+* Incidence = (New Cases) / (Population x Timeframe)   ^[Tenny, S., & Boktor, S. W. (2025). Incidence. In StatPearls. StatPearls Publishing. http://www.ncbi.nlm.nih.gov/books/NBK430746/]
 
 * Prevalence: Total number of people with the disease divided by total number of people
 
-    * Lifetime--total number of people that at some point in their life meet criteria divided of total 
-number of people
+$\frac{\text{Number of people with the "thing"}}{\text{Total number of people}}$
+
+    * Lifetime--total number of people that at some point in their life meet criteria divided of total number of people
 
     * Point--prevalence for a brief period (e.g., 1 year)
       * this is dependent on the thing of study (so, Ebola would probably need a point prevalence of 1 day)
 
 What follows will be a silly example demonstrating the prevalence of height
 
-```{r}
+# Simulate mixed adult population with sex
+
+```{r,warning=F, message=F}
 library(dplyr)
 library(ggplot2)
 library(tibble)
 
 ```
-
-
-# Simulate mixed adult population with sex
 
 The following code (in R statistics) just creates a population of 200,000 cases, with about half being "male" and the other half "female". I'm being simple about sex because that's not the point of this demonstration
 
@@ -59,13 +57,11 @@ population_df <- tibble(
   mutate(
     height = if_else(
       sex == "Male",
-      rnorm(N_pop, mean = 173, sd = 9),
+      rnorm(N_pop, mean = 173, sd = 9),  #These are reasonable height averages
       rnorm(N_pop, mean = 160, sd = 8)
     )
   )
 ```
-
-
 
 
 # Draw a sample
@@ -78,7 +74,7 @@ sample_df <- sample_n(population_df, sample_size, replace = FALSE)
 ```
 
 
-# Summary statistics on the sample
+## Summary statistics on the sample
 ```{r, echo=T}
 sample_summary <- sample_df %>%
   summarize(
@@ -92,11 +88,11 @@ sample_summary <- sample_df %>%
 print(sample_summary)
 ```
 
-Note that there is 2.54 cm per inch, so 165 cm is equliavlent to `{r} 165/2.54` inches, or just under 5 foot 5. Two hundred cm is `{r} 200/2.54` inches, or 6 foot 6. 
+Note that there is 2.54 cm per inch, so 165 cm is equliavlent to `r round(165/2.54,2)` inches, or just under 5'5. Two hundred cm is `r round(200/2.54,2)` inches, or 6'6. 
 
 # Prevalence estimate: taller than 185 cm
 
-So, 185 cm is `{r} 185/2.54`, just under 6 feet and 1 inch.  This code below takes the sample and compares it's rate of people taller than 185 cm and then compares that to the actual population.  yes...this is all silly but's close to how things work.  
+So, 185 cm is `r round(185/2.54,2)`, just under 6 feet and 1 inch.  This code below takes the sample and compares it's rate of people taller than 185 cm and then compares that to the actual population.  yes...this is all silly but it's close to how things work.  
 
 ```{r}
 pop_prev_over_185  <- mean(population_df$height > 185)
@@ -110,19 +106,6 @@ print(tibble(
 
 
 What this says is that if we just counted the number of people taller than 185 cm, made that a denominator, and then divided by the total number of people, that's the prevalence. 
-
-
-# Histogram of sample heights by sex
-
-```{r}
-ggplot(sample_df, aes(x = height, fill = sex)) +
-  geom_histogram(binwidth = 2, alpha = 0.6, position = "identity") +
-  labs(
-    title = "Height distribution in sample",
-    x = "Height (cm)",
-    y = "Count"
-  )
-```
 
 # Prevalence bar plot (>185 cm) in the sample
 
@@ -139,33 +122,39 @@ ggplot(bar_df, aes(x = category, y = proportion)) +
     title = "Prevalence of height > 185 cm in sample",
     x = "",
     y = "Proportion"
-  )
-```
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+  )+
+  geom_hline(yintercept =samp_prev_over_185, color='blue')
 ```
 
-## R Markdown
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Said another way, there are `r sum(sample_df$height > 185)` people who are taller than 185, and since there are `r nrow(sample_df)` in the sample, `r sum(sample_df$height > 185)` divided by `r nrow(sample_df)` is `r sum(sample_df$height > 185)/nrow(sample_df)`, or `r paste0(sum(sample_df$height > 185)/nrow(sample_df)*100,'%')` 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
 
-## Slide with Bullets
+# Histogram of sample heights by sex
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
-## Slide with R Output
-
-```{r cars, echo = TRUE}
-summary(cars)
+```{r}
+ggplot(sample_df, aes(x = height, fill = sex)) +
+  geom_histogram(binwidth = 2, alpha = 0.6, position = "identity") +
+  labs(
+    title = "Height distribution in sample",
+    x = "Height (cm)",
+    y = "Count"
+  )+
+  geom_vline(xintercept = 185, color='blue')
 ```
 
-## Slide with Plot
 
-```{r pressure}
-plot(pressure)
-```
+# Why do we care? 
+
+Well, it's a way to have a baseline. We sometimes call this a baserate.  That's a key concept that is very useful to think deeply. 
+
+If I tell you that schizophrenia is just under 1% of the population but then you draw a sample from a group of monozygotic twins, on average if one twin has been diagnosed with schizophrenia the other twin will be diagnosed schizophrenic 43 to 48% of the time.
+
+# Is or 48% a lot?  
+ Well, without the base rate of schizophrenia across the population you wouldn't know if 48% is a lot or a little. some people are surprised that it's that small thinking that schizophrenia is 100% genetic. if it were 100% genetic then this  experiment would give us not 48% of the time but 100% of the time that the identical twin of a schizophrenic would all be schizophrenic.
+
+ so in other words, these base rate prevalence ratings give us a control group or a comparison group.
+
+And so if  you are ever ask to judge whether or not some quantity is high or low, it's very useful to think about how common the thing actually is.
+
 
