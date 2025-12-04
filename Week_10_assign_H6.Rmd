@@ -42,7 +42,7 @@ So please don't. Don't diagnose yourself and don't diagnose others.  If you thin
 * @efran_defining_2007 This has some nice controversial and provocative ideas.  Not everyone will like them. You'll need to look this up using the Library's database.  
 
 
-The specific database is called Pro-quest.  [This schedule has instructions for doing this](#PeriodicalLocator).  (added soon)
+The specific database is called Pro-quest.  [This schedule has instructions for doing this](https://docs.google.com/document/d/1C3DpmbeqthCICzL90UbJ_81PJDSrMrq1NTe3FxEdnMQ/edit?tab=t.0){target='_blank'}
 
 
 
@@ -55,9 +55,9 @@ The specific database is called Pro-quest.  [This schedule has instructions for 
 
 * [Optional Lectures on depression](https://www.youtube.com/playlist?list=PLDEwZwMNQswsr6gT7c0HT9rbpW5X-lstj){target='_blank'}  50 minutes'ish
 
-* Schizophrenia, and whether cannabis is related
+* [Schizophrenia, and whether cannabis is related](https://youtu.be/W7sAkrHsrmg){target='_blank'} 
  
-   * [slides on schizophrenia](https://docs.google.com/presentation/d/1vb9YPOa75W2I00sKs_RzNP7WcQ_2WUdiBKgsja8bnQI/edit?usp=sharing){target='_blank'} 
+   * [slides on schizophrenia  --- 25 minutes](https://docs.google.com/presentation/d/1vb9YPOa75W2I00sKs_RzNP7WcQ_2WUdiBKgsja8bnQI/edit?usp=sharing){target='_blank'} 
 
 * [Optional case study interview of a person suffering from Schizophrenia](https://youtu.be/bqBbGoN-dWE){target='_blank'} 7 min
 
@@ -78,9 +78,9 @@ The specific database is called Pro-quest.  [This schedule has instructions for 
 
 * Respond to anything above.  Write maybe 2 or 3 paragraphs.  Yes, this is light.
 
-* Share your writing with the canvas Channel [**#week-10**](https://canvas.seattlecolleges.edu/courses/35378/discussion_topics/433413?module_item_id=2118746){target='_blank'} 
+* Share your writing here in this discussion
 
-* Comment on 2 or 3 of your classmates work.
+* Comment on 2 or 3 of your classmates work inside their google doc.
 
 `r if (knitr:::is_html_output()) '
 # References {-}
