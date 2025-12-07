@@ -10,6 +10,18 @@ ts <- ts  %>% select(-X)
 dim(ts)
 
 ts <- ts %>%  mutate(across(2:4,as.factor))
+#which classs has done it
+ts[,1:4] %>%
+  group_by(what.class.are.you.in) %>% tally
+
+
+# which students
+ts[,1:4] %>%
+  group_by(What.is.your.Last.name.) %>% tally %>% print(n=100)
+
+
+# which forms have been 'used'
+
 dfts<- data.frame((apply(ts[,5:53],2,function(x) sum(!is.na(x)))))
 
 colnames(dfts) <- "count"
@@ -24,7 +36,7 @@ dfts %>%
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
 
-#who has done it
+
 
 
 
