@@ -6,7 +6,10 @@ library(tidyverse)
 write.csv(ts_raw,"formTracking.csv")
 ts <- read.csv("formTracking.csv")
 str(ts)
-ts <- ts[,-1]
+ts <- ts  %>% select(-X)
+dim(ts)
+
+ts <- ts %>%  mutate(across(2:4,as.factor))
 dfts<- data.frame((apply(ts[,5:53],2,function(x) sum(!is.na(x)))))
 
 colnames(dfts) <- "count"
@@ -20,6 +23,8 @@ dfts %>%
   geom_col()+
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
+
+#who has done it
 
 
 
