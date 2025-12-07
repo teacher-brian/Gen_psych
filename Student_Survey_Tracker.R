@@ -2,9 +2,11 @@ library(googlesheets4)
 library(tidyverse)
 
 
-ts_raw<- read_sheet("https://docs.google.com/spreadsheets/d/11zT13iBZw3QIIQDS1j8GJnI4GMmHo_S-oxfL1dGPssU/edit?usp=sharing",range= "Form Responses 1")
-ts <- ts_raw
-
+#ts_raw<- read_sheet("https://docs.google.com/spreadsheets/d/11zT13iBZw3QIIQDS1j8GJnI4GMmHo_S-oxfL1dGPssU/edit?usp=sharing",range= "Form Responses 1")
+write.csv(ts_raw,"formTracking.csv")
+ts <- read.csv("formTracking.csv")
+str(ts)
+ts <- ts[,-1]
 dfts<- data.frame((apply(ts[,5:53],2,function(x) sum(!is.na(x)))))
 
 colnames(dfts) <- "count"
