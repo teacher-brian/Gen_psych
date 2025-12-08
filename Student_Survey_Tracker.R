@@ -3,9 +3,38 @@ library(tidyverse)
 
 
 ts_raw<- read_sheet("https://docs.google.com/spreadsheets/d/11zT13iBZw3QIIQDS1j8GJnI4GMmHo_S-oxfL1dGPssU/edit?usp=sharing",range= "Form Responses 1")
-ts <- ts_raw
+write.csv(ts_raw,"formTracking.csv")
+ts <- read.csv("formTracking.csv")
+str(ts)
+ts <- ts  %>% select(-X)
+dim(ts)
 
-dfts<- data.frame((apply(ts[,5:53],2,function(x) sum(!is.na(x)))))
+ts <- ts %>%  mutate(across(2:4,as.factor))
+#which classs has done it
+ts[,1:4] %>%
+  group_by(what.class.are.you.in) %>% tally
+
+
+# which students
+ts[,1:4] %>%
+  group_by(What.is.your.Last.name.) %>%
+  select(What.is.your.first.name.,What.is.your.Last.name.) %>%
+  # filter(What.is.your.Last.name.=="Smith") %>%
+ print(n=100)
+
+ts %>% filter(What.is.your.Last.name.=='Smith') %>% t()
+
+# check count
+
+ts[-c(1:4),] %>%
+  pivot_longer(cols = -c(`Timestamp`,`What.is.your.first.name.`,`What.is.your.Last.name.`,`what.class.are.you.in`),
+               names_to = "form",
+               values_to = "completed",
+               values_drop_na = T) #%>%
+
+# which forms have been 'used'
+
+dfts<- data.frame((apply(ts[,5:57],2,function(x) sum(!is.na(x)))))
 
 colnames(dfts) <- "count"
 dfts %>%
@@ -17,5 +46,4 @@ dfts %>%
 
   geom_col()+
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
-
 
