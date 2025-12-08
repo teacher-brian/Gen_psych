@@ -24,10 +24,13 @@ ts[,1:4] %>%
 
 ts %>% filter(What.is.your.Last.name.=='Smith') %>% t()
 
+# check count
+
+ts[-c(1:4),] %>% pivot_longer(cols = -c(`Timestamp`,`What.is.your.first.name.`,`What.is.your.Last.name.`,`what.class.are.you.in`),names_to = "form",values_to = "completed",values_drop_na = T)
 
 # which forms have been 'used'
 
-dfts<- data.frame((apply(ts[,5:53],2,function(x) sum(!is.na(x)))))
+dfts<- data.frame((apply(ts[,5:57],2,function(x) sum(!is.na(x)))))
 
 colnames(dfts) <- "count"
 dfts %>%
