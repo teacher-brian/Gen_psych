@@ -30,7 +30,7 @@ ts[-c(1:4),] %>%
   pivot_longer(cols = -c(`Timestamp`,`What.is.your.first.name.`,`What.is.your.Last.name.`,`what.class.are.you.in`),
                names_to = "form",
                values_to = "completed",
-               values_drop_na = T) %>%
+               values_drop_na = T) #%>%
 
 # which forms have been 'used'
 
