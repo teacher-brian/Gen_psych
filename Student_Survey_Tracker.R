@@ -47,3 +47,11 @@ dfts %>%
   geom_col()+
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
+
+
+# make a list of surveys with more than 11:
+
+dfts %>%
+  rownames_to_column("form") %>%
+  mutate(form = fct_reorder(form, count)) %>%
+  filter(count>11)
