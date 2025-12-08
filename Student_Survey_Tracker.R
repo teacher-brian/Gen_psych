@@ -19,10 +19,3 @@ dfts %>%
   theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 
 
-
-
-
-# #
-#
-# ts %>% summarise(across(`form 1`: `form 49`, ~ count(.x)))
-# # summarise(across(c(col1, col2, col3), ~sum(is.na(.)), .names = "na_count_{.col}"))
