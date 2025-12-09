@@ -44,9 +44,9 @@ ts[,1:4] %>%
 
 ts[,1:4] %>%
   group_by(what.class.are.you.in) %>% select(Timestamp,what.class.are.you.in) %>%
-  mutate(Timestamp = ymd_hms(as.character(Timestamp))) %>%
-   mutate(minutes_to_due = as.numeric(ymd_hms("2025-12-08 23:59:00") - Timestamp,units='mins')) %>%
-  summarise(mean(minutes_to_due/60))
+  mutate(Timestamp = ymd_hms(as.character(Timestamp)),due_date=ymd_hms("2025-12-08 23:59:00")) %>%
+   mutate(minutes_to_due = as.numeric(due_date - Timestamp,units='mins')) %>% arrange(minutes_to_due) %>%
+  summarise(mean(minutes_to_due/60),sd(minutes_to_due/60),n())
 
 
 # which students
