@@ -9,6 +9,31 @@ str(ts)
 ts <- ts  %>% select(-X)
 dim(ts)
 
+# which forms have been 'used'
+
+dfts<- data.frame((apply(ts[,5:57],2,function(x) sum(!is.na(x)))))
+
+colnames(dfts) <- "count"
+dfts %>%
+  rownames_to_column("form") %>%
+  mutate(form = fct_reorder(form, count)) %>%
+
+  # arrange(desc(count)) %>%
+  ggplot(aes(x=form,y=count))+
+
+  geom_col()+
+  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+
+
+
+# make a list of surveys with more than 11:
+
+dfts %>%
+  rownames_to_column("form") %>%
+  mutate(form = fct_reorder(form, count)) %>%
+  filter(count>11) %>% print() %>%  arrange(form) %>% nrow()
+
+
 ts <- ts %>%  mutate(across(2:4,as.factor))
 #which classs has done it
 ts[,1:4] %>%
@@ -32,26 +57,4 @@ ts[-c(1:4),] %>%
                values_to = "completed",
                values_drop_na = T) #%>%
 
-# which forms have been 'used'
 
-dfts<- data.frame((apply(ts[,5:57],2,function(x) sum(!is.na(x)))))
-
-colnames(dfts) <- "count"
-dfts %>%
-  rownames_to_column("form") %>%
-  mutate(form = fct_reorder(form, count)) %>%
-
-  # arrange(desc(count)) %>%
-  ggplot(aes(x=form,y=count))+
-
-  geom_col()+
-  theme(axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
-
-
-
-# make a list of surveys with more than 11:
-
-dfts %>%
-  rownames_to_column("form") %>%
-  mutate(form = fct_reorder(form, count)) %>%
-  filter(count>11) %>% print() %>% nrow()
