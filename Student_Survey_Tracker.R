@@ -34,7 +34,7 @@ dfts %>%
   filter(count>11) %>% print() %>%  arrange(form) %>% nrow()
 
 
-ts <- ts %>%  mutate(across(2:4,as.factor))
+  ts <- ts %>%  mutate(across(2:4,as.factor))
 #which classs has done it
 ts[,1:4] %>%
   group_by(what.class.are.you.in) %>% tally
