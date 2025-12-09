@@ -54,4 +54,4 @@ dfts %>%
 dfts %>%
   rownames_to_column("form") %>%
   mutate(form = fct_reorder(form, count)) %>%
-  filter(count>11)
+  filter(count>11) %>% print() %>% nrow()
