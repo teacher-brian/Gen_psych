@@ -1,5 +1,6 @@
 library(googlesheets4)
 library(tidyverse)
+library(lubridate)
 
 
 ts_raw<- read_sheet("https://docs.google.com/spreadsheets/d/11zT13iBZw3QIIQDS1j8GJnI4GMmHo_S-oxfL1dGPssU/edit?usp=sharing",range= "Form Responses 1")
@@ -43,7 +44,9 @@ ts[,1:4] %>%
 
 ts[,1:4] %>%
   group_by(what.class.are.you.in) %>% select(Timestamp,what.class.are.you.in) %>%
-  summarise(mean("2025-12-08 23:59:00"-as.Date(Timestamp)))
+  mutate(Timestamp = ymd_hms(as.character(Timestamp))) %>%
+   mutate(minutes_to_due = as.numeric(ymd_hms("2025-12-08 23:59:00") - Timestamp,units='mins')) %>%
+  summarise(mean(minutes_to_due/60))
 
 
 # which students
