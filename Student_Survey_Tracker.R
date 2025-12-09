@@ -17,7 +17,7 @@ dfts<- data.frame((apply(ts[,5:57],2,function(x) sum(!is.na(x)))))
 colnames(dfts) <- "count"
 dfts %>%
   rownames_to_column("form") %>%
-  mutate(form = fct_reorder(form, count)) %>%
+     mutate(form = fct_reorder(form, count)) %>%
 
   # arrange(desc(count)) %>%
   ggplot(aes(x=form,y=count))+
