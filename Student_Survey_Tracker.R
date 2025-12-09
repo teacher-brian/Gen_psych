@@ -39,6 +39,12 @@ dfts %>%
 ts[,1:4] %>%
   group_by(what.class.are.you.in) %>% tally
 
+# days to due date
+
+ts[,1:4] %>%
+  group_by(what.class.are.you.in) %>% select(Timestamp,what.class.are.you.in) %>%
+  summarise(mean("2025-12-08 23:59:00"-as.Date(Timestamp)))
+
 
 # which students
 ts[,1:4] %>%
