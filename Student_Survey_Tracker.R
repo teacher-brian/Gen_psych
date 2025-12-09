@@ -32,7 +32,7 @@ dfts %>%
 dfts %>%
   rownames_to_column("form") %>%
   mutate(form = fct_reorder(form, count)) %>%
-  filter(count>9) %>% print() %>%  arrange(form) %>% nrow()
+  filter(count<=9) %>% print() %>%  arrange(form) %>% nrow()
 
 
   ts <- ts %>%  mutate(across(2:4,as.factor))
