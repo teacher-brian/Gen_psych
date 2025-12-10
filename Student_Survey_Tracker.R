@@ -48,6 +48,16 @@ ts[,1:4] %>%
    mutate(minutes_to_due = as.numeric(due_date - Timestamp,units='mins')) %>% arrange(minutes_to_due) %>%
   summarise(mean(minutes_to_due/60),sd(minutes_to_due/60),n())
 
+# Disribution of class times to due
+ts[,1:4] %>%
+  group_by(what.class.are.you.in) %>% select(Timestamp,what.class.are.you.in) %>%
+  filter(what.class.are.you.in!='NA') %>%
+  mutate(Timestamp = ymd_hms(as.character(Timestamp)),due_date=ymd_hms("2025-12-08 23:59:00")) %>%
+  mutate(minutes_to_due = as.numeric(due_date - Timestamp,units='mins')) %>%
+  ggplot(aes(x=minutes_to_due))+geom_histogram()+
+  facet_wrap(~what.class.are.you.in)
+
+
 
 # which students
 ts[,1:4] %>%
