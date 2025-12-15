@@ -63,6 +63,7 @@ ts[,1:4] %>%
 ts[,1:4] %>%
   group_by(What.is.your.Last.name.) %>%
   select(What.is.your.first.name.,What.is.your.Last.name.) %>%
+  arrange(What.is.your.Last.name.) %>%
   # filter(What.is.your.Last.name.=="Smith") %>%
  print(n=100)
 
