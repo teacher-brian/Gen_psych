@@ -5,36 +5,37 @@ library(tidyverse)
 ## 5 likert
 transformNameWithNum <- function(df, col) {
   tibble(
-    "asNum"  = case_when({{col}} =="Strongly Disagree"~5,
-                         {{col}} =="Disagree"~4,
-                         {{col}} =="Neutral"~3,
-                         {{col}} =="Agree"~2,
-                         {{col}} =="Strongly Agree"~1))
+    "asNum"  = case_when({{col}} =="strongly disagree"~5,
+                         {{col}} =="disagree"~4,
+                         {{col}} =="neutral"~3,
+                         {{col}} =="agree"~2,
+                         {{col}} =="strongly agree"~1))
 }
 
 
 ## 7 likert
 transformNameWith7Num <- function(df, col) {
   tibble(
-    "asNum"  = case_when({{col}} =="Strongly Disagree"~7,
-                         {{col}} =="Mostly Disagree"~6,
-                         {{col}} =="Disagree"~5,
-                         {{col}} =="Neutral"~4,
-                         {{col}} =="Agree"~3,
-                         {{col}} =="Mostly Agree"~2,
-                         {{col}} =="Strongly Agree"~1))
+    "asNum"  = case_when({{col}} =="strongly disagree"~7,
+                         {{col}} =="Mostly disagree"~6,
+                         {{col}} =="disagree"~5,
+                         {{col}} =="neutral"~4,
+                         {{col}} =="agree"~3,
+                         {{col}} =="Mostly agree"~2,
+                         {{col}} =="strongly agree"~1))
 }
 
 fin<- read_clip()
 
 data.frame(fin) %>%
-  mutate(finNum=case_when(fin=="Strongly Disagree"~7,
-                          fin=="Mostly Disagree"~6,
-                          fin=="Disagree"~5,
-                          fin=="Neutral"~4,
-                          fin=="Agree"~3,
-                          fin=="Mostly Agree"~2,
-                          fin=="Strongly Agree"~1)) %>%
+  mutate(fin=tolower(fin)) %>%
+  mutate(finNum=case_when(fin=="strongly disagree"~7,
+                          fin=="Mostly disagree"~6,
+                          fin=="disagree"~5,
+                          fin=="neutral"~4,
+                          fin=="agree"~3,
+                          fin=="Mostly agree"~2,
+                          fin=="strongly agree"~1)) %>%
   summarize(mean(finNum,na.rm=T))
 
 
@@ -48,14 +49,15 @@ df %>%
   mutate(across (concentrate:deadline, ~transformNameWithNum(df, .x), .unpack = T))
 
 data.frame(concentrate,tense,deadline) %>%
+  mutate(across(concentrate:deadline, tolower)) %>%
   mutate(across(concentrate:deadline,
-               ~case_when(.=="Strongly Disagree"~5,
+               ~case_when(.=="strongly disagree"~5,
 
-                          .=="Disagree"~4,
-                          .=="Neutral"~3,
-                          .=="Agree"~2,
+                          .=="disagree"~4,
+                          .=="neutral"~3,
+                          .=="agree"~2,
 
-                          .=="Strongly Agree"~1))) %>%
+                          .=="strongly agree"~1))) %>%
   group_by(concentrate,deadline) %>%
   summarize(mean(tense,na.rm=T))
 
