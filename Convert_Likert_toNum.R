@@ -1,6 +1,30 @@
 library(clipr)
 library(tidyverse)
 
+#functions
+## 5 likert
+transformNameWithNum <- function(df, col) {
+  tibble(
+    "asNum"  = case_when({{col}} =="Strongly Disagree"~5,
+                         {{col}} =="Disagree"~4,
+                         {{col}} =="Neutral"~3,
+                         {{col}} =="Agree"~2,
+                         {{col}} =="Strongly Agree"~1))
+}
+
+
+## 7 likert
+transformNameWith7Num <- function(df, col) {
+  tibble(
+    "asNum"  = case_when({{col}} =="Strongly Disagree"~7,
+                         {{col}} =="Mostly Disagree"~6,
+                         {{col}} =="Disagree"~5,
+                         {{col}} =="Neutral"~4,
+                         {{col}} =="Agree"~3,
+                         {{col}} =="Mostly Agree"~2,
+                         {{col}} =="Strongly Agree"~1))
+}
+
 fin<- read_clip()
 
 data.frame(fin) %>%
@@ -19,31 +43,9 @@ concentrate <- read_clip()
 tense <- read_clip()
 deadline <- read_clip()
 
-
-quantile_df <- function(x, probs = c(0.25, 0.5, 0.75)) {
-  tibble(
-    val = quantile(x, probs),
-    quant = probs
-  )
-}
-
-transformNameWithNum <- function(df, col) {
-  tibble(
-    "asNum"  = case_when({{col}} =="Strongly Disagree"~5,
-                        {{col}} =="Disagree"~4,
-                        {{col}} =="Neutral"~3,
-                        {{col}} =="Agree"~2,
-                        {{col}} =="Strongly Agree"~1))
-}
-
-#mutate(df, "{{col}}_asNum" := )
-
 df <- data.frame(concentrate,tense,deadline)
 df %>%
   mutate(across (concentrate:deadline, ~transformNameWithNum(df, .x), .unpack = T))
-
-
-
 
 data.frame(concentrate,tense,deadline) %>%
   mutate(across(concentrate:deadline,
