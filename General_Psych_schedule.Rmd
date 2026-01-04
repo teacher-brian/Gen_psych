@@ -1,5 +1,5 @@
 ---
-title: "General Psychology Schedule Spring 2024"
+title: "General Psychology Schedule Winter  2026"
 author: "Brian Holt"
 date: "`r Sys.Date()`"
 output: 
@@ -14,7 +14,7 @@ output:
       toc:
         scroll_highlight: yes
         before: |
-          <li><a href="./">General Psychology Spring 2024 schedule</a></li>`
+          <li><a href="./">General Psychology Winter 2026 schedule</a></li>`
         after: |
           <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
       toolbar:
@@ -75,7 +75,7 @@ H. Here is the pattern of the course:
 
 
 
-# Week 1 April 1 {#Week1} 
+# Week 1 January 5 {#Week1} 
 
 
 
@@ -281,7 +281,7 @@ Correlations and statistics
 
 
 
-# Week 2 April 8  {#Week2}
+# Week 2 Jan 12  {#Week2}
 <!-- ## Orienting comment -->
 
 <!-- Memory is a relatively shallow level of knowledge. Check out this simple hierarchy pertaining to thinking: [Bloom's taxonomy ](https://uwaterloo.ca/centre-for-teaching-excellence/blooms-taxonomy-learning-activities-and-assessments){target="_blank"} [-@centreforteachingexcellenceBloomTaxonomyLearning2019].  If you expand the "cognitive domain" you'll see that remembering and understanding are pretty low on this scale.  There are other scales out there, but Bloom is well known. -->
