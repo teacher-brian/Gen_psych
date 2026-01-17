@@ -1,0 +1,209 @@
+---
+title: "Workflow"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      default: inverse
+      highlightStyle: github
+      countIncrementalSlides: false
+    self_contained: false
+editor_options: 
+  chunk_output_type: inline
+
+---
+class: inverse
+
+# Workflow 
+
+There's a lot to say on this topic
+
+And my hope is to use this as a way to help me think about how to teach this but also how to create an assignment for you.
+
+My intention is for the assignment to be very very simple and mostly watching this video reading an article or two and then in your Google Document maybe a paragraph of work describing a couple of spots of workflow that you're going to try to work with
+
+
+---
+class: inverse
+
+# Big Ideas
+
+*How to evaluate your work with critical thinking
+
+*Checking for confirmation biases 
+
+*Organizing your thoughts 
+
+*Writing drafts
+
+
+---
+class: inverse
+# The critical thinking standards 
+A reminder, the critical thinking standards include 
+
+Clarity
+
+Accuracy
+
+Precision
+
+Relevance
+
+Depth 
+
+Breadth
+
+Significance
+
+Logic
+
+Fairness
+
+---
+class: inverse
+
+#Some General feedback on the first week assignment
+
+* Organization
+
+* Writing too much
+    - fear of:
+      1. losing points
+      2. making mistakes
+      3. being misunderstood
+      4. appearing to not try
+      5. because I like the content?!
+        - audience
+          - Let references do their work
+          
+          
+* thinking clearly
+
+  - When
+  - how
+
+Several were getting the idea about humulity!  excellent
+
+---
+class: inverse
+# Most broadly: 
+
+1) you must incorporate a way to challenge your claims in order to avoid the confirmation bias and 
+
+2) must honor your own tendencies and preferences for working so that your workflow strengthens both your strengths and supports your weaknesses.
+
+
+---
+class: inverse
+
+#workflows also include logistics
+
+* deadlines
+* understanding instructions
+* dyslexia/adhd
+* "when" answers
+
+
+*But it's more about "how" to think clearly and quickly
+
+How do you decide "what not to write"?
+
+And do you track those ideas (honor yourself by tracking your ideas)
+
+---
+class: inverse
+
+#Example
+
+Concrete examples, for me personally, are that if I read something I want to make sure that I capture the reference, so that I don't have to hunt for it in the future because that's a time waste for me. This is an example of the “low level” obvious, standard, boring but important workflow steps that really do save time.
+
+ I also want to capture a synopsis of my thoughts about that reference, soon after reading it, so that I don’t have to rely on my memory. Or maybe there are particular quotes that I want to comment on. I use a bit of special software for this, but you could use a Google doc, or a Google spreadsheet. It might look like this:
+Example spreadsheet https://docs.google.com/spreadsheets/d/1GOE96DqQCY1PrQew3PQ8QW2hKPlm3SoZxpoI1r1mINE/edit?usp=sharing
+
+
+
+---
+class: inverse
+# How to use them?  Iteration
+
+Iteration is a type of repetitive process. We do this all the time, when you're washing dishes by hand, you'll go through the motions a little bit and then you'll inspect that the dish is in fact clean. if it's not, you wash a little bit more, maybe you get out a different kind of a tool that is a more aggressive cleaning agent. and then you go back and check to see that it's absolutely clean. you're done
+
+ that's iteration.
+
+So these final assignments, they're big and complicated. I'm challenging you. I'm not asking you to solve the question ”what is personality, what is identity?”   because none of us are capable of doing that in a few weeks.
+
+---
+class: inverse
+So when you're approaching the threads assignments, where I ask you to explain what identity is. I'm not asking you to have a complete answer. I'm not asking you to be comprehensive. you're not getting a PhD in identity, or personality.
+
+
+But I do want my students who've taken an introductory psychology course to at least be able to Grapple with that kind of a question as if they're talking with a friend and communicate to that friend a little bit of sophistication about the big ideas that might matter, and to explain  what a reasonable answer could look like.
+
+---
+class: inverse
+# checking for confirmation biases
+
+Checking for confirmation bias is actually quite simple but in practice it can be  emotionally difficult.
+
+If you believe something, you should be able to cite a reason, possibly even a reference for that belief.
+
+And if you can do that, you should also take some time to think about and do some Web browser searches looking for evidence that proves your belief false.
+
+That's an incredibly important skill to get in a habit of.  
+
+And I want to see you do it in your papers.
+
+
+---
+class: inverse
+# confirmation bias continued
+
+When is a good time in your writing to do that?
+
+ well, it depends on how you have a workflow of writing. for me, I usually have to jot some things down in bullet point form, maybe some really basic sentences that start to look like a paragraph.
+
+ and then I take a break from that and then look at what I've written and ask myself the question am I committing the confirmation bias. in other words am I looking for evidence, or coming from a point of view that assumes that my belief is true?
+
+ and from there I might do some research and poke around to see whether or not my beliefs are reasonable.
+
+ that takes emotional vulnerability and it's not always fun.
+
+ and sometimes it means I have to rewrite my bullet points, or maybe even rewrite my thesis.
+
+ but if I take 10 minutes to do that early on, the quality of my work is much higher by the time I'm  done.
+
+
+---
+class: inverse
+# organizing your thoughts
+
+If any of you have had the experience of writing something and then in that process you stumble upon an idea that's interesting to you but you simply don't have enough time to follow up on that, because of a deadline, because you've been putting things off, whatever.
+
+ but you make the choice to not include that information.
+
+ do you write that down anywhere? and if not why not because you should honor that. you should actually realize that you've got clever ideas from time to time and that you should probably write them down someplace. even if they're not something that you would include in a given assignment.
+
+ that's an example question of workflow: what do you do with the stuff that you don't actually include in your final draft?
+
+ a lot of people just throw those things aside because they think that their thoughts aren't worth anything unless it's tied to some payment of points in an academic sense.
+
+ stop that. you're smart, you've got experiences and points of view. use those somewhere. write them down.
+
+
+---
+class: inverse
+#writing drafts 
+
+This weekend I came across an interesting comment from some researchers at the University of washington. they were talking about writing drafts, and this is something that's showing up in the context of artificial intelligence/llm's because students aren't having to do as much writing.
+
+Anyway the comment was this: you write rough drafts to convince yourself that you understand something. 
+The final draft is demonstrating to somebody else that you understand it, and maybe even teach them something along the way.
+
+Rough drafts might include a summary, final drafts usually don't need to.
+
+
+
+to demonstrate to yourself that you understand something, writing a final draft to help somebody else understand it. 
