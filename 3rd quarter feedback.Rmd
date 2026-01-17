@@ -85,6 +85,8 @@ class: inverse
   - When
   - how
 
+Several were getting the idea about humulity!  excellent
+
 ---
 class: inverse
 # Most broadly: 
