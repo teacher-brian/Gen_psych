@@ -9,17 +9,39 @@ format:
     #logo: "your url here"
     #footer: "your footer here"
     #css: #["theme/theme.css"]
-    theme: simple
+    theme: dark
     echo: true
 ---
+## Some General feedback on the first week assignment
 
-Notice that the point values are larger, and in some cases, you have more time to work on them.
+* Organization
+
+* Writing too much
+    - fear of:
+      1. losing points
+      2. making mistakes
+      3. being misunderstood
+      4. appearing to not try
+      5. because I like the content?!
+        - audience
+          - Let references do their work
+          
+------------------------------------------------------------------------
+
+* thinking clearly
+
+  - When
+  - how
+
+Several were getting the idea about humility!  excellent
 
 ------------------------------------------------------------------------
 
 ## Big Ideas
 
 ::: incremental
+-   What is a workflow
+
 -   How to evaluate your work with critical thinking
 
 -   Checking for confirmation biases
@@ -28,6 +50,42 @@ Notice that the point values are larger, and in some cases, you have more time t
 
 -   Writing drafts
 :::
+
+
+------------------------------------------------------------------------
+
+## What is a workflow 
+
+1) you must incorporate a way to challenge your claims in order to avoid the confirmation bias and
+
+2) must honor your own tendencies and preferences for working so that your workflow strengthens both your strengths and supports your weaknesses.
+
+
+### Workflows also include logistics
+
+* deadlines
+* understanding instructions
+* dyslexia/adhd
+* "when" answers
+
+
+*But it's more about "how" to think clearly and quickly
+
+How do you decide "what not to write"?
+
+And do you track those ideas (honor yourself by tracking your ideas)
+
+
+## Example
+
+Concrete examples, for me personally, are that if I read something I want to make sure that I capture the reference, so that I don't have to hunt for it in the future because that's a time waste for me. This is an example of the “low level” obvious, standard, boring but important workflow steps that really do save time.
+
+ I also want to capture a synopsis of my thoughts about that reference, soon after reading it, so that I don’t have to rely on my memory. Or maybe there are particular quotes that I want to comment on. I use a bit of special software for this, but you could use a Google doc, or a Google spreadsheet. It might look like this:
+[Example spreadsheet https://docs.google.com/spreadsheets/d/1GOE96DqQCY1PrQew3PQ8QW2hKPlm3SoZxpoI1r1mINE/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GOE96DqQCY1PrQew3PQ8QW2hKPlm3SoZxpoI1r1mINE/edit?usp=sharing){target=”_blank”}
+
+
+You might also find Zotero a very helpful tool 
+
 
 ------------------------------------------------------------------------
 
@@ -80,7 +138,7 @@ and what fairness means
 ## Critical thinking is possibly the whole point of college
 
 ::: incremental
--   Critical thinking is a choice
+-   Critical thinking is a choice; it is not natural
 
 -   It's time consuming though.
 
@@ -175,7 +233,30 @@ If you choose to avoid those thoughts, if you choose to avoid even challenging y
 -   and sometimes it means I have to rewrite my bullet points, or maybe even rewrite my thesis.
 
 -   but if I take 10 minutes to do that early on, the quality of my work is much higher by the time I'm done.
+
 :::
+
+## critical thinking and coming to a conclusion you don't like
+
+::: incremental
+This is hard.  
+
+-   Sometimes we come to a place where we really have to let go with what we "want" to be true. 
+
+-   But sometimes what is happening is that your body is telling you something about the conclusion.  Something just doesn't feel right.  
+
+-   That might actually mean you are not done investigating the problem.  
+
+-   Sometimes when your feelings are telling you that the logical/objective conclusion is wrong, it might be that YOU are wrong.  
+
+-   But it might mean that you have not gone deep enough, that something is beling left out and your nervous system is sending you a red alert emotional message.  KEEP LISTENING. 
+
+-   But you might have to come back to it. 
+
+:::
+
+---------------------------------------
+
 
 ## Organizing your thoughts
 
@@ -221,10 +302,25 @@ Rough drafts might include a summary, final drafts usually don't need to.
 to demonstrate to yourself that you understand something, writing a final draft to help somebody else understand it.
 :::
 
-## Challengint assignments
+## Recent information on Job Interviews for Software Engineers
 
-These final assignments, they're big and complicated. I'm challenging you. I'm not asking you to solve the question ”what is personality, what is identity?” because none of us are capable of doing that in a few weeks.
+Some people I know shared [this article about Interviewing engineers](https://thegeneralpartnership.substack.com/p/engineering-interviews-and-ais-philosophical){target="blank"} about doing job interviews in the Age of AI and LLM. 
 
-When you're approaching the Threads assignment, where I ask you to explain what identity is, I'm not asking you to have a complete answer. I'm not asking you to be comprehensive. you're not getting a PhD in identity, or personality.
+Obviously this is in the tech fields and we are a psych class.  But I wanted to share with you an outside source that is relevant to workflow.  Here are 2 exerpts:
 
-But I do want my students who've taken an introductory psychology course to at least be able to grapple with that kind of a question or about gun violence) as if they're talking with a friend and communicate to that friend a little bit of sophistication about the big ideas that might matter, and to explain what a reasonable answer could look like.
+    "The assumption was that AI would be an equalizer: Give everyone Copilot, and coding speed stops mattering. The opposite happened. Strong engineers used AI to move faster through the boring parts and spent more time on architecture and edge cases. Interviewers describe a specific pattern—when AI generates the shape of a solution, weaker candidates lose the thread of the reasoning. They can’t reconstruct the decisions the AI implicitly made.
+
+    Candidates who prompt AI for a complete solution, and then can’t answer “what does this line do?” That’s an instant no-hire in every AI-enabled format I’ve heard about. But candidates who use AI to scaffold boilerplate while making their own architectural decisions are demonstrating exactly what the job requires now."
+
+--------------------
+
+And then this: 
+
+    "Verification mindset: “We need to confirm this person has skills X, Y, Z. AI makes that harder to verify, so we need better detection or harder problems.”
+
+    Simulation mindset: “We need to see how this person actually works. They’ll use AI on the job, so let’s see how they use it.”"
+
+
+That simulation mindset?  it's basically a synthesis mindset. 
+
+In order to get to the simulation mindset in any profession, you have to do the work of learning those skills so that you can take advantage of whatever technological tools come later. 
