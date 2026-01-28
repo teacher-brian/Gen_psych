@@ -31,4 +31,4 @@ mean(exam1Win26$exam1)
 quantile(exam1Win26$exam1)
 hist(exam1Win26$exam1,breaks=13)
 summary(lm(data=exam1Win26,exam1~class))
-
+write.csv(exam1Win26,"exam1Win26.csv")
