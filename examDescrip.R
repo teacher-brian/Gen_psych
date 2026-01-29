@@ -32,3 +32,8 @@ quantile(exam1Win26$exam1)
 hist(exam1Win26$exam1,breaks=13)
 summary(lm(data=exam1Win26,exam1~class))
 write.csv(exam1Win26,"exam1Win26.csv")
+
+e1 <- read.csv("exam1Win26.csv")[,2:3]
+hist(e1[,1],sbreaks = 9)
+mean(e1$exam1)
+sd(e1$exam1)
