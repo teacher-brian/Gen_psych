@@ -1,42 +1,36 @@
 library(clipr)
-e1 <- read_clip_tbl(header=F)
-colnames(e1) <- "exam1"
+library(tidyverse)
+
+# obtain dataa
+
+e1 <- read_clip_tbl(header=T)
+#colnames(e1) <- "exam1"
 e1$class <- "9am"
-hist(e1$exam1,breaks = 8)
-mean(e1$exam1)
-quantile(e1$exam1)
+
 e2 <- read_clip_tbl(header=F)
-e2$class <- "elam"
-colnames(e2) <- c("exam1","class")
-
-
-hist(e2$elam,breaks=10)
-mean(e2$elam)
-median(e2$elam)
-quantile(e2$elam)
-
+e2$class <- "11am"
 
 e3 <- read_clip_tbl(header=F)
-
-colnames(e3) <- "exam1"
 e3$class <- "1pm"
-quantile(e3$exam1)
-mean(e3$exam1)
-hist(e3$exam1,breaks=10)
-e2
+colnames(e2) <- colnames(e1)
+colnames(e3) <- colnames(e1)
+
+
 
 exam1Win26<- rbind(e1,e2,e3)
+ # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
-mean(exam1Win26$exam1)
-quantile(exam1Win26$exam1)
-hist(exam1Win26$exam1,breaks=13)
-summary(lm(data=exam1Win26,exam1~class))
-# write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
+# exam1Win26 <- read.csv("exam1Win26.csv")
 
-e1 <- read.csv("exam1Win26.csv")
-hist(e1[,1],breaks = 10)
-mean(e1$exam1)
-sd(e1$exam1)
+mean(exam1Win26$exam.1,na.rm=T)
+quantile(exam1Win26$exam.1)
+hist(exam1Win26$exam.1,breaks=13)
+summary(lm(data=exam1Win26,exam.1~class))
+
+
+
+scale()
+
 
 
 sims <- 1e4
