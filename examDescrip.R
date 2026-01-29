@@ -34,6 +34,13 @@ summary(lm(data=exam1Win26,exam1~class))
 # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
 e1 <- read.csv("exam1Win26.csv")
-hist(e1[,1],sbreaks = 9)
+hist(e1[,1],breaks = 10)
 mean(e1$exam1)
 sd(e1$exam1)
+
+
+sims <- 1e4
+
+e1mc<- sample(e1$exam1,sims,replace = T)
+hist(e1mc)
+mean(e1mc)
