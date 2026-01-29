@@ -21,7 +21,7 @@ exam1Win26<- rbind(e1,e3)
 exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
 
 
- # write.csv(e1,"exam1Win26.csv",row.names = F)
+ # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
 e1 <- read.csv("exam1Win26.csv")
 
