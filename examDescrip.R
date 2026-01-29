@@ -16,9 +16,8 @@ colnames(e2) <- colnames(e1)
 colnames(e3) <- colnames(e1)
 
 
-
 exam1Win26<- rbind(e1,e2,e3)
- # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
+# write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
 # exam1Win26 <- read.csv("exam1Win26.csv")
 
@@ -28,9 +27,12 @@ hist(exam1Win26$exam.1,breaks=13)
 summary(lm(data=exam1Win26,exam.1~class))
 
 
+e1 <- exam1Win26
 
-scale()
+e1 %>% group_by(class) %>% mutate(across(exam.1:sa1,~scale(.))) %>%
+  summarize(corr=cor(e1$exam.1,e1$sa1,use="pairwise.complete.obs"))
 
+cor(e1$exam.1[e1$class=="1pm"],e1$sa1[e1$class=="1pm"],use = "pairwise.complete.obs")
 
 
 sims <- 1e4
