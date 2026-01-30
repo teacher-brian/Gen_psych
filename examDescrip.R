@@ -3,41 +3,48 @@ library(tidyverse)
 
 # obtain dataa
 
-e1 <- read_clip_tbl(header=T)
-#colnames(e1) <- "exam1"
-e1$class <- "9am"
-
-e2 <- read_clip_tbl(header=F)
-e2$class <- "11am"
-
-e3 <- read_clip_tbl(header=F)
-e3$class <- "1pm"
-colnames(e2) <- colnames(e1)
-colnames(e3) <- colnames(e1)
-
-
-exam1Win26<- rbind(e1,e3)
-
-exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
-
+# e1 <- read_clip_tbl(header=T)
+# #colnames(e1) <- "exam1"
+# e1$class <- "9am"
+#
+# e2 <- read_clip_tbl(header=F)
+# e2$class <- "11am"
+#
+# e3 <- read_clip_tbl(header=F)
+# e3$class <- "1pm"
+# colnames(e2) <- colnames(e1)
+# colnames(e3) <- colnames(e1)
+#
+#
+# exam1Win26<- rbind(e1,e3)
+#
+# exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
+#
 
  # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
 e1 <- read.csv("exam1Win26.csv")
 
-mean(exam1Win26$exam.1,na.rm=T)
-quantile(exam1Win26$exam.1)
-hist(exam1Win26$exam.1,breaks=13)
-summary(lm(data=exam1Win26,exam.1~class))
+mean(e1$exam.1,na.rm=T)
+quantile(e1$exam.1,na.rm=T)
+hist(e1$exam.1,breaks=13)
+summary(lm(data=e1,exam.1~class))
 
 
-e1 <- exam1Win26
+# e1 <- exam1Win26
 
-e1 %>% group_by(class) %>% mutate(across(exam.1:sa1,~scale(.))) %>%
-  summarize(corr=cor(e1$exam.1,e1$sa1,use="pairwise.complete.obs"))
+e1 %>%
+  filter(complete.cases(.)) %>%
+group_by(class) %>%
+  mutate(across(exam.1:sa1,~scale(.))) %>%
+  summarize(corr=cor(exam.1,sa1))
 
-# cor(e1$exam.1[e1$class=="1pm"],e1$sa1[e1$class=="1pm"],use = "pairwise.complete.obs")
+e1 %>%
+  group_by(class) %>% ggplot(aes(x=exam.1, y=sa1,group=class))+geom_point()
 
+
+e1 %>%
+  group_by(class) %>% ggplot(aes(x=exam.1,fill=class))+geom_histogram(orientation = 'x')
 
 sims <- 1e4
 
