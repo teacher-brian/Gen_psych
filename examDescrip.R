@@ -28,7 +28,7 @@ e1 <- read.csv("exam1Win26.csv")
 mean(e1$exam.1,na.rm=T)
 quantile(e1$exam.1,na.rm=T)
 hist(e1$exam.1,breaks=13)
-summary(lm(data=e1,exam.1~class))
+summary(lm(data=e1,sa1~exam.1*class))
 
 
 # e1 <- exam1Win26
@@ -44,7 +44,7 @@ e1 %>%
 
 
 e1 %>%
-  group_by(class) %>% ggplot(aes(x=exam.1,fill=class))+geom_histogram(orientation = 'x')
+  group_by(class) %>% ggplot(aes(x=exam.1,color=class))+geom_histogram(orientation = 'x')#+facet_grid(~class)
 
 sims <- 1e4
 
@@ -61,3 +61,47 @@ e1 %>% group_by(class) %>%
             sd=sd(exam.1,na.rm=T),
             med=median(exam.1,na.rm=T),
             n=n())
+
+
+
+fisher_z <- function(r) 0.5 * log((1 + r) / (1 - r))
+
+r <- c(0.554, 0.782, 0.307)
+n <- c(32, 27, 27)  # class sizes
+
+z <- fisher_z(r)
+se <- 1 / sqrt(n - 3)
+
+# compare 11am vs 1pm
+z_diff <- (z[1] - z[2]) / sqrt(se[1]^2 + se[2]^2)
+p_value <- 2 * (1 - pnorm(abs(z_diff)))
+
+
+# compare 11am vs 9a
+z_diff <- (z[1] - z[3]) / sqrt(se[1]^2 + se[3]^2)
+p_value <- 2 * (1 - pnorm(abs(z_diff)))
+
+
+# compare 1pm vs 9a
+z_diff <- (z[2] - z[3]) / sqrt(se[2]^2 + se[3]^2)
+p_value <- 2 * (1 - pnorm(abs(z_diff)))
+
+
+ci_z <- c(NA,NA,NA)
+for (i in 1:3){
+  ci_z[i] <- z[i] + c(-1,1) * qnorm(.975) * se[i]
+}
+
+ci_r <- tanh(ci_z)
+
+plot(x=r,ylim=c(-.2,1.5))
+points(r+ci_r,col='red')
+points(r-ci_r,col='red')
+
+
+
+
+m1 <- lm(sa1 ~ exam.1 * class, data = e1)
+m0 <- lm(sa1 ~ exam.1 + class, data = e1)
+
+anova(m0, m1)
