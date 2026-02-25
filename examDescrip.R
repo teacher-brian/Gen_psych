@@ -16,7 +16,7 @@ library(tidyverse)
 # colnames(e3) <- colnames(e1)
 #
 #
-# exam1Win26<- rbind(e1,e3)
+# exam1Win26<- rbind(e1,e2)
 #
 # exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
 #
