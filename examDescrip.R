@@ -7,7 +7,7 @@ library(tidyverse)
 # #colnames(e1) <- "exam1"
 # e1$class <- "9am"
 #
-# e2 <- read_clip_tbl(header=F)
+# e2 <- read_clip_tbl(header=T)
 # e2$class <- "11am"
 #
 # e3 <- read_clip_tbl(header=F)
