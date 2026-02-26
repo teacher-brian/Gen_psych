@@ -10,13 +10,13 @@ library(tidyverse)
 # e2 <- read_clip_tbl(header=T)
 # e2$class <- "11am"
 #
-# e3 <- read_clip_tbl(header=F)
+# e3 <- read_clip_tbl(header=T)
 # e3$class <- "1pm"
 # colnames(e2) <- colnames(e1)
 # colnames(e3) <- colnames(e1)
 #
 #
-# exam1Win26<- rbind(e1,e2)
+# exam1Win26<- rbind(e1,e3)
 #
 # exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
 #
