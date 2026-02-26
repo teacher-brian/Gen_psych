@@ -16,7 +16,7 @@ library(tidyverse)
 # colnames(e3) <- colnames(e1)
 #
 #
-# exam1Win26<- rbind(e1,e3)
+# exam1Win26<- e1
 #
 # exam1Win26 <- rbind(e1[e1$class!="1pm",],e3)
 #
@@ -24,6 +24,20 @@ library(tidyverse)
  # write.csv(exam1Win26,"exam1Win26.csv",row.names = F)
 
 e1 <- read.csv("exam1Win26.csv")
+
+
+# temp1<- e1[,c(1:4,7)] %>% pivot_longer(cols=c(exam.1,sa1),names_to = "exam", values_to = "score") %>%
+#   rename(examVers=exam1version)
+#
+# temp2<- e1[,c(1,2,5,6)] %>% pivot_longer(cols=Exam2,names_to = "exam", values_to = "score") %>%
+#   rename(examVers=Exam2Version)
+#
+# e1<- rbind(temp1,temp2) %>% arrange(class,id)
+
+
+
+
+
 
 mean(e1$exam.1,na.rm=T)
 quantile(e1$exam.1,na.rm=T)
