@@ -1,0 +1,113 @@
+---
+title: "Survey Questions for Erikson"
+output: html_document
+date: "2026-03-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Assignment: Measuring Psychosocial Development in College Students
+Individual work: write 3 survey questions
+Group work: review/vote on questions to be included in a survey (this will be a different assignment)
+
+
+
+---
+
+### Purpose
+
+This assignment builds your skill in operationalizing psychological theory. You will apply **Erik Erikson’s psychosocial theory** by writing survey questions that could measure where college students are within the relevant developmental stage.
+
+---
+
+### Background
+
+According to Erik Erikson, traditional college-age individuals (approximately 18-25) are typically navigating from the stage of **Identity vs. Role Confusion** and, for some, into the beginning of **Intimacy vs. Isolation**. 
+
+
+---
+
+### Your Task
+
+Create **three (3) original survey questions** designed to assess college students’ development in the Eriksonian stage most relevant to traditional college-age adults.
+
+You must:
+
+1. Choose an Erikson stage you believe could apply to college students
+
+   * Industry vs. Inferiority
+   * Identity vs. Role Confusion
+   * Intimacy vs. Isolation
+
+2. Write **three survey questions** that could measure that stage
+3. Use clear, neutral wording suitable for a college survey
+4. Use the same response format for all three questions (recommended: 7-point Likert scale)
+
+---
+
+### Required Response Format
+
+Use this scale for each item:
+
+> 1 = Strongly disagree
+> 2 = Disagree
+> 3 = Disagree somewhat
+> 4 = Neutral
+> 5 = Agree somewhat
+> 6 = Agree
+> 7 = Strongly agree
+
+---
+
+### Submission Components
+
+**Part A: Stage Selection (2–3 sentences)**
+
+* Name the Erikson stage you chose
+* Briefly justify why it fits college students
+
+**Part B: Survey Items (your main work)**
+Provide **three original items**.
+
+Example format (do not copy these):
+
+* I have a clear sense of who I am and what I value.
+* I feel uncertain about my future direction.
+* I am confident in the career path I am choosing.
+
+**Part C: Brief Rationale (3–5 sentences)**
+Explain how your items reflect the psychological features of the chosen stage.
+
+---
+
+### Quality Guidelines (Read Carefully)
+
+Strong items are:
+
+* Specific and concrete
+* Focused on one idea at a time
+* Neutral in tone (not leading)
+* Appropriate for college populations
+* Clearly connected to Erikson’s theory
+
+Avoid:
+
+* Double-barreled questions (two ideas in one item)
+* Vague wording (e.g., “things,” “stuff,” “often”)
+* Yes/no questions
+* Questions about childhood (focus on current functioning)
+
+---
+
+### Grading Criteria (10 points total)
+
+* Stage correctly identified and justified (2 pts)
+* Three well-written survey items (4 pts)
+* Clear connection to Erikson’s theory (3 pts)
+* Professional formatting and clarity (1 pt)
+
+---
+
+
