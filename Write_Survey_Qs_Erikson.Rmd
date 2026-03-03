@@ -8,10 +8,10 @@ date: "2026-03-03"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Assignment: Measuring Psychosocial Development in College Students
-Individual work: write 3 survey questions
-Group work: review/vote on questions to be included in a survey (this will be a different assignment)
+# Assignment: Measuring Psychosocial Development in College Students
+Individual work: write 3 survey questions which will be put into your typical google document  
 
+Group work: review/vote on questions to be included in a survey (this will be a different assignment)
 
 
 ---
@@ -37,9 +37,9 @@ You must:
 
 1. Choose an Erikson stage you believe could apply to college students
 
-   * Industry vs. Inferiority
-   * Identity vs. Role Confusion
-   * Intimacy vs. Isolation
+ * Industry vs. Inferiority
+ * Identity vs. Role Confusion
+ * Intimacy vs. Isolation
 
 2. Write **three survey questions** that could measure that stage
 3. Use clear, neutral wording suitable for a college survey
@@ -51,13 +51,13 @@ You must:
 
 Use this scale for each item:
 
-> 1 = Strongly disagree
-> 2 = Disagree
-> 3 = Disagree somewhat
-> 4 = Neutral
-> 5 = Agree somewhat
-> 6 = Agree
-> 7 = Strongly agree
+- 1 = Strongly disagree
+- 2 = Disagree
+- 3 = Disagree somewhat
+- 4 = Neutral
+- 5 = Agree somewhat
+- 6 = Agree
+- 7 = Strongly agree
 
 ---
 
@@ -101,12 +101,12 @@ Avoid:
 
 ---
 
-### Grading Criteria (10 points total)
+### Grading Criteria (20 points total)
 
-* Stage correctly identified and justified (2 pts)
-* Three well-written survey items (4 pts)
-* Clear connection to Erikson’s theory (3 pts)
-* Professional formatting and clarity (1 pt)
+* Stage correctly identified and justified (4 pts)
+* Three well-written survey items (10 pts)
+* Clear connection to Erikson’s theory (6 pts)
+
 
 ---
 
