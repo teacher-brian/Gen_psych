@@ -33,3 +33,5 @@ missed <- exam |>
   arrange(desc(pct_incorrect))
 
 print(missed, n = 100)
+
+sort(missed$question[missed$pct_incorrect>49.9] )
