@@ -1,8 +1,17 @@
-# read scores and missed questions to see which questions were very hard  
+# read scores and missed questions to see which questions were very hard
 
 library(tidyverse)
 
-exam <- read_csv("/home/brian/Documents/exams/Fall2026 Exam Performance/9am_consolidated_scores.csv")
+exam9am <- read_csv("/home/brian/Documents/exams/Fall2026 Exam Performance/9am_consolidated_scores.csv")
+exam11am <- read_csv("/home/brian/Documents/exams/Fall2026 Exam Performance/11am_consolidated_scores.csv")
+#exam1pm <- read_csv("/home/brian/Documents/exams/Fall2026 Exam Performance/1pm_consolidated_scores.csv")
+
+# add section field and rbind
+exam9am$section <- "h2"
+exam11am$section <- "h4"
+#exam1pm$section <- "h6"
+
+exam <- rbind(exam9am,exam11am)
 
 missed <- exam |>
   select(student_id, incorrect_questions) |>
@@ -16,4 +25,4 @@ missed <- exam |>
   ) |>
   arrange(desc(pct_incorrect))
 
-print(missed, n = 40)
+print(missed, n = 100)
