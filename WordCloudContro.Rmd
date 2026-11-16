@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
+library(kableExtra)
 ```
 
 ## Here is a raw list of entries by class:
@@ -24,4 +25,38 @@ df <- read.csv(file="wordCloudRaw.csv")
 ```{r}
 df$value
 ```
+
+List converted terms
+
+
+```{r}
+df$revised
+```
+
+# Count by group, dropping "NA"
+
+```{r}
+df |> group_by(class) |> filter(!is.na(revised)) |> tally()
+```
+
+
+```{r}
+df |> group_by(class) |> filter(!is.na(revised)) |> 
+  group_by(revised) |> tally() |> arrange(desc(n)) |> 
+  kable()
+```
+
+
+```{r}
+df |> group_by(class) |> filter(!is.na(revised)) |> 
+  group_by(revised) |> tally() |> filter(n>1) |> 
+  ggplot(aes(y=revised,x=n))+geom_bar(stat='identity')
+```
+```{r}
+
+df |> group_by(class) |> filter(!is.na(revised)) |> 
+  group_by(revised) |> tally() |> filter(n<2) |> 
+  kable()
+```
+
 
