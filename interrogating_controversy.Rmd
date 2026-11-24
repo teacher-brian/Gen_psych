@@ -52,6 +52,8 @@ Tip: have a system to track your progress so that when you come back to this wor
 
 Sometimes it's not obvious.  Sometimes claims are implicit.   And that means time spent getting the claim out is worthwhile.
 
+## Example
+
 As an example, consider the claim that new gun laws should not be allowed because laws won't stop gun violence. 
 
 On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
@@ -60,4 +62,10 @@ Since laws can't prevent 100% of undesirable behavior then we should not enact t
 
 This is a type of false dichotomy.  If a law isn't 100% effective we should do nothing.
 
-That's implied and not obvious
+That's implied and not obvious.
+
+Being able to detect those sort of things take time, practice, and expertise. My example is somewhat advanced.
+
+## Beginning with a claim
+
+
