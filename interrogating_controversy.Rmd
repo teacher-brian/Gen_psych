@@ -56,4 +56,8 @@ As an example, consider the claim that new gun laws should not be allowed becaus
 
 On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
 
-Since laws 
+Since laws can't prevent 100% of undesirable behavior then we should not enact the law.
+
+This is a type of false dichotomy.  If a law isn't 100% effective we should do nothing.
+
+That's implied and not obvious
