@@ -29,7 +29,7 @@ biblio-style: apalike
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-
+# Beginnings
 
 Starting a process, a workflow of thinking, about a controversial idea is time consuming and frustrating.  
 
@@ -48,3 +48,12 @@ I think this is normal.  I think it's common.
 Tip: have a system to track your progress so that when you come back to this work (next week, month, whenever), you don't waste a lot of time getting caught up to speed. call out to niklas lumen
 
 
+# Identifying the claim
+
+Sometimes it's not obvious.  Sometimes claims are implicit.   And that means time spent getting the claim out is worthwhile.
+
+As an example, consider the claim that new gun laws should not be allowed because laws won't stop gun violence. 
+
+On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
+
+Since laws 
