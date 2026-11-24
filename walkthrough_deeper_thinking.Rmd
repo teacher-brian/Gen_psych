@@ -7,7 +7,7 @@ output: slidy_presentation
 ---
 # Pattern of presentation
 ```{r packages, echo=F}
-library(tweetrmd)
+#library(tweetrmd)
 ```
 
 ```{block type='blueBackground'}
@@ -115,4 +115,4 @@ Get in the habit I've asking yourself some questions (and find new questions to 
 
 Does context matter in the sciences?  If you think not, check out this twitter thread by a very witty statistician, Kareem Carr:
 
-`r include_tweet("https://twitter.com/kareem_carr/status/1289724475609501697")`
+<!-- `r include_tweet("https://twitter.com/kareem_carr/status/1289724475609501697")` -->
