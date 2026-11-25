@@ -82,18 +82,6 @@ That's implied and not obvious.
 
 Being able to detect those sort of things take time, practice, and expertise in relevant content.
 
-### Video Games and aggression
-
-
-Here is how a student might begin with the topic **video games and aggression**. This is only a model of the *kinds* of answers expected. 
-
-- **Step 1 (question):** "Does playing violent video games make teenagers more aggressive in real life?"
-- **Step 2 (assumption):** "I assume that kids who play a lot of violent games must be getting something out of it that others don't. I haven't checked this."
-- **Step 3 (clarifying):** "Aggression" could mean hitting someone, angry thoughts, or a yelling match. A lab measure and a school discipline record are very different things.
-- **Step 4 (comparison groups):** The obvious comparison is gamers vs. non-gamers. Other possibilities: the same teens before and after they start playing; teens who play non-violent games; teens who play violent games but have calm home lives.
-
-Notice how the choice of comparison group changes what the question even means.
-
 
 ### Transgirls in sports
 
@@ -110,7 +98,7 @@ Washington State, along with several others, recently passed voter initiatives o
 
 What is implicit in this law? There might be many things. It could include prejudice, it could include beliefs about what is meant by gender vs sex; it could include assumptions about athletic advantages available to those assigned the male sex at birth compared to those assigned female; it can also include assumptions that people who transition are a type of sexual predator. There may be assumptions and beliefs of which I am unaware. 
 
-## A simple list, a brain storm
+#### A simple list, a brain storm
 
 Make a list of what is going on, just for starters:
 
@@ -129,7 +117,7 @@ For example, I might believe that pedestrians should 100% of the time be safe to
 
 So I'm wanting to point out that maybe we can avoid the "shoulds" and "oughts" about controversial ideas and shifting towards something that can be quantified. 
 
-## Constellation of issues
+#### Constellation of issues
 
 Back to the list that I've started:
 
@@ -156,7 +144,7 @@ For now I'm going to pivot towards something I very much want students to apprec
 
 Compared to what?  trans-girls are stronger compared to what? 
 
-## Compared to what?
+#### Compared to what?
 
 This is question that is actually an intellectual super-power.  Because it has the ability to frame your thinking, the thinking of others.  
 
@@ -226,10 +214,22 @@ In other words, I know first hand that women might actually have a very large ra
 
 But this is my suspicion.  I would need to go into this more deeply to discover what is reasonable. 
 
-## Comparison
+#### Comparison
 
 So, I want to know the muscle density of all cis-girls in a given sport, say basketball, and then find out the muscle density of a trans-girl playing girls basketball. My hunch is that they'd not be an outlier. Still just a hunch. 
 
+
+### Video Games and aggression
+
+
+Here is how a student might begin with the topic **video games and aggression**. This is only a model of the *kinds* of answers expected. 
+
+- **Step 1 (question):** "Does playing violent video games make teenagers more aggressive in real life?"
+- **Step 2 (assumption):** "I assume that kids who play a lot of violent games must be getting something out of it that others don't. I haven't checked this."
+- **Step 3 (clarifying):** "Aggression" could mean hitting someone, angry thoughts, or a yelling match. A lab measure and a school discipline record are very different things.
+- **Step 4 (comparison groups):** The obvious comparison is gamers vs. non-gamers. Other possibilities: the same teens before and after they start playing; teens who play non-violent games; teens who play violent games but have calm home lives.
+
+Notice how the choice of comparison group changes what the question even means.
 
 
 # How the assignment will Work
