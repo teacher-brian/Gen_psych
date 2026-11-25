@@ -17,7 +17,7 @@ output:
     css: style.css
     number_sections: false
     toc: true
-    toc_depth: 6
+    toc_depth: 4
     toc_float: true
   pdf_document:
     toc: true
@@ -241,7 +241,7 @@ The steps are not a straight line. Real investigators loop back all the time. Wh
 
 
 
-## Step 0: Topic Proposal (due before you begin)
+# Step 0: Topic Proposal (due before you begin)
 
 **Your topic:**
 
@@ -274,7 +274,7 @@ The steps are not a straight line. Real investigators loop back all the time. Wh
 
 **Instructor comments:**
 
-## Step 1: Identify the Intellectual Problem
+# Step 1: Identify the Intellectual Problem
 
 *Focus standards: Significance, Clarity | Attitude: Curiosity*
 
@@ -288,7 +288,7 @@ The steps are not a straight line. Real investigators loop back all the time. Wh
 
 *Stuck? Try finishing this sentence: "Some people say \_\_\_, but other people say \_\_\_, and I want to know \_\_\_."*
 
-## Step 2: Externalize Your Thinking
+# Step 2: Externalize Your Thinking
 
 *Focus standards: Clarity, Depth | Attitudes: Curiosity, Humility*
 
@@ -307,7 +307,7 @@ Then underline **one assumption you have not actually checked**.
 
 *Stuck? Pretend you're explaining the issue to a friend who disagrees with you.*
 
-## Step 3: Clarify Concepts
+# Step 3: Clarify Concepts
 
 *Focus standards: Precision, Clarity*
 
@@ -321,7 +321,7 @@ Then underline **one assumption you have not actually checked**.
 
 *Stuck? Ask: "If a researcher had to measure this, what exactly would they count or record?"*
 
-## Step 4: Develop Working Hypotheses
+# Step 4: Develop Working Hypotheses
 
 *Focus standards: Logic, Breadth*
 
@@ -363,7 +363,7 @@ Which attitude was tested most this week? What was the situation, and what did y
 
 *Submit Steps 0 to 4 and this attitude check at the end of Week 1.*
 
-## Step 5: Locate and Examine Evidence
+# Step 5: Locate and Examine Evidence
 
 *Focus standards: Accuracy, Relevance, Depth | Attitudes: Patience, Persistence*
 
@@ -389,7 +389,7 @@ Which attitude was tested most this week? What was the situation, and what did y
 
 **Your response:**
 
-## Step 6: Test and Revise Your Hypotheses
+# Step 6: Test and Revise Your Hypotheses
 
 *Focus standards: Logic, Fairness, Breadth | Attitude: Humility*
 
@@ -407,7 +407,7 @@ Which attitude was tested most this week? What was the situation, and what did y
 
 **Your response:**
 
-## Step 7: Reach a Sufficient Understanding
+# Step 7: Reach a Sufficient Understanding
 
 *Focus standards: Depth, Significance | Attitude: Tolerance for ambiguity*
 
@@ -421,7 +421,7 @@ Circle one: **Resolved / Partly resolved / Not resolved**
 
 **Your response:**
 
-## Step 8: Communicate Your Findings
+# Step 8: Communicate Your Findings
 
 *Focus standards: Clarity, Precision, Logic, Fairness*
 
@@ -436,7 +436,7 @@ Circle one: **Resolved / Partly resolved / Not resolved**
 
 **Your response:**
 
-## Step 9: Preserve and Connect Your Work
+# Step 9: Preserve and Connect Your Work
 
 *Focus standards: Accuracy, Breadth*
 
