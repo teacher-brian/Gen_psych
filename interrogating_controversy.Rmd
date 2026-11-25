@@ -2,31 +2,39 @@
 title: "Interrogating a controversy"
 author: "Brian C. Holt"
 date: "`r Sys.Date()`"
-output: 
+output:
   html_document:
     config:
-      search: yes
+      search: true
       toc:
-        after: |
-          <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
+        after: "<!-- <li><a href=\"https://github.com/rstudio/bookdown\" target=\"blank\">Published
+          with bookdown</a></li> -->\n"
         before: |
           <li><a href="./">General Psychology Fall 2026</a></li>
-        scroll_highlight: yes
+        scroll_highlight: true
       toolbar:
         position: fixed
-    css: "style.css"
-    number_sections: no
-    toc: yes
+    css: style.css
+    number_sections: false
+    toc: true
     toc_depth: 6
-    toc_float: yes
+    toc_float: true
+  pdf_document:
+    toc: true
+    toc_depth: '6'
+  word_document:
+    toc: true
+    toc_depth: '6'
 description: walk through in thinking about controversial claims
-link-citations: yes
-bibliography: [General_references.bib]
+link-citations: true
+bibliography: General_references.bib
 biblio-style: apalike
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+knitr::opts_chunk$set(echo = TRUE,warning = F,message = F)
+library(dagitty)
+
 ```
 
 # Beginnings
@@ -56,7 +64,7 @@ Sometimes it's not obvious.  Sometimes claims are implicit.   And that means tim
 
 As an example, consider the claim that new gun laws should not be allowed because laws won't stop gun violence. 
 
-On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
+<!-- On the one hand, there is a clear claim about gun laws, but what is implicit might be more important: -->
 
 Since laws can't prevent 100% of undesirable behavior then we should not enact the law.
 
@@ -80,7 +88,7 @@ There is a huge amount of issues wrapped in this topic.  At first it might seem 
 
 What is implicit in the claim that girls who've transitioned should not participate in cis-girl sports (notice I'm adding cis as a way to increase precision)?
 
-Make a list of what is going on, for starters:
+Make a list of what is going on, just for starters:
 
 1. trans-girls are stronger
 2. trans-girls are faster
@@ -88,15 +96,37 @@ Make a list of what is going on, for starters:
 
 Notice that I'm avoiding some moral questions about treating different groups of people differently. 
 
-That would create other sets of questions.  
+That would create other sets of questions.  Valid questions. But often it is useful to think about non-moral issues first because of practical needs.   For example, I might believe that pedestrians should 100% of the time be safe to walk on sidewalks, crosswalks, or even streets. But how likely will 100% be attained?  I think we should have policy that leads to harm reduction, which might include things like streets designed for slower speeds, traffic cameras around intersections and dangerous streets, perhaps even engine governors that prevent high speeds. But it's unlikely to prevent 100% of pedestrian injuries.
 
-But I hope at this point you might be recognizing that these questions represent a sort of semantic constellation of ideas. 
+
+So I'm wanting to point out that maybe we can avoid the "shoulds" and "oughts" about controversial ideas and shifting towards something that can be quantified. 
+
+## Constellation of issues
+
+Back to the list that I've started:
+
+1. trans-girls are stronger
+2. trans-girls are faster
+3. trans-girls have more muscle/bone density
+
+I hope at this point you might be recognizing that these questions represent a sort of semantic constellation of ideas. 
+
+```{r,echo=F}
+sports <- dagitty("dag{
+                   transgirls -> stronger
+                   transgirls -> faster
+                   transgirls -> more_dense}
+                   ")
+
+plot(sports)
+
+```
 
 For now I'm going to pivot towards something I very much want students to appreciate:
 
 Compared to what?  trans-girls are stronger compared to what? 
 
-## compared to what?
+## Compared to what?
 
 This is question that is actually an intellectual super-power.  Because it has the ability to frame your thinking, the thinking of others.  
 
