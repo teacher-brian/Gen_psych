@@ -43,28 +43,36 @@ Starting a process, a workflow of thinking, about a controversial idea is time c
 
 There are a host of psychological obstacles to just get going.  
 
-tip:  notice when you start to tune out of your work, when you go to your phone to "self medicate" on social media:  What were you just reading before that?  What did your mind do before you grabbed a distraction device?  Track those things because you might discover an edge for you in regards to intellectual work. 
+```{block,type='blueBackground'}
+tip:  notice when you start to tune out of your work, when you go to your phone to "self medicate" on social media:  What were you just reading before that?  What did your mind do before you grabbed a distraction device?  
+
+Track those thoughts because you might discover an edge for you in regards to intellectual work. For me, sometimes I have too many thoughts at once and I feel overwhelmed so I want to distract myself.
+
+```
+
+When you start this work, begin with some acceptance that you'll encounter blockages, frustrations, dead ends. Brute forcing your way through will not typically lead to good work or an enjoyable process.  
 
 
-So, when you start this work, begin with some acceptance that you'll encounter blockages, frustrations, dead ends. Brute forcing your way through will not typically lead to satisfaction.  
 
 
-I'm not sure the best way to think about it, to be honest. I usually find mysefl working in spurts...I'll have a lot of motivation and emotion, will get through it, and then have to just stop.  
+I'm not sure the best way to think about it, to be honest. I usually find myself working in spurts...I'll have a lot of motivation and emotion, will get through it, and then have to just stop.  
 
-I think this is normal.  I think it's common.  
 
-Tip: have a system to track your progress so that when you come back to this work (next week, month, whenever), you don't waste a lot of time getting caught up to speed. call out to niklas lumen
-
+```{block,type='blueBackground'}
+Tip: have a system to track your progress so that when you come back to this work (next week, month, after a social media distraction), you don't waste a lot of time getting caught up to speed. call out to Niklas Luhmann.
+```
 
 # Identifying the claim
 
 Sometimes it's not obvious.  Sometimes claims are implicit.   And that means time spent getting the claim out is worthwhile.
 
-## Example
+## Examples
+
+### Gun laws
 
 As an example, consider the claim that new gun laws should not be allowed because laws won't stop gun violence. 
 
-<!-- On the one hand, there is a clear claim about gun laws, but what is implicit might be more important: -->
+On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
 
 Since laws can't prevent 100% of undesirable behavior then we should not enact the law.
 
@@ -72,21 +80,39 @@ This is a type of false dichotomy.  If a law isn't 100% effective we should do n
 
 That's implied and not obvious.
 
-Being able to detect those sort of things take time, practice, and expertise. My example is somewhat advanced.
+Being able to detect those sort of things take time, practice, and expertise.
 
-## Beginning with a claim
-
-
-Don't let this turn into a quick splattering of whatever you think of. 
-
-Let me try to start with something that has gotten me piqued:  trans-girls in girl highschool sports.
-
-There is a huge amount of issues wrapped in this topic.  At first it might seem simple but there are nuances. 
+### Video Games and agression
 
 
-# Where to begin
+Here is how a student might begin with the topic **video games and aggression**. This is only a model of the *kinds* of answers expected. 
 
-What is implicit in the claim that girls who've transitioned should not participate in cis-girl sports (notice I'm adding cis as a way to increase precision)?
+- **Step 1 (question):** "Does playing violent video games make teenagers more aggressive in real life?"
+- **Step 2 (assumption):** "I assume that kids who play a lot of violent games must be getting something out of it that others don't. I haven't checked this."
+- **Step 3 (clarifying):** "Aggression" could mean hitting someone, angry thoughts, or a yelling match. A lab measure and a school discipline record are very different things.
+- **Step 4 (comparison groups):** The obvious comparison is gamers vs. non-gamers. Other possibilities: the same teens before and after they start playing; teens who play non-violent games; teens who play violent games but have calm home lives.
+
+Notice how the choice of comparison group changes what the question even means.
+
+
+### Transgirls in sports
+
+```{block,type='blueBackground'}
+Don't let this turn into a quick splattering of whatever you think of. It's okay to _start_ that way; it gets messy fast and I would encourage you to embrace that, but just don't end that way.  You'll want to communicate what you think in a more logical way by the end.
+
+```
+
+#### Background
+
+Washington State, along with several others, recently passed voter initiatives or laws banning trans-girls in girl high school sports. In Washington, according to [Wikipedia](https://en.wikipedia.org/wiki/2026_Washington_Initiative_638){target=”_blank”}:
+
+>The measure requires students participating in K–12 girls' or women's sports to submit medical documentation that verifies their "biological sex" as female.
+
+What is implicit in this law? There might be many things. It could include prejudice, it could include beliefs about what is meant by gender vs sex; it could include assumptions about athletic advantages available to those assigned the male sex at birth compared to those assigned female; it can also include assumptions that people who transition are a type of sexual predator. There may be assumptions and beliefs of which I am unaware. 
+
+
+
+in the claim that girls who've transitioned should not participate in cis-girl sports (notice I'm adding cis as a way to increase precision)?
 
 Make a list of what is going on, just for starters:
 
@@ -111,7 +137,7 @@ Back to the list that I've started:
 
 I hope at this point you might be recognizing that these questions represent a sort of semantic constellation of ideas. 
 
-```{r,echo=F}
+```{r,echo=F,fig.width=3, fig.height=2}
 sports <- dagitty("dag{
                    transgirls -> stronger
                    transgirls -> faster
@@ -134,6 +160,322 @@ And it's hard to find the right comparison.  There may be many comparisons.
 
 
 
+## How This Works
+
+Over two weeks you will investigate one controversial question using nine steps of inquiry, practicing the same habits that psychologists and other scientists rely on. You do not need to be an expert, and you do not need to "win" the argument. You need to think carefully, look at real evidence, and show how and why your thinking changed.
+
+The steps are not a straight line. Real investigators loop back all the time. When new evidence changes your mind, return to an earlier step and record it in your **Return Loop Log**. Those entries are some of the best evidence of good thinking in this workbook.
 
 
 
+
+## Step 0: Topic Proposal (due before you begin)
+
+**Your topic:**
+
+**Your question (one sentence, ending in a question mark):**
+
+**Who disagrees about this, and what do they disagree about?**
+
+**What is your gut feeling right now?** (This is not a commitment. It is a starting point you will revisit.)
+
+**Can evidence help? Check each one that is true:**
+
+- [ ] I can imagine data or research that would count for or against at least one answer.
+- [ ] At least one part of the question can be measured or observed.
+- [ ] Reasonable people really do disagree about it.
+- [ ] I am willing to follow the evidence even if it changes my mind.
+- [ ] The question is about people in general, not just a personal story or one person's case.
+
+**Good topics vs. topics that need reshaping:**
+
+| Works well | Needs reshaping |
+| --- | --- |
+| Do violent video games increase aggression? | Are violent video games immoral? (a values question) |
+| Is ADHD overdiagnosed? | Is my cousin's ADHD real? (one case) |
+| Does spanking harm children's development? | Is spanking wrong? (values question; try the evidence version at left) |
+| Do "learning styles" improve learning? | What is the best way to learn? (too broad) |
+
+*More topic ideas: social media and teen well-being; lie detector reliability; mindfulness for anxiety; birth order and personality; whether antidepressants outperform placebos.*
+
+**Instructor decision:** ☐ Approved  ☐ Revise and resubmit
+
+**Instructor comments:**
+
+## Step 1: Identify the Intellectual Problem
+
+*Focus standards: Significance, Clarity | Attitude: Curiosity*
+
+**What you do:** Turn a topic into a question you can actually investigate.
+
+1. Restate your question in your own words.
+2. What is confusing, contradictory, or worth investigating about it? (For example: two respectable sources say opposite things.)
+3. Why does it matter, and to whom?
+
+**Your response:**
+
+*Stuck? Try finishing this sentence: "Some people say \_\_\_, but other people say \_\_\_, and I want to know \_\_\_."*
+
+## Step 2: Externalize Your Thinking
+
+*Focus standards: Clarity, Depth | Attitudes: Curiosity, Humility*
+
+**What you do:** Get your thoughts out of your head and onto the page, mess and all. Ideas feel different once you can see them from the outside. This record is also what you will compare against at the end.
+
+Set a timer for five minutes and write without stopping:
+
+- What do I think the answer is?
+- Where did I learn what I think? (Family, friends, social media, a class?)
+- What am I assuming?
+- What am I unsure about?
+
+Then underline **one assumption you have not actually checked**.
+
+**Your response:**
+
+*Stuck? Pretend you're explaining the issue to a friend who disagrees with you.*
+
+## Step 3: Clarify Concepts
+
+*Focus standards: Precision, Clarity*
+
+**What you do:** Controversies often hide in word meanings. Two people can use the same word and mean different things. Choose two or three key terms in your question (for example, "aggression," "addiction," "well-being," "overdiagnosed"). For each, write your definition and at least one alternative meaning or way it could be measured.
+
+| Term | My definition | An alternative meaning or measure | How the choice could change the answer |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+
+*Stuck? Ask: "If a researcher had to measure this, what exactly would they count or record?"*
+
+## Step 4: Develop Working Hypotheses
+
+*Focus standards: Logic, Breadth*
+
+**What you do:** A hypothesis is an explanation you can test, not a conclusion you defend. Write at least **three** possible answers, including one you disagree with.
+
+| Hypothesis | Why might this be true? | What would I expect to see if it were true? | What would count against it? |
+| --- | --- | --- | --- |
+| A: |  |  |  |
+| B: |  |  |  |
+| C: |  |  |  |
+
+### Compared to What? (Comparison-Group Worksheet)
+
+A claim about a group only means something when you know what it is being compared to. Creative thinking about comparison groups is one of the most powerful skills in psychology.
+
+1. **The claim:** Complete this: "People who \_\_\_\_\_\_ differ from people who \_\_\_\_\_\_ in terms of \_\_\_\_\_\_."
+2. **Who is the comparison group** in that claim, and why was that group chosen?
+3. **Name at least three other comparison groups** that could change the picture. Use the idea bank below.
+4. **Who might be missing** from the data (people who dropped out, were never asked, or never sought help)?
+5. **A different explanation:** Could something else (a third factor) cause both of the things being linked?
+6. **What would you expect to see** under each hypothesis if you used each comparison group?
+
+**Idea bank for comparison groups:**
+
+- The same people at a different time (before and after)
+- People who are similar in every way except the factor you are studying
+- People who have the outcome vs. people who do not
+- People from a different age group, culture, or time period
+- People who received a different treatment, or no treatment
+- "Doing nothing" vs. "doing something else"
+
+**Your response:**
+
+### Checkpoint 1 Attitude Check
+
+Which attitude was tested most this week? What was the situation, and what did you do?
+
+**Your response:**
+
+*Submit Steps 0 to 4 and this attitude check at the end of Week 1.*
+
+## Step 5: Locate and Examine Evidence
+
+*Focus standards: Accuracy, Relevance, Depth | Attitudes: Patience, Persistence*
+
+**What you do:** Find real sources and judge how much each one should change your mind. Find at least **four sources**, and at least **two must be original research** (the study itself, not a news story or blog about a study). Use the library databases or Google Scholar. If a source is blocked, try another route (a different database, the abstract, a librarian) before giving up. If you cannot reach it, say so.
+
+**Source quick-check for each source:**
+
+- Who wrote it, and what are their qualifications?
+- Is this the original research, or someone's summary of it?
+- Who paid for it, and could that matter?
+- How many people were studied, and who were they?
+- What was the comparison group?
+- Do other sources agree?
+
+| Source (citation) | Type (study, review, news, website) | What it found (your own words) | Who was studied and what was the comparison group | Concerns or limits | Relevance to my question (high, medium, low) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+**What surprised you in the sources?**
+
+**Your response:**
+
+## Step 6: Test and Revise Your Hypotheses
+
+*Focus standards: Logic, Fairness, Breadth | Attitude: Humility*
+
+**What you do:** Compare the evidence to what each hypothesis predicted, and be tougher on the one you like best.
+
+| Hypothesis | Supported, weakened, or unchanged? | Which evidence led me there? |
+| --- | --- | --- |
+| A: |  |  |
+| B: |  |  |
+| C: |  |  |
+
+1. What is the strongest evidence **against the answer you prefer**? Describe it fairly, as if you were its defender.
+2. Where might your own beliefs have affected how you read the evidence?
+3. Rewrite your best hypothesis based on what you learned. (If nothing needed to change, explain why you think that is.)
+
+**Your response:**
+
+## Step 7: Reach a Sufficient Understanding
+
+*Focus standards: Depth, Significance | Attitude: Tolerance for ambiguity*
+
+**What you do:** Decide whether you have enough understanding for now. "Sufficient" does not mean "finished." Many real questions stay partly open.
+
+Circle one: **Resolved / Partly resolved / Not resolved**
+
+1. Explain your choice.
+2. What is still unknown or disputed?
+3. If you had two more weeks, what would you look at next?
+
+**Your response:**
+
+## Step 8: Communicate Your Findings
+
+*Focus standards: Clarity, Precision, Logic, Fairness*
+
+**What you do:** Write 300 to 400 words for a classmate who has not studied this topic. Include:
+
+- Your question and why it matters
+- What the evidence shows, with at least two sources named
+- Your conclusion, with an honest level of confidence
+- How your thinking changed from Step 2
+
+**Before you submit, check yourself:** Would someone who disagrees with your conclusion say you described their view fairly?
+
+**Your response:**
+
+## Step 9: Preserve and Connect Your Work
+
+*Focus standards: Accuracy, Breadth*
+
+**What you do:** Leave your work in a form that you (or someone else) could pick up a year from now.
+
+1. **Reference list** (use the citation style your instructor specifies): \[Instructor: specify style\]
+2. **Three tags** you would use to find this work again:
+3. **Connections:** Does this topic link to anything else you have studied in this class or elsewhere?
+4. **A question for later:** One question this investigation raised that you could pursue another time.
+
+**Your response:**
+
+## Return Loop Log
+
+Every time new information sends you back to an earlier step, record it. Even a small change counts.
+
+| Date | Step I was on | What I learned | Step I returned to | What changed in my thinking |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## Session Attitude Log
+
+After each session, record one moment when an attitude was tested.
+
+| Session | Attitude | What happened | What I did |
+| --- | --- | --- | --- |
+| 1 |  |  |  |
+| 2 |  |  |  |
+| 3 |  |  |  |
+| 4 |  |  |  |
+| 5 |  |  |  |
+
+## Final Reflection
+
+### Standards self-assessment
+
+Rate yourself on each standard from 1 (needs work) to 4 (strong), and give one piece of evidence from this workbook.
+
+| Standard | Rating (1 to 4) | Evidence from my work |
+| --- | --- | --- |
+| Clarity |  |  |
+| Accuracy |  |  |
+| Precision |  |  |
+| Relevance |  |  |
+| Depth |  |  |
+| Breadth |  |  |
+| Logic |  |  |
+| Significance |  |  |
+| Fairness |  |  |
+
+### Reflection questions
+
+1. Which **standard** did you improve on most during this project? How can you tell?
+2. Which **attitude** was hardest for you, and what would help next time?
+3. Compare your Step 2 gut feeling to your Step 8 conclusion. What changed, and what did not?
+4. Which comparison group changed your thinking most, and why?
+5. What would you do differently if you started this project again?
+
+**Your response:**
+
+
+
+
+
+# Appendix
+## Your Thinking Tools
+
+### Nine Standards (how good thinking is judged)
+
+Each step below names two or three **focus standards**. Use the full list as a checklist whenever you review your own work.
+
+| Standard | Ask yourself | A warning sign |
+| --- | --- | --- |
+| Clarity | Could someone else understand this? Can I say it in plain words? | I'm using words I can't define |
+| Accuracy | Is this true? How do I know? | I'm repeating something I heard but never checked |
+| Precision | Am I specific enough (names, numbers, exact wording)? | I wrote "a lot," "many," or "studies show" |
+| Relevance | Does this actually bear on my question? | It's interesting, but it doesn't help answer the question |
+| Depth | Have I looked beneath the surface at complications and exceptions? | My answer would fit on a bumper sticker |
+| Breadth | Have I considered other viewpoints, other groups, other explanations? | I only read sources that agree with me |
+| Logic | Do my conclusions follow from my evidence? | I'm jumping from "related to" to "causes" |
+| Significance | Is this the most important part of the question? Why does it matter? | I'm stuck on a small detail |
+| Fairness | Am I holding all views, including ones I dislike, to the same standard? | I'm harsher on evidence I don't like |
+
+### Five Attitudes (how good thinkers behave)
+
+Attitudes are harder to "perform" than skills, so you will reflect on them instead. After each session, jot down one moment when an attitude was tested.
+
+| Attitude | What it looks like | Where you'll likely feel it |
+| --- | --- | --- |
+| Curiosity | Wanting to know more, asking "why?" and "what if?" | Steps 1 and 2 |
+| Patience | Taking time to read and think instead of grabbing the first answer | Step 5 |
+| Persistence | Continuing when a source is blocked or hard to read | Step 5 |
+| Humility | Being willing to find out I was wrong | Step 6 |
+| Tolerance for ambiguity | Living with "it depends" and "we don't know yet" | Step 7 |
+
+
+
+# Schedule (about 5 hours total)
+
+| When | Session | Steps | Time |
+| --- | --- | --- | --- |
+| Before you start | Topic approval | Step 0 | 20 min |
+| Week 1 | Session 1 | Steps 1 to 3 | 45 min |
+| Week 1 | Session 2 | Step 4 | 45 min |
+| **End of Week 1** | **Checkpoint 1** | Submit Steps 0 to 4 and the midpoint attitude check |  |
+| Week 2 | Session 3 | Step 5 | 60 to 90 min |
+| Week 2 | Session 4 | Steps 6 and 7 | 45 min |
+| Week 2 | Session 5 | Steps 8 and 9, final reflection | 60 min |
+| **End of Week 2** | **Final submission** | The complete workbook |  |
+
+Spread your sessions across different days. Your thinking improves when you sleep on it.
