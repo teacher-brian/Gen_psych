@@ -74,15 +74,15 @@ As an example, consider the claim that new gun laws should not be allowed becaus
 
 On the one hand, there is a clear claim about gun laws, but what is implicit might be more important:
 
-Since laws can't prevent 100% of undesirable behavior then we should not enact the law.
+>Since laws can't prevent 100% of undesirable behavior then we should not enact the law.
 
 This is a type of false dichotomy.  If a law isn't 100% effective we should do nothing.
 
 That's implied and not obvious.
 
-Being able to detect those sort of things take time, practice, and expertise.
+Being able to detect those sort of things take time, practice, and expertise in relevant content.
 
-### Video Games and agression
+### Video Games and aggression
 
 
 Here is how a student might begin with the topic **video games and aggression**. This is only a model of the *kinds* of answers expected. 
@@ -110,9 +110,7 @@ Washington State, along with several others, recently passed voter initiatives o
 
 What is implicit in this law? There might be many things. It could include prejudice, it could include beliefs about what is meant by gender vs sex; it could include assumptions about athletic advantages available to those assigned the male sex at birth compared to those assigned female; it can also include assumptions that people who transition are a type of sexual predator. There may be assumptions and beliefs of which I am unaware. 
 
-
-
-in the claim that girls who've transitioned should not participate in cis-girl sports (notice I'm adding cis as a way to increase precision)?
+## A simple list, a brain storm
 
 Make a list of what is going on, just for starters:
 
@@ -120,9 +118,13 @@ Make a list of what is going on, just for starters:
 2. trans-girls are faster
 3. trans-girls have more muscle/bone density
 
-Notice that I'm avoiding some moral questions about treating different groups of people differently. 
+Notice that I'm avoiding some moral questions about treating different groups of people differently because those create other types of difficult questions.  Valid questions. But often it is useful to think about non-moral issues first because of practical needs.  
 
-That would create other sets of questions.  Valid questions. But often it is useful to think about non-moral issues first because of practical needs.   For example, I might believe that pedestrians should 100% of the time be safe to walk on sidewalks, crosswalks, or even streets. But how likely will 100% be attained?  I think we should have policy that leads to harm reduction, which might include things like streets designed for slower speeds, traffic cameras around intersections and dangerous streets, perhaps even engine governors that prevent high speeds. But it's unlikely to prevent 100% of pedestrian injuries.
+Value based arguments often fail to persuade because people identify too strongly with the source of their valuing system.  And if they have to change their opinion about a value, they simply won't because it would mean they'd have to jettison large aspects of their own identity.  
+
+Focusing on practical issues can avoid that.  People can keep their values separate and make decisions based on reason, facts, consequences. 
+
+For example, I might believe that pedestrians should 100% of the time be safe to walk on sidewalks, crosswalks, or even streets. But how likely will 100% be attained?  I think we should have policy that leads to harm reduction, which might include things like streets designed for slower speeds, traffic cameras around intersections and dangerous streets, perhaps even engine governors that prevent high speeds. But it's unlikely to prevent 100% of pedestrian injuries.  That may be horrible (knowing and accepting that innocent people will die) but finding practical points of agreement will reduce the number of pedestrian injuries and deaths. 
 
 
 So I'm wanting to point out that maybe we can avoid the "shoulds" and "oughts" about controversial ideas and shifting towards something that can be quantified. 
@@ -148,6 +150,8 @@ plot(sports)
 
 ```
 
+And these maybe branch into other related concepts. 
+
 For now I'm going to pivot towards something I very much want students to appreciate:
 
 Compared to what?  trans-girls are stronger compared to what? 
@@ -157,6 +161,11 @@ Compared to what?  trans-girls are stronger compared to what?
 This is question that is actually an intellectual super-power.  Because it has the ability to frame your thinking, the thinking of others.  
 
 And it's hard to find the right comparison.  There may be many comparisons. 
+
+Let me give an example: If a transgirl is thought to have more dense muscles and bones than a cis-girl, how would we evaluate that claim?  What comparisons are meaningful?
+
+My mind goes here: What is the distribution of muscle density for transgirls, and what is the muscle density for cis-girls in that sport, and then does an individual transgirl actually have more density then _all_ of the cis-girls in that sport? 
+
 
 
 
