@@ -166,10 +166,73 @@ Let me give an example: If a transgirl is thought to have more dense muscles and
 
 My mind goes here: What is the distribution of muscle density for transgirls, and what is the muscle density for cis-girls in that sport, and then does an individual transgirl actually have more density then _all_ of the cis-girls in that sport? 
 
+```{r,echo=F,fig.width=6,fig.height=4}
+library(ggplot2)
+
+# ---- Parameters: REPLACE with values from your source ----
+# Example metric: muscle radiodensity (Hounsfield units, from CT/pQCT)
+params <- data.frame(
+  group = c("Cis girl athletes", "Trans girl athletes"),
+  mean  = c(49, 50),   # placeholder means
+  sd    = c(5, 5)      # placeholder SDs
+)
+metric_label <- "Muscle density (HU)"   # change to match your units
+# -----------------------------------------------------------
+
+# Build the curves
+x <- seq(min(params$mean - 4 * params$sd),
+         max(params$mean + 4 * params$sd), length.out = 1000)
+
+curves <- do.call(rbind, lapply(seq_len(nrow(params)), function(i) {
+  data.frame(
+    x = x,
+    density = dnorm(x, params$mean[i], params$sd[i]),
+    group = params$group[i]
+  )
+}))
+
+# Overlap region (the minimum of the two densities)
+d1 <- dnorm(x, params$mean[1], params$sd[1])
+d2 <- dnorm(x, params$mean[2], params$sd[2])
+overlap <- data.frame(x = x, density = pmin(d1, d2))
+
+# Overlap coefficient and Cohen's d
+ovl <- sum(overlap$density) * (x[2] - x[1])
+pooled_sd <- sqrt(mean(params$sd^2))
+d <- diff(params$mean) / pooled_sd
+
+ggplot() +
+  geom_area(data = overlap, aes(x, density),
+            fill = "grey60", alpha = 0.4) +
+  geom_line(data = curves, aes(x, density, color = group),
+            linewidth = 1.2) +
+  geom_vline(xintercept = params$mean,
+             color = c("#D55E00", "#0072B2"),
+             linetype = "dashed", alpha = 0.6) +
+  scale_color_manual(values = c("#D55E00", "#0072B2")) +
+  labs(
+    title = "Theoretical Normal Distributions\n of Muscle Density",
+    #subtitle = sprintf("Overlap = %.1f%%   |   Cohen's d = %.2f", ovl * 100, d),
+    x = metric_label, y = "Density", color = NULL,
+    caption = "Curves are theoretical\n (assumed mean and SD),\n not observed data."
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "top")
+```
+
+My thought here is that I don't want to assume that all trans-girl athletes will be bigger, faster, stronger than all cis-girl athletes. And to be honest, I have some experience here: I played for a very small college basketball team at a community college.  When I finished and went on to WSU (not to play..I'm not that good), I had the privilege of playing pick up games from time to time with the mens and womens WSU teams.  The men were quick. That was what stood out.  But the women were some of the most solid and strong people I've ever met.  I was screened by a 6'3 woman and it caused in "crunch" in my body that I never have experienced playing against division 1 men or more competitively in high school or at the community college. 
+
+In other words, I know first hand that women might actually have a very large range of muscle density that likely is on par with any of the very few trans-girl athletes.
+
+But this is my suspicion.  I would need to go into this more deeply to discover what is reasonable. 
+
+## Comparison
+
+So, I want to know the muscle density of all cis-girls in a given sport, say basketball, and then find out the muscle density of a trans-girl playing girls basketball. My hunch is that they'd not be an outlier. Still just a hunch. 
 
 
 
-## How This Works
+# How the assignment will Work
 
 Over two weeks you will investigate one controversial question using nine steps of inquiry, practicing the same habits that psychologists and other scientists rely on. You do not need to be an expert, and you do not need to "win" the argument. You need to think carefully, look at real evidence, and show how and why your thinking changed.
 
